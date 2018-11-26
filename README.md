@@ -26,24 +26,14 @@ _(I'll keep creating new categories as I see fit)._
 10. [Agile and Software Crafting](#agile-and-software-crafting)
 11. [Programming and Computer Science](#programming-and-computer-science)
 12. [UX and design](#ux-and-design)
+13. [Leadership](#leadership)
 
 ---
 
 # Still unclassified :)
-- [Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow](https://www.youtube.com/watch?v=xqT8e6_yzLg).
 - [You're Not Unmotivated - You're Afraid](https://medium.com/personal-growth/youre-not-unmotivated-you-re-afraid-fef4273f339a).
-- [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
-- [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action).
-- [Celeste Headlee: 10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
-- [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae).
-- [Great Alternatives to Hamburger Menus](https://uxplanet.org/great-alternatives-to-hamburger-menus-d4c76d9414dd#.3ydxnkmih).
-- [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
-- [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
-- [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
 - [Compassionate—Yet Candid—Code Reviews](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
-- [¿Qué es un Senior Developer?](https://www.youtube.com/watch?v=Vp0mR0XUrGo).
-- [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
-- [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
+
 
 
 # Javascript
@@ -175,3 +165,18 @@ _(I'll keep creating new categories as I see fit)._
 - [Lean Inception](https://martinfowler.com/articles/lean-inception).
 - [Malas gráficas](http://youtu.be/dKJ2RAKWFGc?a).
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886).
+- [Great Alternatives to Hamburger Menus](https://uxplanet.org/great-alternatives-to-hamburger-menus-d4c76d9414dd#.3ydxnkmih).
+
+
+# Leadership
+- [Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow](https://www.youtube.com/watch?v=xqT8e6_yzLg).
+- [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
+- [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action).
+- [Celeste Headlee: 10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
+- [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
+- [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
+- [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
+- [¿Qué es un Senior Developer?](https://www.youtube.com/watch?v=Vp0mR0XUrGo).
+- [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
+- [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
+- [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae).
