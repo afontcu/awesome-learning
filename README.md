@@ -46,8 +46,6 @@ _(I'll keep creating new categories as I see fit)._
 - [The Principles of Kanban method](https://web.archive.org/web/20140114161522/http://www.djaa.com/principles-kanban-method).
 - [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1).
 - [REST vs. GraphQL: A Critical Review](https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7).
-- [The essence of story slicing in agile development](https://medium.com/@neil2killick/the-essence-of-story-slicing-in-agile-development-fc16a1226941).
-- [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/).
 - [A Quick Practical Example of JavaScript's Reduce Function](https://codeburst.io/a-quick-practical-example-of-javascripts-reduce-function-862b506d01a4).
 
 
@@ -58,8 +56,8 @@ _(I'll keep creating new categories as I see fit)._
 - [Vue state management from the ground up](https://hackernoon.com/vue-state-management-from-the-ground-up-a31eb87c668d) _(disclaimer: I wrote this post)_.
 - [Vuex + IDD: Part1](https://medium.com/coding-stones/vuex-idd-part1-4b81d4088e54).
 - [Desarrolla aplicaciones con VueJS](https://jdonsan.gitbooks.io/desarrolla-aplicaciones-con-vuejs/content/).
+- [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/).
 - [Introduction to Vue.js with Sarah Drasner](https://frontendmasters.com/courses/vue/).
-- [Netflix JavaScript Talks](https://www.youtube.com/watch?v=qouPzSryggk).
 - [Five years of PostCSS: State of the Union](https://evilmartians.com/chronicles/five-years-of-postcss-state-of-the-union).
 
 
@@ -90,7 +88,7 @@ _(I'll keep creating new categories as I see fit)._
 - [The benefits of learning how to code layouts with CSS](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css).
 - [Editorial Design and CSS Grid: Inspiration and examples](https://www.silocreativo.com/en/editorial-design-and-css-grid-inspiration-and-examples/).
 - [CSS Grid with Wes Bos](https://cssgrid.io/).
-- [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag).
+- [Designing with Grid](https://www.youtube.com/watch?v=t0b3uBoDkBs).
 - [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0).
 - [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/).
 - [Grid Projection Naming](https://www.kizu.ru/grid-projection-naming).
@@ -110,6 +108,10 @@ _(I'll keep creating new categories as I see fit)._
 - [Perceived Performance: The only kind that really matters](https://www.youtube.com/watch?v=USH4iPQ44LQ).
 - [Web Performance: Learn to Make Your Websites Load Fast with Webpack 4](https://frontendmasters.com/courses/performance-webpack/).
 - [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0).
+- [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+- [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+- [FaCSSt—CSS and Performance](https://www.youtube.com/watch?v=2Rn8an74khk)
+- [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html)
 
 
 # Accessibility
@@ -117,6 +119,8 @@ _(I'll keep creating new categories as I see fit)._
 - [Getting your priorities straight](https://www.youtube.com/watch?v=MZfZO9mTKpU).
 - [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/).
 - [The Web Accessibility Introduction I Wish I Had](https://dev.to/maxwell_dev/the-web-accessibility-introduction-i-wish-i-had-4ope).
+- [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
+- [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
 
 
 # Product Management
@@ -141,6 +145,8 @@ _(I'll keep creating new categories as I see fit)._
 - [Agile Tooth Fairy and top barrier for Agile adoption](https://tisquirrel.me/2015/03/02/agile-tooth-fairy-and-top-barrier-for-agile-adoption/).
 - [Why we moved from Scrum to Kanban](https://medium.com/skim-technologies/why-we-moved-from-scrum-to-kanban-b578d210ef8a).
 - [Como ser Agile Product Owner y no morir en el intento](https://inside.runroom.com/agile-product-owner-en-apuros/).
+- [The essence of story slicing in agile development](https://medium.com/@neil2killick/the-essence-of-story-slicing-in-agile-development-fc16a1226941).
+- [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae).
 
 
 # Programming and Computer Science
@@ -180,4 +186,4 @@ _(I'll keep creating new categories as I see fit)._
 - [¿Qué es un Senior Developer?](https://www.youtube.com/watch?v=Vp0mR0XUrGo).
 - [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
 - [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
-- [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae).
+- [Human Performance](https://www.youtube.com/watch?v=qouPzSryggk).
