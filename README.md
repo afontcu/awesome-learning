@@ -30,12 +30,6 @@ _(I'll keep creating new categories as I see fit)._
 
 ---
 
-# Still unclassified :)
-- [You're Not Unmotivated - You're Afraid](https://medium.com/personal-growth/youre-not-unmotivated-you-re-afraid-fef4273f339a).
-- [Compassionate—Yet Candid—Code Reviews](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
-
-
-
 # Javascript
 - [WTF is ES6, ES8, ES 2017, ECMAScript?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c).
 - [A Beginner's Guide to JavaScript's Prototype](https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk).
@@ -187,3 +181,4 @@ _(I'll keep creating new categories as I see fit)._
 - [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
 - [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
 - [Human Performance](https://www.youtube.com/watch?v=qouPzSryggk).
+- [Compassionate—Yet Candid—Code Reviews](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
