@@ -169,6 +169,7 @@ _(I'll keep creating new categories as I see fit)._
 
 
 # Leadership
+- [Tech Lead vs. Engineering Manager](https://www.youtube.com/watch?v=LD9G-pWung4).
 - [Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow](https://www.youtube.com/watch?v=xqT8e6_yzLg).
 - [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
 - [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action).
