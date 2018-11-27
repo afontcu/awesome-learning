@@ -70,6 +70,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5).
 - 📝 [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889).
 - 📝 [A different way to manage state in React](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482).
+- 📝 [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e).
 
 
 # CSS
