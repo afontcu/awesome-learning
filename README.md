@@ -41,13 +41,10 @@ I also tried to identify some formats:
 # Javascript
 - 📝 [WTF is ES6, ES8, ES 2017, ECMAScript?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c).
 - 📝 [A Beginner's Guide to JavaScript's Prototype](https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk).
-- 📝 [Intuitive Transducer in JavaScript](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d).
 - 📝 [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2).
 - 📝 [Exploring ES6](http://exploringjs.com/es6/index.html).
-- 📝 [The Code Quality vs. Speed Fallacy](https://medium.com/@asciamanna/the-code-quality-vs-speed-fallacy-f4eea147b23e).
-- 📝 [The Principles of Kanban method](https://web.archive.org/web/20140114161522/http://www.djaa.com/principles-kanban-method).
 - 📝 [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1).
-- 📝 [REST vs. GraphQL: A Critical Review](https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7).
+- 📝 [Intuitive Transducer in JavaScript](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d).
 - 📝 [A Quick Practical Example of JavaScript's Reduce Function](https://codeburst.io/a-quick-practical-example-of-javascripts-reduce-function-862b506d01a4).
 - 📝 [I'm harvesting credit card numbers and passwords from your site. Here's how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 
@@ -138,8 +135,10 @@ I also tried to identify some formats:
 
 # Agile and Software Crafting
 - 📝 [The Tragedy of Craftsmanship](http://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html).
+- 📝 [The Code Quality vs. Speed Fallacy](https://medium.com/@asciamanna/the-code-quality-vs-speed-fallacy-f4eea147b23e).
 - 📝 [The Agile Bicycle](https://dotdev.co/the-agile-bicycle-829a83b18e7).
 - 📝 [Agile is a mindset not a process!](https://medium.com/@HaydenSlaughter/agile-is-a-mindset-not-a-process-3fbcb27ad097).
+- 📝 [The Principles of Kanban method](https://web.archive.org/web/20140114161522/http://www.djaa.com/principles-kanban-method).
 - 📝 [12 Signs You're Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2).
 - 📝 [Agilismo, psicología y cosas que chirrían](https://medium.com/@lainde/agilismo-psicolog%C3%ADa-y-cosas-que-chirr%C3%ADan-1d099736c1ad).
 - 📝 [Order-Takers vs. Value-Builders](https://hackernoon.com/order-takers-vs-value-builders-f4cd387462b8).
@@ -163,6 +162,7 @@ I also tried to identify some formats:
 - 📝 [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea).
 - 📝 [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f).
 - 📝 [OO Tricks: The Art of Command Query Separation](https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0).
+- 📝 [REST vs. GraphQL: A Critical Review](https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7).
 
 
 # UX and design
