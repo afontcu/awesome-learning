@@ -1,11 +1,11 @@
 # 📚 Awesome Learning
 A living curated list of awesome learning material.
 
-I'll try to jot down interesting stuff I read, watch, or listen related to
-the things I enjoy the most: web development and everything related to it.
+I'll try to jot down interesting stuff I read, watch, or listen related to the
+things I enjoy the most: web development and everything related to it.
 
-This won't be an exhaustive list. It'll contain links to resources I value and
-I enjoyed consuming.
+This won't be an exhaustive list. It'll contain links to resources I value and I
+enjoyed consuming.
 
 Most of the content will be in English and Spanish.
 
@@ -35,6 +35,10 @@ I also tried to identify some formats:
 - 🔈 Podcast.
 - 🎥 Talk or Video Course.
 - 🤷 Other (an online game, an infographic...)
+
+---
+
+_Disclaimer_: Posts are not ordered. Categories are not ordered.
 
 ---
 
@@ -84,6 +88,8 @@ I also tried to identify some formats:
 - 📝 [Say Hello to Houdini and the CSS Paint API](https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/).
 - 🤷 [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/).
 - 📝 [My approach to using z-index](https://hackernoon.com/my-approach-to-using-z-index-eca67feb079c).
+- 📝 [Medium's CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06).
+- 📝 [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862).
 
 
 # CSS Grid
@@ -103,6 +109,7 @@ I also tried to identify some formats:
 - 📝 [Mocking as a Design Tool](https://codurance.com/2018/10/18/mocking-as-a-design-tool/).
 - 📝 [Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50).
 - 📝 [Testing Implementation Details](https://blog.kentcdodds.com/testing-implementation-details-ccb8d269586).
+- 🎥 [Unit Testing sucks (and it's our fault)](https://www.youtube.com/watch?v=GZ9iZsMAZFQ).
 
 
 # Performance
@@ -113,7 +120,8 @@ I also tried to identify some formats:
 - 📝 [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 - 🎥 [FaCSSt—CSS and Performance](https://www.youtube.com/watch?v=2Rn8an74khk)
 - 📝 [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html)
-- 📝 [Web fonts: when you need them, when you don’t](https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae)
+- 📝 [Web fonts: when you need them, when you don't](https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae)
+- 📝 [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572)
 
 
 # Accessibility
@@ -131,9 +139,19 @@ I also tried to identify some formats:
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
 - 🎥 [Tengo demasiados proyectos...¿Qué hago? (Gestión de la Demanda)](https://www.youtube.com/watch?v=xsqVWY3wpF4).
 - 📝 [¿Por qué no hay SEO en Mercadona Online?](https://medium.com/@josetarheel/por-qu%C3%A9-no-hay-seo-en-mercadona-online-128f5f3a863c).
+- 📝 [MVPM: Minimum Viable Product Manager](https://blackboxofpm.com/mvpm-minimum-viable-product-manager-e1aeb8dd421).
+- 📝 [The New User Story Backlog is a Map](http://www.jpattonassociates.com/the-new-backlog/).
+- 📝 [Minimum Valuable Problem](http://tynerblain.com/blog/2016/07/22/minimum-valuable-problem/).
+- 📝 [A Minimum Viable Product Is Not a Product, It's a Process](http://www.themacro.com/articles/2016/01/minimum-viable-product-process/).
+- 📝 [The Three Jobs of Product Management](https://productcoalition.com/three-jobs-of-product-management-9e006f944bc7).
+- 📝 [Why we kick off any new project with a Design Sprint](https://journal.mozestudio.com/why-we-kick-off-any-new-project-with-a-design-sprint-5b7177f432b5).
+- 📝 [The Ultimate Guide to Minimum Viable Product](https://hackernoon.com/the-ultimate-guide-to-minimum-viable-product-59218ce738f8).
+- 🎥 [The Importance of Listening to Your Customers](http://www.mindtheproduct.com/2016/12/importance-listening-customers-david-cancel/).
 
 
 # Agile and Software Crafting
+- 📝 [How to Impose Agile](https://ronjeffries.com/articles/018-01ff/imposition/).
+- 📝 [Do you want Crappy Agile?](https://ronjeffries.com/articles/016-03/you-want/).
 - 📝 [The Tragedy of Craftsmanship](http://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html).
 - 📝 [The Code Quality vs. Speed Fallacy](https://medium.com/@asciamanna/the-code-quality-vs-speed-fallacy-f4eea147b23e).
 - 📝 [The Agile Bicycle](https://dotdev.co/the-agile-bicycle-829a83b18e7).
@@ -143,6 +161,7 @@ I also tried to identify some formats:
 - 📝 [Agilismo, psicología y cosas que chirrían](https://medium.com/@lainde/agilismo-psicolog%C3%ADa-y-cosas-que-chirr%C3%ADan-1d099736c1ad).
 - 📝 [Order-Takers vs. Value-Builders](https://hackernoon.com/order-takers-vs-value-builders-f4cd387462b8).
 - 📝 [What Does an Agile Culture Look Like?](https://everydayagile.com/what-does-an-agile-culture-look-like-ab14c5724e91).
+- 🎥 [Making the Date](https://ronjeffries.com/xprog/articles/jatmakingthedate/).
 - 📝 [Agile Died While You Were Doing Your Standup](http://www.mindtheproduct.com/2017/04/agile-died-standup/).
 - 📝 [Radical Agility 101: Study Notes](https://tech.zalando.com/blog/radical-agility-study-notes/).
 - 📝 [Agile Tooth Fairy and top barrier for Agile adoption](https://tisquirrel.me/2015/03/02/agile-tooth-fairy-and-top-barrier-for-agile-adoption/).
@@ -150,6 +169,15 @@ I also tried to identify some formats:
 - 📝 [Como ser Agile Product Owner y no morir en el intento](https://inside.runroom.com/agile-product-owner-en-apuros/).
 - 📝 [The essence of story slicing in agile development](https://medium.com/@neil2killick/the-essence-of-story-slicing-in-agile-development-fc16a1226941).
 - 📝 [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae).
+- 📝 [Why developers are slow?](https://tisquirrel.me/2015/03/30/why-developers-are-slow/).
+- 📝 [What's Missing In The Agile Manifesto: Mindset](https://www.forbes.com/sites/stevedenning/2016/06/07/the-key-missing-ingredient-in-the-agile-manifesto-mindset/#7fe910146a93).
+- 🎥 [Empresa Ágil del siglo XXI](https://www.youtube.com/watch?v=YTKvaJDuw8Q).
+- 🎥 [The Lean Organization](https://www.youtube.com/watch?list=PLKxa4AIfm4pWYrMY88Obx2JNVIjfXEm4v&v=kFLvzqE3Rr4).
+- 📝 [When story points misfire](https://medium.com/xing-engineering/when-story-points-misfire-88b068bfc97c).
+- 📝 [Menos agilismo y más agilidad](https://www.youtube.com/watch?v=u__JwxhWigE).
+- 📝 [ScrumMaster: Should They Be Technical Or Not? ](https://inspectandadapt.com/blog/scrum/should-the-scrummaster-be-technical/).
+- 📝 [Agile doesn't have a brain ](https://medium.com/@jboogie/agile-doesnt-have-a-brain-51c2835a838).
+- 📝 [Adopting Agile? You’re aiming at the wrong target](https://www.linkedin.com/pulse/adopting-agile-youre-aiming-wrong-target-tim-snyder).
 
 
 # Programming and Computer Science
@@ -163,9 +191,14 @@ I also tried to identify some formats:
 - 📝 [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f).
 - 📝 [OO Tricks: The Art of Command Query Separation](https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0).
 - 📝 [REST vs. GraphQL: A Critical Review](https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7).
+- 📝 [The Human Cost of Tech Debt](http://www.infragistics.com/community/blogs/erikdietrich/archive/2016/06/29/the-human-cost-of-tech-debt.aspx).
+- 📝 [Paying Technical Debt : How To Rescue Legacy Code through Refactoring](http://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring).
+- 📝 [Time to grow up](https://www.youtube.com/watch?v=2jaPgSiy1jg).
+- 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
 
 
-# UX and design
+# UX and Design
+- 📝 [There is no such thing as UX Design](http://www.peterme.com/2014/12/01/there-is-no-such-thing-as-ux-design/).
 - 📝 [Lean Inception](https://martinfowler.com/articles/lean-inception).
 - 🔈 [User Experience (UX) con Daniel Torres Burriel](https://carlosiglesias.info/e010-user-experience-con-daniel-torres-burriel/).
 - 📝 [Working Type](https://airbnb.design/working-type/).
@@ -176,6 +209,17 @@ I also tried to identify some formats:
 - 🎥 [Malas gráficas](https://www.youtube.com/watch?v=dKJ2RAKWFGc).
 - 📝 [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886).
 - 📝 [Great Alternatives to Hamburger Menus](https://uxplanet.org/great-alternatives-to-hamburger-menus-d4c76d9414dd#.3ydxnkmih).
+- 📝 [How we lost 47% of our users after a redesign](https://icons8.com/articles/how-we-lost-47-of-our-users-after-a-redesign/).
+- 📝 [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda).
+- 📝 [10 Rules For Efficient Form Design](https://uxplanet.org/10-rules-for-efficient-form-design-e13dc1fb0e03).
+- 📝 [Five Fallacies About Creativity](https://blog.prototypr.io/5-fallacies-about-creativity-c1b09f5aa5f9).
+- 📝 [How Spotify's website UX has changed (2006 to 2016) ](https://blog.prototypr.io/how-spotifys-website-ux-has-changed-2006-to-2016-ff981fe3b0a3).
+- 📝 [User Experience Designer vs Visual/UI Designer](https://medium.com/learning-ux/user-experience-designer-vs-visual-ui-designer-81bd650c6446).
+- 📝 [Stop the overuse of overflow menus](https://medium.freecodecamp.com/stop-the-overuse-of-overflow-menus-5caa4b54e843).
+- 📝 [Agile Development Is No Excuse for Shoddy UX Research](http://www.uxmatters.com/mt/archives/2016/11/agile-development-is-no-excuse-for-shoddy-ux-research.php).
+- 📝 [Content and Design Are Inseparable Work Partners](https://medium.com/uie-brain-sparks/content-and-design-are-inseparable-work-partners-5e1450ac5bba).
+- 🎥 [A Usability Test on the Starbucks iOS App](https://medium.com/@jennyta/a-usability-test-on-the-starbucks-ios-app-2b6fb1cb8241).
+- 📝 [Never Show A Design You Haven't Tested On Users](http://alistapart.com/article/never-show-a-design-you-havent-tested-on-users).
 
 
 # Leadership
@@ -183,10 +227,11 @@ I also tried to identify some formats:
 - 🎥 [Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow](https://www.youtube.com/watch?v=xqT8e6_yzLg).
 - 📝 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
 - 🎥 [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action).
-- 🎥 [Celeste Headlee: 10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
+- 🎥 [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
 - 📝 [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
 - 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
+- 📝 [How to Give Constructive Design Feedback Over Email](https://medium.com/@tarngerine/how-to-give-constructive-design-feedback-over-email-be7ebb17deff).
 - 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
 - 🎥 [¿Qué es un Senior Developer?](https://www.youtube.com/watch?v=Vp0mR0XUrGo).
 - 📝 [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
@@ -194,3 +239,9 @@ I also tried to identify some formats:
 - 🎥 [Human Performance](https://www.youtube.com/watch?v=qouPzSryggk).
 - 🎥 [Compassionate—Yet Candid—Code Reviews](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
 - 🎥 [Turn the Ship Around](https://www.youtube.com/watch?v=IzJL8zX3EVk)
+- 🎥 [De "Foso de Desarrollo nº 23" a "Un Goonie nunca dice muerto"](https://www.youtube.com/watch?v=e1N6oRQHopo)
+- 📝 [Team Membership: Controlled or Self-organized?](https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364)
+- 🎥 [If Russ Ackoff had given a TED Talk… ](https://www.youtube.com/watch?v=OqEeIG8aPPk).
+- 📝 [Where Does the Leadership Come From?](https://medium.com/agility-scales/where-does-the-leadership-come-from-3757a1acd1d1).
+- 📝 [Don't Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4).
+- 📝 ["How" ages faster than "Why"](https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b).
