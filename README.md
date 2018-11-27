@@ -51,6 +51,11 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Intuitive Transducer in JavaScript](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d).
 - 📝 [A Quick Practical Example of JavaScript's Reduce Function](https://codeburst.io/a-quick-practical-example-of-javascripts-reduce-function-862b506d01a4).
 - 📝 [I'm harvesting credit card numbers and passwords from your site. Here's how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+- 📝 [Understanding Scope in JavaScript](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
+- 📝 [The Observer Pattern in JavaScript explained](https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/)
+- 📝 [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
+- 📝 [Composition vs Inheritance - Dan Abramov](https://twitter.com/dan_abramov/status/990989827981094912)
+- 📝 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 
 
 # Vue
