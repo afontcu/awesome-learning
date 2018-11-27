@@ -185,6 +185,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [ScrumMaster: Should They Be Technical Or Not? ](https://inspectandadapt.com/blog/scrum/should-the-scrummaster-be-technical/).
 - 📝 [Agile doesn't have a brain ](https://medium.com/@jboogie/agile-doesnt-have-a-brain-51c2835a838).
 - 📝 [Adopting Agile? You’re aiming at the wrong target](https://www.linkedin.com/pulse/adopting-agile-youre-aiming-wrong-target-tim-snyder).
+- 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04).
 
 
 # Programming and Computer Science
@@ -252,3 +253,5 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Where Does the Leadership Come From?](https://medium.com/agility-scales/where-does-the-leadership-come-from-3757a1acd1d1).
 - 📝 [Don't Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4).
 - 📝 ["How" ages faster than "Why"](https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b).
+- 🎥 [Drive: The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY).
+- 🎥 [El feliz developer](https://www.youtube.com/watch?v=BtIMCqFZNQ4).
