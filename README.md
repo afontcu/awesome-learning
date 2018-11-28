@@ -255,6 +255,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Never Show A Design You Haven't Tested On Users](http://alistapart.com/article/never-show-a-design-you-havent-tested-on-users).
 - 📝 [A Year of Google Maps and Apple Maps](https://www.justinobeirne.com/a-year-of-google-maps-and-apple-maps).
 - 📝 [Design principle: IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81).
+- 📝 [Color in UI Design: A (Practical) Framewo](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e).
 
 
 # Leadership
