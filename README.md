@@ -54,7 +54,6 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Understanding Scope in JavaScript](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
 - 📝 [The Observer Pattern in JavaScript explained](https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/)
 - 📝 [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
-- 📝 [Composition vs Inheritance - Dan Abramov](https://twitter.com/dan_abramov/status/990989827981094912)
 - 📝 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 - 📝 [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
 - 📝 [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
