@@ -227,6 +227,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
 - 📝 [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b).
 - 📝 [Simplicidad para desarrolladores](https://www.youtube.com/watch?v=6FDxbCzh2sI).
+- 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
 
 
 # UX and Design
@@ -264,7 +265,6 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 🎥 [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
 - 📝 [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
-- 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
 - 📝 [How to Give Constructive Design Feedback Over Email](https://medium.com/@tarngerine/how-to-give-constructive-design-feedback-over-email-be7ebb17deff).
 - 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
 - 🎥 [¿Qué es un Senior Developer?](https://www.youtube.com/watch?v=Vp0mR0XUrGo).
