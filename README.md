@@ -251,7 +251,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Stop the overuse of overflow menus](https://medium.freecodecamp.com/stop-the-overuse-of-overflow-menus-5caa4b54e843).
 - 📝 [Agile Development Is No Excuse for Shoddy UX Research](http://www.uxmatters.com/mt/archives/2016/11/agile-development-is-no-excuse-for-shoddy-ux-research.php).
 - 📝 [Content and Design Are Inseparable Work Partners](https://medium.com/uie-brain-sparks/content-and-design-are-inseparable-work-partners-5e1450ac5bba).
-- 🎥 [A Usability Test on the Starbucks iOS App](https://medium.com/@jennyta/a-usability-test-on-the-starbucks-ios-app-2b6fb1cb8241).
+- 📝 [A Usability Test on the Starbucks iOS App](https://medium.com/@jennyta/a-usability-test-on-the-starbucks-ios-app-2b6fb1cb8241).
 - 📝 [Never Show A Design You Haven't Tested On Users](http://alistapart.com/article/never-show-a-design-you-havent-tested-on-users).
 - 📝 [A Year of Google Maps and Apple Maps](https://www.justinobeirne.com/a-year-of-google-maps-and-apple-maps).
 - 📝 [Design principle: IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81).
