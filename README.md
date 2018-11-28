@@ -57,6 +57,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Composition vs Inheritance - Dan Abramov](https://twitter.com/dan_abramov/status/990989827981094912)
 - 📝 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 - 📝 [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
+- 📝 [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
 
 
 # Vue
@@ -77,7 +78,8 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889).
 - 📝 [A different way to manage state in React](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482).
 - 📝 [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e).
-- 📝 [React’s JSX: The Other Side of the Coin](https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98).
+- 📝 [React's JSX: The Other Side of the Coin](https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98).
+- 🎥 [Minimal API Surface Area](https://www.youtube.com/watch?v=4anAwXYqLG8).
 
 
 # CSS
@@ -99,6 +101,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Medium's CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06).
 - 📝 [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862).
 - 🎥 [Thinking beyond “Scalable CSS” ](https://www.youtube.com/watch?v=L8w3v9m6G04).
+- 📝 [Rebuilding slack.com ](https://slack.engineering/rebuilding-slack-com-b124c405c193).
 
 
 # CSS Grid
@@ -132,6 +135,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Web fonts: when you need them, when you don't](https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae)
 - 📝 [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572)
 - 📝 [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
+- 📝 [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3)
 
 
 # Accessibility
@@ -157,6 +161,10 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Why we kick off any new project with a Design Sprint](https://journal.mozestudio.com/why-we-kick-off-any-new-project-with-a-design-sprint-5b7177f432b5).
 - 📝 [The Ultimate Guide to Minimum Viable Product](https://hackernoon.com/the-ultimate-guide-to-minimum-viable-product-59218ce738f8).
 - 🎥 [The Importance of Listening to Your Customers](http://www.mindtheproduct.com/2016/12/importance-listening-customers-david-cancel/).
+- 📝 [Got a great product idea? Don’t build it](https://medium.com/swlh/got-a-great-product-idea-dont-build-it-4499c6ab581f).
+- 📝 [Looking beyond launch](https://clearleft.com/posts/425).
+- 📝 [Your app is an onion: Why software projects spiral out of control](https://medium.com/swlh/your-app-is-an-onion-why-software-projects-spiral-out-of-control-bb9247d9bdbd).
+- 📝 [All You Need To Know About Customer Journey Mapping](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/).
 
 
 # Agile and Software Crafting
@@ -187,11 +195,16 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Menos agilismo y más agilidad](https://www.youtube.com/watch?v=u__JwxhWigE).
 - 📝 [ScrumMaster: Should They Be Technical Or Not? ](https://inspectandadapt.com/blog/scrum/should-the-scrummaster-be-technical/).
 - 📝 [Agile doesn't have a brain ](https://medium.com/@jboogie/agile-doesnt-have-a-brain-51c2835a838).
-- 📝 [Adopting Agile? You’re aiming at the wrong target](https://www.linkedin.com/pulse/adopting-agile-youre-aiming-wrong-target-tim-snyder).
+- 📝 [Adopting Agile? You're aiming at the wrong target](https://www.linkedin.com/pulse/adopting-agile-youre-aiming-wrong-target-tim-snyder).
 - 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04).
 - 📝 [Software Development: Fast and Slow](https://www.targetprocess.com/blog/2013/07/software-development-fast-and-slow/).
 - 📝 [Your developers are not slow](https://sprint.ly/blog/your-developers-arent-slow/).
 - 📝 [Henry Ford: Master of flow](https://yorkesoftware.com/2017/06/13/henry-ford-master-of-flow/).
+- 📝 [How Do We Go Faster?](https://hackernoon.com/how-do-we-go-faster-ed51207952a8).
+- 📝 [One year of agile teams at aFrogleap](https://afrogleap.com/agile/one-year-of-agile-teams-at-afrogleap/).
+- 📝 [Going Into Deep Space: Creating the Right Environment for Your Open Space](https://labs.spotify.com/2017/05/31/going-into-deep-space-creating-the-right-environment-for-your-open-space/).
+- 📝 [Why Isn’t Agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552).
+- 📝 [Faster. Faster. Faster.](https://hackernoon.com/faster-faster-faster-231c7b3d088d).
 
 
 # Programming and Computer Science
@@ -212,6 +225,9 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
 - 🎥 [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg).
+- 📝 [The DIY illusion](http://www.mironov.com/diy/).
+- 📝 [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b).
+- 📝 [Simplicidad para desarrolladores](https://www.youtube.com/watch?v=6FDxbCzh2sI).
 
 
 # UX and Design
@@ -267,3 +283,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 🎥 [Drive: The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY).
 - 🎥 [El feliz developer](https://www.youtube.com/watch?v=BtIMCqFZNQ4).
 - 📝 [Re-structuring a growing team](https://jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637).
+- 📝 [We're Not a Startup: We're a Lifestyle Business (and We Love It)](https://marsbased.com/blog/2017/08/16/dont-call-startup-were-lifestyle-business/).
+- 📝 [The Art of Building Autonomous Teams](https://johnfergusonsmart.com/art-building-autonomous-teams/).
+- 📝 [Let Teams Figure it Out](https://medium.com/@johnpcutler/let-teams-figure-it-out-eefbf1a44ae8).
+- 📝 [How To Tell If Someone Is Truly Smart Or Just Average](https://medium.com/the-mission/how-to-tell-if-someone-is-truly-smart-or-just-average-a2f0bcac5db2).
