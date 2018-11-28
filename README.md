@@ -77,6 +77,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889).
 - 📝 [A different way to manage state in React](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482).
 - 📝 [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e).
+- 📝 [React’s JSX: The Other Side of the Coin](https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98).
 
 
 # CSS
@@ -97,6 +98,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [My approach to using z-index](https://hackernoon.com/my-approach-to-using-z-index-eca67feb079c).
 - 📝 [Medium's CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06).
 - 📝 [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862).
+- 🎥 [Thinking beyond “Scalable CSS” ](https://www.youtube.com/watch?v=L8w3v9m6G04).
 
 
 # CSS Grid
@@ -129,6 +131,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html)
 - 📝 [Web fonts: when you need them, when you don't](https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae)
 - 📝 [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572)
+- 📝 [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
 
 
 # Accessibility
@@ -186,6 +189,9 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Agile doesn't have a brain ](https://medium.com/@jboogie/agile-doesnt-have-a-brain-51c2835a838).
 - 📝 [Adopting Agile? You’re aiming at the wrong target](https://www.linkedin.com/pulse/adopting-agile-youre-aiming-wrong-target-tim-snyder).
 - 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04).
+- 📝 [Software Development: Fast and Slow](https://www.targetprocess.com/blog/2013/07/software-development-fast-and-slow/).
+- 📝 [Your developers are not slow](https://sprint.ly/blog/your-developers-arent-slow/).
+- 📝 [Henry Ford: Master of flow](https://yorkesoftware.com/2017/06/13/henry-ford-master-of-flow/).
 
 
 # Programming and Computer Science
@@ -203,6 +209,9 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Paying Technical Debt : How To Rescue Legacy Code through Refactoring](http://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring).
 - 📝 [Time to grow up](https://www.youtube.com/watch?v=2jaPgSiy1jg).
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
+- 📝 [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/).
+- 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
+- 🎥 [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg).
 
 
 # UX and Design
@@ -228,6 +237,8 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Content and Design Are Inseparable Work Partners](https://medium.com/uie-brain-sparks/content-and-design-are-inseparable-work-partners-5e1450ac5bba).
 - 🎥 [A Usability Test on the Starbucks iOS App](https://medium.com/@jennyta/a-usability-test-on-the-starbucks-ios-app-2b6fb1cb8241).
 - 📝 [Never Show A Design You Haven't Tested On Users](http://alistapart.com/article/never-show-a-design-you-havent-tested-on-users).
+- 📝 [A Year of Google Maps and Apple Maps](https://www.justinobeirne.com/a-year-of-google-maps-and-apple-maps).
+- 📝 [Design principle: IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81).
 
 
 # Leadership
@@ -255,3 +266,4 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 ["How" ages faster than "Why"](https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b).
 - 🎥 [Drive: The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY).
 - 🎥 [El feliz developer](https://www.youtube.com/watch?v=BtIMCqFZNQ4).
+- 📝 [Re-structuring a growing team](https://jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637).
