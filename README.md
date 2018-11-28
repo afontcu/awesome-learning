@@ -34,7 +34,7 @@ I also tried to identify some formats:
 - 📝 Post, article.
 - 🔈 Podcast.
 - 🎥 Talk or Video Course.
-- 🤷 Other (an online game, an infographic...)
+- 🤷 Other (an online game, an infographic...).
 
 ---
 
@@ -50,17 +50,17 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1).
 - 📝 [Intuitive Transducer in JavaScript](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d).
 - 📝 [A Quick Practical Example of JavaScript's Reduce Function](https://codeburst.io/a-quick-practical-example-of-javascripts-reduce-function-862b506d01a4).
-- 📝 [I'm harvesting credit card numbers and passwords from your site. Here's how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
-- 📝 [Understanding Scope in JavaScript](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
-- 📝 [The Observer Pattern in JavaScript explained](https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/)
-- 📝 [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
-- 📝 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
-- 📝 [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
-- 📝 [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
+- 📝 [I'm harvesting credit card numbers and passwords from your site. Here's how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5).
+- 📝 [Understanding Scope in JavaScript](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/).
+- 📝 [The Observer Pattern in JavaScript explained](https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/).
+- 📝 [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437).
+- 📝 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns).
+- 📝 [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db).
+- 📝 [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/).
 
 
 # Vue
-- 📝 [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
+- 📝 [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77).
 - 📝 [A React Point of Vue](https://www.vuemastery.com/conferences/vueconf-2018/a-react-point-of-vue-divya-sasidharan/).
 - 📝 [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/).
 - 📝 [Vue state management from the ground up](https://hackernoon.com/vue-state-management-from-the-ground-up-a31eb87c668d) _(disclaimer: I wrote this post)_.
@@ -127,14 +127,14 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 🎥 [Perceived Performance: The only kind that really matters](https://www.youtube.com/watch?v=USH4iPQ44LQ).
 - 🎥 [Web Performance: Learn to Make Your Websites Load Fast with Webpack 4](https://frontendmasters.com/courses/performance-webpack/).
 - 📝 [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0).
-- 📝 [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
-- 📝 [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
-- 🎥 [FaCSSt—CSS and Performance](https://www.youtube.com/watch?v=2Rn8an74khk)
-- 📝 [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html)
-- 📝 [Web fonts: when you need them, when you don't](https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae)
-- 📝 [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572)
-- 📝 [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
-- 📝 [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3)
+- 📝 [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf).
+- 📝 [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4).
+- 🎥 [FaCSSt—CSS and Performance](https://www.youtube.com/watch?v=2Rn8an74khk).
+- 📝 [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html).
+- 📝 [Web fonts: when you need them, when you don't](https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae).
+- 📝 [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572).
+- 📝 [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7).
+- 📝 [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3).
 
 
 # Accessibility
@@ -142,8 +142,8 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 🎥 [Getting your priorities straight](https://www.youtube.com/watch?v=MZfZO9mTKpU).
 - 📝 [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/).
 - 📝 [The Web Accessibility Introduction I Wish I Had](https://dev.to/maxwell_dev/the-web-accessibility-introduction-i-wish-i-had-4ope).
-- 📝 [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
-- 📝 [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
+- 📝 [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/).
+- 📝 [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/).
 
 
 # Product Management
@@ -272,9 +272,9 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
 - 🎥 [Human Performance](https://www.youtube.com/watch?v=qouPzSryggk).
 - 🎥 [Compassionate—Yet Candid—Code Reviews](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
-- 🎥 [Turn the Ship Around](https://www.youtube.com/watch?v=IzJL8zX3EVk)
-- 🎥 [De "Foso de Desarrollo nº 23" a "Un Goonie nunca dice muerto"](https://www.youtube.com/watch?v=e1N6oRQHopo)
-- 📝 [Team Membership: Controlled or Self-organized?](https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364)
+- 🎥 [Turn the Ship Around](https://www.youtube.com/watch?v=IzJL8zX3EVk).
+- 🎥 [De "Foso de Desarrollo nº 23" a "Un Goonie nunca dice muerto"](https://www.youtube.com/watch?v=e1N6oRQHopo).
+- 📝 [Team Membership: Controlled or Self-organized?](https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364).
 - 🎥 [If Russ Ackoff had given a TED Talk… ](https://www.youtube.com/watch?v=OqEeIG8aPPk).
 - 📝 [Where Does the Leadership Come From?](https://medium.com/agility-scales/where-does-the-leadership-come-from-3757a1acd1d1).
 - 📝 [Don't Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4).
