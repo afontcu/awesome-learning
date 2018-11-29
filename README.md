@@ -57,6 +57,9 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns).
 - 📝 [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db).
 - 📝 [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/).
+- 🎥 [The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA).
+- 📝 [The Present Future of User Interface Development](https://medium.com/@jevakallio/the-present-future-of-user-interface-development-ebd371255175).
+- 📝 [SEO para Progressive Web APPs (PWA) y Frameworks JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/).
 
 
 # Vue
@@ -101,6 +104,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862).
 - 🎥 [Thinking beyond “Scalable CSS” ](https://www.youtube.com/watch?v=L8w3v9m6G04).
 - 📝 [Rebuilding slack.com ](https://slack.engineering/rebuilding-slack-com-b124c405c193).
+- 📝 [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/).
 
 
 # CSS Grid
@@ -112,6 +116,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0).
 - 📝 [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/).
 - 📝 [Grid Projection Naming](https://www.kizu.ru/grid-projection-naming).
+- 📝 [The benefits of learning how to code layouts with CSS](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css).
 
 
 # Testing
@@ -135,6 +140,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572).
 - 📝 [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7).
 - 📝 [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3).
+- 📝 [Popular HTTP Headers for Enhancing Performance](https://www.keycdn.com/blog/http-headers/).
 
 
 # Accessibility
@@ -164,10 +170,13 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Looking beyond launch](https://clearleft.com/posts/425).
 - 📝 [Your app is an onion: Why software projects spiral out of control](https://medium.com/swlh/your-app-is-an-onion-why-software-projects-spiral-out-of-control-bb9247d9bdbd).
 - 📝 [All You Need To Know About Customer Journey Mapping](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/).
+- 📝 [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e).
+- 📝 [Process > Outcome (How to Overcome The Outcome Bias) ](https://medium.com/personal-growth/process-outcome-how-to-overcome-the-outcome-bias-acc521a30484).
 
 
 # Agile and Software Crafting
 - 📝 [How to Impose Agile](https://ronjeffries.com/articles/018-01ff/imposition/).
+- 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
 - 📝 [Do you want Crappy Agile?](https://ronjeffries.com/articles/016-03/you-want/).
 - 📝 [The Tragedy of Craftsmanship](http://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html).
 - 📝 [The Code Quality vs. Speed Fallacy](https://medium.com/@asciamanna/the-code-quality-vs-speed-fallacy-f4eea147b23e).
@@ -204,9 +213,13 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Going Into Deep Space: Creating the Right Environment for Your Open Space](https://labs.spotify.com/2017/05/31/going-into-deep-space-creating-the-right-environment-for-your-open-space/).
 - 📝 [Why Isn’t Agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552).
 - 📝 [Faster. Faster. Faster.](https://hackernoon.com/faster-faster-faster-231c7b3d088d).
+- 📝 [WIP It Real Good](https://hackernoon.com/wip-it-real-good-66aa710178fd).
+- 📝 [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/).
 
 
 # Programming and Computer Science
+- 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
+- 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Refactoring](https://sourcemaking.com/refactoring).
 - 📝 [Object Oriented Tricks: #2 Law of Demeter](https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85).
 - 🎥 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
@@ -228,6 +241,10 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b).
 - 📝 [Simplicidad para desarrolladores](https://www.youtube.com/watch?v=6FDxbCzh2sI).
 - 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
+- 📝 [The State of Being Stuck](https://mathwithbaddrawings.com/2017/09/20/the-state-of-being-stuck/amp/).
+- 📝 [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68).
+- 📝 [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2).
+- 📝 [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex).
 
 
 # UX and Design
@@ -255,7 +272,11 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Never Show A Design You Haven't Tested On Users](http://alistapart.com/article/never-show-a-design-you-havent-tested-on-users).
 - 📝 [A Year of Google Maps and Apple Maps](https://www.justinobeirne.com/a-year-of-google-maps-and-apple-maps).
 - 📝 [Design principle: IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81).
-- 📝 [Color in UI Design: A (Practical) Framewo](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e).
+- 📝 [Color in UI Design: A (Practical) Framework](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e).
+- 📝 [A Guide to the Art of Guerrilla UX Testing](https://medium.springboard.com/a-guide-to-the-art-of-guerrilla-ux-testing-69a1411d34fb).
+- 📝 [The King vs. Pawn Game of UI Design](http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design).
+- 📝 [The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b).
+- 📝 [How to Stop UX Research being a Blocker](https://medium.com/beakerandflint/how-to-stop-ux-research-being-a-blocker-225d91105de8).
 
 
 # Leadership
@@ -287,3 +308,8 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [The Art of Building Autonomous Teams](https://johnfergusonsmart.com/art-building-autonomous-teams/).
 - 📝 [Let Teams Figure it Out](https://medium.com/@johnpcutler/let-teams-figure-it-out-eefbf1a44ae8).
 - 📝 [How To Tell If Someone Is Truly Smart Or Just Average](https://medium.com/the-mission/how-to-tell-if-someone-is-truly-smart-or-just-average-a2f0bcac5db2).
+- 📝 [Experiment Together. Improve Together. Win Together](https://hackernoon.com/experiment-together-improve-together-win-together-8d353abd2f0f).
+- 📝 [Dedicated Ownership for Teams at Zalon](https://jobs.zalando.com/tech/blog/dedicated-ownership-for-teams-at-zalon/).
+- 📝 [How Stories Change Our Brains](https://shane.substack.com/p/how-stories-change-our-brains).
+- 📝 [Truth Hurts (And Values Should Too!)](https://shane.substack.com/p/truth-hurts-and-values-should-too).
+- 📝 [Feedback Equation](https://larahogan.me/blog/feedback-equation/).
