@@ -215,6 +215,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Faster. Faster. Faster.](https://hackernoon.com/faster-faster-faster-231c7b3d088d).
 - 📝 [WIP It Real Good](https://hackernoon.com/wip-it-real-good-66aa710178fd).
 - 📝 [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/).
+- 📝 [Why We Need WIP Limits](https://leankit.com/learn/kanban/why-we-need-wip-limits/).
 
 
 # Programming and Computer Science
