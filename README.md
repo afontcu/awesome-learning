@@ -245,6 +245,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68).
 - 📝 [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2).
 - 📝 [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex).
+- 📝 [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960).
 
 
 # UX and Design
