@@ -25,9 +25,8 @@ _(I'll keep creating new categories as I see fit)._
 9. [Product Management](#product-management)
 10. [Agile and Software Crafting](#agile-and-software-crafting)
 11. [Programming and Computer Science](#programming-and-computer-science)
-12. [Diversity and inclusion](#diversity-and-inclusion)
-13. [UX and design](#ux-and-design)
-14. [Leadership](#leadership)
+12. [UX and design](#ux-and-design)
+13. [Leadership](#leadership)
 
 
 I also tried to identify some formats:
@@ -323,6 +322,7 @@ ordered either.
 - 🎥 [Drive: The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY).
 - 🎥 [El feliz developer](https://www.youtube.com/watch?v=BtIMCqFZNQ4).
 - 🎥 [El hombre pisó la luna, pero gracias a la mujer](https://www.youtube.com/watch?v=Wvkwfwgn2mE).
+- 🎥 [Teal organization: a living example](https://www.youtube.com/watch?v=ClnHKqtfR7M).
 - 📝 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
 - 📝 [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
