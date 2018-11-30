@@ -25,7 +25,8 @@ _(I'll keep creating new categories as I see fit)._
 9. [Product Management](#product-management)
 10. [Agile and Software Crafting](#agile-and-software-crafting)
 11. [Programming and Computer Science](#programming-and-computer-science)
-12. [UX and design](#ux-and-design)
+12. [UI design](#ui-design)
+12. [User Experience](#user-experience)
 13. [Leadership](#leadership)
 
 
@@ -267,39 +268,41 @@ ordered either.
 - 📝 [Agilismo versus craftismo. Y diversidad](https://medium.com/scbcn/agilismo-versus-craftismo-y-diversidad-67c465e3acf7).
 
 
-# UX and Design
+# UI Design
+- 📝 [Working Type](https://airbnb.design/working-type/).
+- 📝 [Using UI System Fonts In Web Design: A Quick Practical Guide](https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/).
+- 📝 [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886).
+- 📝 [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda).
+- 📝 [10 Rules For Efficient Form Design](https://uxplanet.org/10-rules-for-efficient-form-design-e13dc1fb0e03).
+- 📝 [Five Fallacies About Creativity](https://blog.prototypr.io/5-fallacies-about-creativity-c1b09f5aa5f9).
+- 📝 [User Experience Designer vs Visual/UI Designer](https://medium.com/learning-ux/user-experience-designer-vs-visual-ui-designer-81bd650c6446).
+- 📝 [A Year of Google Maps and Apple Maps](https://www.justinobeirne.com/a-year-of-google-maps-and-apple-maps).
+- 📝 [Design principle: IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81).
+- 📝 [Color in UI Design: A (Practical) Framework](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e).
+- 📝 [The King vs. Pawn Game of UI Design](http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design).
+- 📝 [Rhythm in Web Typography](https://betterwebtype.com/rhythm-in-web-typography).
+- 📝 ['Me gusta' no es un argumento de diseño](https://medium.com/@javiercanada/me-gusta-no-es-un-argumento-de-dise%C3%B1o-5c3fa5b87c06).
+- 📚 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123/).
+
+
+# User Experience
 - 🎥 [Malas gráficas](https://www.youtube.com/watch?v=dKJ2RAKWFGc).
 - 🔈 [User Experience (UX) con Daniel Torres Burriel](https://carlosiglesias.info/e010-user-experience-con-daniel-torres-burriel/).
 - 📝 [There is no such thing as UX Design](http://www.peterme.com/2014/12/01/there-is-no-such-thing-as-ux-design/).
 - 📝 [Lean Inception](https://martinfowler.com/articles/lean-inception).
-- 📝 [Working Type](https://airbnb.design/working-type/).
-- 📝 [Using UI System Fonts In Web Design: A Quick Practical Guide](https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/).
 - 📝 [How to Get Stakeholders to Buy Into User Research](https://hackernoon.com/how-to-get-buy-in-for-doing-user-research-9dae432a8ec6).
 - 📝 [Agile Development Is No Excuse for Shoddy UX Research](http://www.uxmatters.com/mt/archives/2016/11/agile-development-is-no-excuse-for-shoddy-ux-research.php).
-- 📝 [Lean Inception](https://martinfowler.com/articles/lean-inception).
-- 📝 [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886).
 - 📝 [Great Alternatives to Hamburger Menus](https://uxplanet.org/great-alternatives-to-hamburger-menus-d4c76d9414dd#.3ydxnkmih).
 - 📝 [How we lost 47% of our users after a redesign](https://icons8.com/articles/how-we-lost-47-of-our-users-after-a-redesign/).
-- 📝 [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda).
-- 📝 [10 Rules For Efficient Form Design](https://uxplanet.org/10-rules-for-efficient-form-design-e13dc1fb0e03).
-- 📝 [Five Fallacies About Creativity](https://blog.prototypr.io/5-fallacies-about-creativity-c1b09f5aa5f9).
 - 📝 [How Spotify's website UX has changed (2006 to 2016) ](https://blog.prototypr.io/how-spotifys-website-ux-has-changed-2006-to-2016-ff981fe3b0a3).
-- 📝 [User Experience Designer vs Visual/UI Designer](https://medium.com/learning-ux/user-experience-designer-vs-visual-ui-designer-81bd650c6446).
 - 📝 [Stop the overuse of overflow menus](https://medium.freecodecamp.com/stop-the-overuse-of-overflow-menus-5caa4b54e843).
 - 📝 [Content and Design Are Inseparable Work Partners](https://medium.com/uie-brain-sparks/content-and-design-are-inseparable-work-partners-5e1450ac5bba).
 - 📝 [A Usability Test on the Starbucks iOS App](https://medium.com/@jennyta/a-usability-test-on-the-starbucks-ios-app-2b6fb1cb8241).
 - 📝 [Never Show A Design You Haven't Tested On Users](http://alistapart.com/article/never-show-a-design-you-havent-tested-on-users).
-- 📝 [A Year of Google Maps and Apple Maps](https://www.justinobeirne.com/a-year-of-google-maps-and-apple-maps).
-- 📝 [Design principle: IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81).
-- 📝 [Color in UI Design: A (Practical) Framework](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e).
 - 📝 [A Guide to the Art of Guerrilla UX Testing](https://medium.springboard.com/a-guide-to-the-art-of-guerrilla-ux-testing-69a1411d34fb).
-- 📝 [The King vs. Pawn Game of UI Design](http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design).
 - 📝 [The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b).
 - 📝 [How to Stop UX Research being a Blocker](https://medium.com/beakerandflint/how-to-stop-ux-research-being-a-blocker-225d91105de8).
-- 📝 [Rhythm in Web Typography](https://betterwebtype.com/rhythm-in-web-typography).
-- 📝 ['Me gusta' no es un argumento de diseño](https://medium.com/@javiercanada/me-gusta-no-es-un-argumento-de-dise%C3%B1o-5c3fa5b87c06).
 - 📚 [Don't Make Me Think](https://www.oreilly.com/library/view/dont-make-me/0321344758/).
-- 📚 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123/).
 - 📚 [Lean UX](http://shop.oreilly.com/product/0636920021827.do/).
 - 📚 [Elements of User Experience: User-Centered Design for the Web and Beyond](http://www.jjg.net/elements/).
 - 📚 [El Arte de Medir](https://www.casadellibro.com/libro-el-arte-de-medir-manual-de-analitica-web/9788492956647/1829890).
