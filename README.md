@@ -66,6 +66,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437).
 - 📝 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns).
 - 📝 [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db).
+- 📝 [Object Composition in Javascript](https://medium.com/code-monkey/object-composition-in-javascript-2f9b9077b5e6).
 - 📝 [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/).
 - 📝 [The Present Future of User Interface Development](https://medium.com/@jevakallio/the-present-future-of-user-interface-development-ebd371255175).
 - 📝 [SEO para Progressive Web APPs (PWA) y Frameworks JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/).
@@ -103,7 +104,6 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Page Transitions for Everyone](https://css-tricks.com/page-transitions-for-everyone/).
 - 📝 [Contextual styling with custom properties](http://simurai.com/blog/2018/04/01/contextual-styling).
 - 📝 [Build User Interfaces by Composing CSS Utility Classes with Tailwind](https://egghead.io/courses/build-user-interfaces-by-composing-css-utility-classes-with-tailwind).
-- 📝 [Object Composition in Javascript](https://medium.com/code-monkey/object-composition-in-javascript-2f9b9077b5e6).
 - 📝 [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/).
 - 📝 [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/).
 - 📝 [BEM I (finally) understand](https://m.alphasights.com/bem-i-finally-understand-b0c74815d5b0).
