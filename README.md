@@ -39,11 +39,13 @@ I also tried to identify some formats:
 
 ---
 
-_Disclaimer_: Posts are not ordered. Categories are not ordered.
+_Disclaimer_: Resouruces are not ordered (only by type). Categories are not
+ordered either.
 
 ---
 
 # Javascript
+- 🎥 [The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA).
 - 📝 [WTF is ES6, ES8, ES 2017, ECMAScript?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c).
 - 📝 [A Beginner's Guide to JavaScript's Prototype](https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk).
 - 📝 [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2).
@@ -58,7 +60,6 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns).
 - 📝 [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db).
 - 📝 [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/).
-- 🎥 [The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA).
 - 📝 [The Present Future of User Interface Development](https://medium.com/@jevakallio/the-present-future-of-user-interface-development-ebd371255175).
 - 📝 [SEO para Progressive Web APPs (PWA) y Frameworks JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/).
 - 📝 [How to stop using console.log() and start using your browser’s debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).
@@ -77,16 +78,17 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 
 
 # React
+- 🎥 [Minimal API Surface Area](https://www.youtube.com/watch?v=4anAwXYqLG8).
 - 📝 [ReactJS: Props vs. State](http://lucybain.com/blog/2016/react-state-vs-pros/).
 - 📝 [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5).
 - 📝 [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889).
 - 📝 [A different way to manage state in React](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482).
 - 📝 [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e).
 - 📝 [React's JSX: The Other Side of the Coin](https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98).
-- 🎥 [Minimal API Surface Area](https://www.youtube.com/watch?v=4anAwXYqLG8).
 
 
 # CSS
+- 🎥 [Thinking beyond “Scalable CSS” ](https://www.youtube.com/watch?v=L8w3v9m6G04).
 - 📝 [Use Cases For Flexbox](https://www.smashingmagazine.com/2018/10/flexbox-use-cases).
 - 📝 [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes).
 - 📝 [Page Transitions for Everyone](https://css-tricks.com/page-transitions-for-everyone/).
@@ -95,26 +97,25 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Object Composition in Javascript](https://medium.com/code-monkey/object-composition-in-javascript-2f9b9077b5e6).
 - 📝 [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/).
 - 📝 [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/).
-- 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
-- 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
 - 📝 [BEM I (finally) understand](https://m.alphasights.com/bem-i-finally-understand-b0c74815d5b0).
 - 📝 [Battling BEM CSS: 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/).
 - 📝 [Say Hello to Houdini and the CSS Paint API](https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/).
-- 🤷 [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/).
 - 📝 [My approach to using z-index](https://hackernoon.com/my-approach-to-using-z-index-eca67feb079c).
 - 📝 [Medium's CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06).
 - 📝 [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862).
-- 🎥 [Thinking beyond “Scalable CSS” ](https://www.youtube.com/watch?v=L8w3v9m6G04).
 - 📝 [Rebuilding slack.com ](https://slack.engineering/rebuilding-slack-com-b124c405c193).
 - 📝 [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/).
+- 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
+- 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
+- 🤷 [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/).
 
 
 # CSS Grid
+- 🎥 [Designing with Grid](https://www.youtube.com/watch?v=t0b3uBoDkBs).
 - 📝 [The benefits of learning how to code layouts with CSS](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css).
 - 📝 [Introducing the CSS Grid Layout](https://www.sitepoint.com/introducing-the-css-grid-layout/).
 - 📝 [Editorial Design and CSS Grid: Inspiration and examples](https://www.silocreativo.com/en/editorial-design-and-css-grid-inspiration-and-examples/).
 - 📝 [CSS Grid with Wes Bos](https://cssgrid.io/).
-- 🎥 [Designing with Grid](https://www.youtube.com/watch?v=t0b3uBoDkBs).
 - 📝 [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0).
 - 📝 [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/).
 - 📝 [Grid Projection Naming](https://www.kizu.ru/grid-projection-naming).
@@ -122,21 +123,21 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 
 
 # Testing
-- 🎥 [Testing Javascript](http://testingjavascript.com).
+- 🎥 [Unit Testing sucks (and it's our fault)](https://www.youtube.com/watch?v=GZ9iZsMAZFQ).
 - 📝 [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009).
 - 📝 [Mocking as a Design Tool](https://codurance.com/2018/10/18/mocking-as-a-design-tool/).
 - 📝 [Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50).
 - 📝 [Testing Implementation Details](https://blog.kentcdodds.com/testing-implementation-details-ccb8d269586).
-- 🎥 [Unit Testing sucks (and it's our fault)](https://www.youtube.com/watch?v=GZ9iZsMAZFQ).
+- 🤷 [Testing Javascript](http://testingjavascript.com).
 
 
 # Performance
 - 🎥 [Perceived Performance: The only kind that really matters](https://www.youtube.com/watch?v=USH4iPQ44LQ).
+- 🎥 [FaCSSt—CSS and Performance](https://www.youtube.com/watch?v=2Rn8an74khk).
 - 🎥 [Web Performance: Learn to Make Your Websites Load Fast with Webpack 4](https://frontendmasters.com/courses/performance-webpack/).
 - 📝 [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0).
 - 📝 [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf).
 - 📝 [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4).
-- 🎥 [FaCSSt—CSS and Performance](https://www.youtube.com/watch?v=2Rn8an74khk).
 - 📝 [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html).
 - 📝 [Web fonts: when you need them, when you don't](https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae).
 - 📝 [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572).
@@ -149,17 +150,18 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 # Accessibility
 - 🎥 [Common ways we break accessibility and how to avoid](https://www.youtube.com/watch?v=O_OJfY4Jax4).
 - 🎥 [Getting your priorities straight](https://www.youtube.com/watch?v=MZfZO9mTKpU).
-- 🤷 [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/).
 - 📝 [The Web Accessibility Introduction I Wish I Had](https://dev.to/maxwell_dev/the-web-accessibility-introduction-i-wish-i-had-4ope).
 - 📝 [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/).
 - 📝 [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/).
+- 🤷 [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/).
 
 
 # Product Management
+- 🎥 [Tengo demasiados proyectos...¿Qué hago? (Gestión de la Demanda)](https://www.youtube.com/watch?v=xsqVWY3wpF4).
+- 🎥 [The Importance of Listening to Your Customers](http://www.mindtheproduct.com/2016/12/importance-listening-customers-david-cancel/).
 - 📝 [Your Product is Decisions](https://www.farnamstreetblog.com/2013/11/your-product-is-decisions/).
 - 📝 [Product Management Alignment - How to create it](https://herbigt.com/alignment-is-not-agreement).
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
-- 🎥 [Tengo demasiados proyectos...¿Qué hago? (Gestión de la Demanda)](https://www.youtube.com/watch?v=xsqVWY3wpF4).
 - 📝 [¿Por qué no hay SEO en Mercadona Online?](https://medium.com/@josetarheel/por-qu%C3%A9-no-hay-seo-en-mercadona-online-128f5f3a863c).
 - 📝 [MVPM: Minimum Viable Product Manager](https://blackboxofpm.com/mvpm-minimum-viable-product-manager-e1aeb8dd421).
 - 📝 [The New User Story Backlog is a Map](http://www.jpattonassociates.com/the-new-backlog/).
@@ -168,7 +170,6 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [The Three Jobs of Product Management](https://productcoalition.com/three-jobs-of-product-management-9e006f944bc7).
 - 📝 [Why we kick off any new project with a Design Sprint](https://journal.mozestudio.com/why-we-kick-off-any-new-project-with-a-design-sprint-5b7177f432b5).
 - 📝 [The Ultimate Guide to Minimum Viable Product](https://hackernoon.com/the-ultimate-guide-to-minimum-viable-product-59218ce738f8).
-- 🎥 [The Importance of Listening to Your Customers](http://www.mindtheproduct.com/2016/12/importance-listening-customers-david-cancel/).
 - 📝 [Got a great product idea? Don’t build it](https://medium.com/swlh/got-a-great-product-idea-dont-build-it-4499c6ab581f).
 - 📝 [Looking beyond launch](https://clearleft.com/posts/425).
 - 📝 [Your app is an onion: Why software projects spiral out of control](https://medium.com/swlh/your-app-is-an-onion-why-software-projects-spiral-out-of-control-bb9247d9bdbd).
@@ -180,6 +181,10 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 
 
 # Agile and Software Crafting
+- 🎥 [Making the Date](https://ronjeffries.com/xprog/articles/jatmakingthedate/).
+- 🎥 [Empresa Ágil del siglo XXI](https://www.youtube.com/watch?v=YTKvaJDuw8Q).
+- 🎥 [The Lean Organization](https://www.youtube.com/watch?list=PLKxa4AIfm4pWYrMY88Obx2JNVIjfXEm4v&v=kFLvzqE3Rr4).
+- 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04).
 - 📝 [How to Impose Agile](https://ronjeffries.com/articles/018-01ff/imposition/).
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
 - 📝 [Do you want Crappy Agile?](https://ronjeffries.com/articles/016-03/you-want/).
@@ -192,7 +197,6 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Agilismo, psicología y cosas que chirrían](https://medium.com/@lainde/agilismo-psicolog%C3%ADa-y-cosas-que-chirr%C3%ADan-1d099736c1ad).
 - 📝 [Order-Takers vs. Value-Builders](https://hackernoon.com/order-takers-vs-value-builders-f4cd387462b8).
 - 📝 [What Does an Agile Culture Look Like?](https://everydayagile.com/what-does-an-agile-culture-look-like-ab14c5724e91).
-- 🎥 [Making the Date](https://ronjeffries.com/xprog/articles/jatmakingthedate/).
 - 📝 [Agile Died While You Were Doing Your Standup](http://www.mindtheproduct.com/2017/04/agile-died-standup/).
 - 📝 [Radical Agility 101: Study Notes](https://tech.zalando.com/blog/radical-agility-study-notes/).
 - 📝 [Agile Tooth Fairy and top barrier for Agile adoption](https://tisquirrel.me/2015/03/02/agile-tooth-fairy-and-top-barrier-for-agile-adoption/).
@@ -202,14 +206,11 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae).
 - 📝 [Why developers are slow?](https://tisquirrel.me/2015/03/30/why-developers-are-slow/).
 - 📝 [What's Missing In The Agile Manifesto: Mindset](https://www.forbes.com/sites/stevedenning/2016/06/07/the-key-missing-ingredient-in-the-agile-manifesto-mindset/#7fe910146a93).
-- 🎥 [Empresa Ágil del siglo XXI](https://www.youtube.com/watch?v=YTKvaJDuw8Q).
-- 🎥 [The Lean Organization](https://www.youtube.com/watch?list=PLKxa4AIfm4pWYrMY88Obx2JNVIjfXEm4v&v=kFLvzqE3Rr4).
 - 📝 [When story points misfire](https://medium.com/xing-engineering/when-story-points-misfire-88b068bfc97c).
 - 📝 [Menos agilismo y más agilidad](https://www.youtube.com/watch?v=u__JwxhWigE).
 - 📝 [ScrumMaster: Should They Be Technical Or Not? ](https://inspectandadapt.com/blog/scrum/should-the-scrummaster-be-technical/).
 - 📝 [Agile doesn't have a brain ](https://medium.com/@jboogie/agile-doesnt-have-a-brain-51c2835a838).
 - 📝 [Adopting Agile? You're aiming at the wrong target](https://www.linkedin.com/pulse/adopting-agile-youre-aiming-wrong-target-tim-snyder).
-- 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04).
 - 📝 [Software Development: Fast and Slow](https://www.targetprocess.com/blog/2013/07/software-development-fast-and-slow/).
 - 📝 [Your developers are not slow](https://sprint.ly/blog/your-developers-arent-slow/).
 - 📝 [Henry Ford: Master of flow](https://yorkesoftware.com/2017/06/13/henry-ford-master-of-flow/).
@@ -225,11 +226,12 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 
 
 # Programming and Computer Science
+- 🎥 [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg).
+- 🎥 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 - 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Refactoring](https://sourcemaking.com/refactoring).
 - 📝 [Object Oriented Tricks: #2 Law of Demeter](https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85).
-- 🎥 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 - 📝 [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork).
 - 📝 [Choosing an HTTP Status Code - Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/).
 - 📝 [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536).
@@ -243,7 +245,6 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
 - 📝 [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
-- 🎥 [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg).
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
 - 📝 [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b).
 - 📝 [Simplicidad para desarrolladores](https://www.youtube.com/watch?v=6FDxbCzh2sI).
@@ -258,15 +259,15 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 
 
 # UX and Design
+- 🎥 [Malas gráficas](https://www.youtube.com/watch?v=dKJ2RAKWFGc).
+- 🔈 [User Experience (UX) con Daniel Torres Burriel](https://carlosiglesias.info/e010-user-experience-con-daniel-torres-burriel/).
 - 📝 [There is no such thing as UX Design](http://www.peterme.com/2014/12/01/there-is-no-such-thing-as-ux-design/).
 - 📝 [Lean Inception](https://martinfowler.com/articles/lean-inception).
-- 🔈 [User Experience (UX) con Daniel Torres Burriel](https://carlosiglesias.info/e010-user-experience-con-daniel-torres-burriel/).
 - 📝 [Working Type](https://airbnb.design/working-type/).
 - 📝 [Using UI System Fonts In Web Design: A Quick Practical Guide](https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/).
 - 📝 [How to Get Stakeholders to Buy Into User Research](https://hackernoon.com/how-to-get-buy-in-for-doing-user-research-9dae432a8ec6).
 - 📝 [Agile Development Is No Excuse for Shoddy UX Research](http://www.uxmatters.com/mt/archives/2016/11/agile-development-is-no-excuse-for-shoddy-ux-research.php).
 - 📝 [Lean Inception](https://martinfowler.com/articles/lean-inception).
-- 🎥 [Malas gráficas](https://www.youtube.com/watch?v=dKJ2RAKWFGc).
 - 📝 [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886).
 - 📝 [Great Alternatives to Hamburger Menus](https://uxplanet.org/great-alternatives-to-hamburger-menus-d4c76d9414dd#.3ydxnkmih).
 - 📝 [How we lost 47% of our users after a redesign](https://icons8.com/articles/how-we-lost-47-of-our-users-after-a-redesign/).
@@ -300,27 +301,27 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 # Leadership
 - 🎥 [Tech Lead vs. Engineering Manager](https://www.youtube.com/watch?v=LD9G-pWung4).
 - 🎥 [Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow](https://www.youtube.com/watch?v=xqT8e6_yzLg).
-- 📝 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
 - 🎥 [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action).
 - 🎥 [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
-- 📝 [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
-- 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
-- 📝 [How to Give Constructive Design Feedback Over Email](https://medium.com/@tarngerine/how-to-give-constructive-design-feedback-over-email-be7ebb17deff).
-- 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
 - 🎥 [¿Qué es un Senior Developer?](https://www.youtube.com/watch?v=Vp0mR0XUrGo).
-- 📝 [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
-- 📝 [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
 - 🎥 [Human Performance](https://www.youtube.com/watch?v=qouPzSryggk).
 - 🎥 [Compassionate—Yet Candid—Code Reviews](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
 - 🎥 [Turn the Ship Around](https://www.youtube.com/watch?v=IzJL8zX3EVk).
 - 🎥 [De "Foso de Desarrollo nº 23" a "Un Goonie nunca dice muerto"](https://www.youtube.com/watch?v=e1N6oRQHopo).
-- 📝 [Team Membership: Controlled or Self-organized?](https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364).
 - 🎥 [If Russ Ackoff had given a TED Talk… ](https://www.youtube.com/watch?v=OqEeIG8aPPk).
+- 🎥 [Drive: The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY).
+- 🎥 [El feliz developer](https://www.youtube.com/watch?v=BtIMCqFZNQ4).
+- 📝 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
+- 📝 [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
+- 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
+- 📝 [How to Give Constructive Design Feedback Over Email](https://medium.com/@tarngerine/how-to-give-constructive-design-feedback-over-email-be7ebb17deff).
+- 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
+- 📝 [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
+- 📝 [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
+- 📝 [Team Membership: Controlled or Self-organized?](https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364).
 - 📝 [Where Does the Leadership Come From?](https://medium.com/agility-scales/where-does-the-leadership-come-from-3757a1acd1d1).
 - 📝 [Don't Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4).
 - 📝 ["How" ages faster than "Why"](https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b).
-- 🎥 [Drive: The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY).
-- 🎥 [El feliz developer](https://www.youtube.com/watch?v=BtIMCqFZNQ4).
 - 📝 [Re-structuring a growing team](https://jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637).
 - 📝 [We're Not a Startup: We're a Lifestyle Business (and We Love It)](https://marsbased.com/blog/2017/08/16/dont-call-startup-were-lifestyle-business/).
 - 📝 [The Art of Building Autonomous Teams](https://johnfergusonsmart.com/art-building-autonomous-teams/).
