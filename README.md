@@ -14,7 +14,7 @@ Most of the content will be in English and Spanish.
 
 _(I'll keep creating new categories as I see fit)._
 
-1. [Javascript](#javascript)
+1. [JavaScript](#javascript)
 2. [Vue](#vue)
 3. [React](#react)
 4. [CSS](#css)
@@ -44,7 +44,7 @@ ordered either.
 
 ---
 
-# Javascript
+# JavaScript
 - 🎥 [The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA).
 - 📝 [WTF is ES6, ES8, ES 2017, ECMAScript?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c).
 - 📝 [A Beginner's Guide to JavaScript's Prototype](https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk).
@@ -63,6 +63,8 @@ ordered either.
 - 📝 [The Present Future of User Interface Development](https://medium.com/@jevakallio/the-present-future-of-user-interface-development-ebd371255175).
 - 📝 [SEO para Progressive Web APPs (PWA) y Frameworks JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/).
 - 📝 [How to stop using console.log() and start using your browser’s debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).
+- 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
+- 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
 
 
 # Vue
@@ -105,6 +107,7 @@ ordered either.
 - 📝 [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862).
 - 📝 [Rebuilding slack.com ](https://slack.engineering/rebuilding-slack-com-b124c405c193).
 - 📝 [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/).
+- 📝 [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62).
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
 - 🤷 [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/).
@@ -124,6 +127,7 @@ ordered either.
 
 # Testing
 - 🎥 [Unit Testing sucks (and it's our fault)](https://www.youtube.com/watch?v=GZ9iZsMAZFQ).
+- 🎥 [TDD Mi cuaderno de recetas](https://www.youtube.com/watch?v=D1fWBImC2r8).
 - 📝 [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009).
 - 📝 [Mocking as a Design Tool](https://codurance.com/2018/10/18/mocking-as-a-design-tool/).
 - 📝 [Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50).
@@ -184,6 +188,7 @@ ordered either.
 - 🎥 [Making the Date](https://ronjeffries.com/xprog/articles/jatmakingthedate/).
 - 🎥 [Empresa Ágil del siglo XXI](https://www.youtube.com/watch?v=YTKvaJDuw8Q).
 - 🎥 [The Lean Organization](https://www.youtube.com/watch?list=PLKxa4AIfm4pWYrMY88Obx2JNVIjfXEm4v&v=kFLvzqE3Rr4).
+- 🎥 [El patadón palante. Posponer decisiones](https://www.youtube.com/watch?v=vEr2xbNoUxM).
 - 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04).
 - 📝 [How to Impose Agile](https://ronjeffries.com/articles/018-01ff/imposition/).
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
