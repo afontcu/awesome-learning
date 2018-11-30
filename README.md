@@ -304,7 +304,7 @@ ordered either.
 - 📚 [Lean UX](http://shop.oreilly.com/product/0636920021827.do/).
 - 📚 [Elements of User Experience: User-Centered Design for the Web and Beyond](http://www.jjg.net/elements/).
 - 📚 [El Arte de Medir](https://www.casadellibro.com/libro-el-arte-de-medir-manual-de-analitica-web/9788492956647/1829890).
-- 📚 [Usabilidad: deja de sufror](https://www.amazon.es/Usabilidad-Deja-sufrir-Social-Media/dp/8441539804).
+- 📚 [Usabilidad: deja de sufrir](https://www.amazon.es/Usabilidad-Deja-sufrir-Social-Media/dp/8441539804).
 - 📚 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA).
 
 
