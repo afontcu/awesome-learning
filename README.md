@@ -240,6 +240,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Faster. Faster. Faster.](https://hackernoon.com/faster-faster-faster-231c7b3d088d).
 - 📝 [WIP It Real Good](https://hackernoon.com/wip-it-real-good-66aa710178fd).
 - 📝 [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/).
+- 📝 [Self-Balanced, Not Self-Organized](https://blog.agilityscales.com/self-balanced-not-self-organized-4056dd6a087d).
 - 📝 [Why We Need WIP Limits](https://leankit.com/learn/kanban/why-we-need-wip-limits/).
 - 📝 [Want to scale agile? Don't. Descale the work first. Achieve big through small](https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540).
 - 📝 [Agilismo versus craftismo. Y diversidad](https://medium.com/scbcn/agilismo-versus-craftismo-y-diversidad-67c465e3acf7).
