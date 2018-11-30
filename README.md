@@ -28,6 +28,7 @@ _(I'll keep creating new categories as I see fit)._
 12. [UI design](#ui-design)
 12. [User Experience](#user-experience)
 13. [Leadership](#leadership)
+14. [Psychology](#psychology)
 
 
 I also tried to identify some formats:
@@ -42,6 +43,10 @@ I also tried to identify some formats:
 
 _Disclaimer_: Resouruces are not ordered (only by type). Categories are not
 ordered either.
+
+_Disclaimer #2_: A lot of resources and categories are overlapping. I know. I'm
+not trying to create a debate of whether if UX and UI should go together, or
+what does UX even mean if there's a Psychology category!
 
 ---
 
@@ -185,6 +190,7 @@ ordered either.
 - 📝 [Imaginary Problems Are the Root of Bad Software ](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
 - 📝 [The essence of story slicing in agile development](https://medium.com/@neil2killick/the-essence-of-story-slicing-in-agile-development-fc16a1226941).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
+- 📚 [Zero to One](http://zerotoonebook.com/).
 
 
 # Agile and Software Crafting
@@ -198,12 +204,10 @@ ordered either.
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
 - 📝 [Do you want Crappy Agile?](https://ronjeffries.com/articles/016-03/you-want/).
 - 📝 [The Tragedy of Craftsmanship](http://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html).
-- 📝 [The Code Quality vs. Speed Fallacy](https://medium.com/@asciamanna/the-code-quality-vs-speed-fallacy-f4eea147b23e).
 - 📝 [The Agile Bicycle](https://dotdev.co/the-agile-bicycle-829a83b18e7).
 - 📝 [Agile is a mindset not a process!](https://medium.com/@HaydenSlaughter/agile-is-a-mindset-not-a-process-3fbcb27ad097).
 - 📝 [The Principles of Kanban method](https://web.archive.org/web/20140114161522/http://www.djaa.com/principles-kanban-method).
 - 📝 [12 Signs You're Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2).
-- 📝 [Agilismo, psicología y cosas que chirrían](https://medium.com/@lainde/agilismo-psicolog%C3%ADa-y-cosas-que-chirr%C3%ADan-1d099736c1ad).
 - 📝 [Order-Takers vs. Value-Builders](https://hackernoon.com/order-takers-vs-value-builders-f4cd387462b8).
 - 📝 [What Does an Agile Culture Look Like?](https://everydayagile.com/what-does-an-agile-culture-look-like-ab14c5724e91).
 - 📝 [Agile Died While You Were Doing Your Standup](http://www.mindtheproduct.com/2017/04/agile-died-standup/).
@@ -218,6 +222,7 @@ ordered either.
 - 📝 [ScrumMaster: Should They Be Technical Or Not? ](https://inspectandadapt.com/blog/scrum/should-the-scrummaster-be-technical/).
 - 📝 [Agile doesn't have a brain ](https://medium.com/@jboogie/agile-doesnt-have-a-brain-51c2835a838).
 - 📝 [Adopting Agile? You're aiming at the wrong target](https://www.linkedin.com/pulse/adopting-agile-youre-aiming-wrong-target-tim-snyder).
+- 📝 [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
 - 📝 [Software Development: Fast and Slow](https://www.targetprocess.com/blog/2013/07/software-development-fast-and-slow/).
 - 📝 [Your developers are not slow](https://sprint.ly/blog/your-developers-arent-slow/).
 - 📝 [Henry Ford: Master of flow](https://yorkesoftware.com/2017/06/13/henry-ford-master-of-flow/).
@@ -230,6 +235,8 @@ ordered either.
 - 📝 [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/).
 - 📝 [Why We Need WIP Limits](https://leankit.com/learn/kanban/why-we-need-wip-limits/).
 - 📝 [Want to scale agile? Don't. Descale the work first. Achieve big through small](https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540).
+- 📝 [Agilismo versus craftismo. Y diversidad](https://medium.com/scbcn/agilismo-versus-craftismo-y-diversidad-67c465e3acf7).
+- 📝 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
 
 
 # Programming and Computer Science
@@ -264,8 +271,7 @@ ordered either.
 - 📝 [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex).
 - 📝 [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960).
 - 📝 [Server to Client](https://alistapart.com/article/server-to-client).
-- 📝 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
-- 📝 [Agilismo versus craftismo. Y diversidad](https://medium.com/scbcn/agilismo-versus-craftismo-y-diversidad-67c465e3acf7).
+- 📝 [The Code Quality vs. Speed Fallacy](https://medium.com/@asciamanna/the-code-quality-vs-speed-fallacy-f4eea147b23e).
 
 
 # UI Design
@@ -282,6 +288,7 @@ ordered either.
 - 📝 [The King vs. Pawn Game of UI Design](http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design).
 - 📝 [Rhythm in Web Typography](https://betterwebtype.com/rhythm-in-web-typography).
 - 📝 ['Me gusta' no es un argumento de diseño](https://medium.com/@javiercanada/me-gusta-no-es-un-argumento-de-dise%C3%B1o-5c3fa5b87c06).
+- 📝 [How to Give Constructive Design Feedback Over Email](https://medium.com/@tarngerine/how-to-give-constructive-design-feedback-over-email-be7ebb17deff).
 - 📚 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123/).
 
 
@@ -307,34 +314,23 @@ ordered either.
 - 📚 [Elements of User Experience: User-Centered Design for the Web and Beyond](http://www.jjg.net/elements/).
 - 📚 [El Arte de Medir](https://www.casadellibro.com/libro-el-arte-de-medir-manual-de-analitica-web/9788492956647/1829890).
 - 📚 [Usabilidad: deja de sufrir](https://www.amazon.es/Usabilidad-Deja-sufrir-Social-Media/dp/8441539804).
-- 📚 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA).
 
 
 # Leadership
 - 🎥 [Tech Lead vs. Engineering Manager](https://www.youtube.com/watch?v=LD9G-pWung4).
 - 🎥 [Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow](https://www.youtube.com/watch?v=xqT8e6_yzLg).
 - 🎥 [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action).
-- 🎥 [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
 - 🎥 [¿Qué es un Senior Developer?](https://www.youtube.com/watch?v=Vp0mR0XUrGo).
-- 🎥 [Human Performance](https://www.youtube.com/watch?v=qouPzSryggk).
-- 🎥 [Compassionate—Yet Candid—Code Reviews](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
 - 🎥 [Turn the Ship Around](https://www.youtube.com/watch?v=IzJL8zX3EVk).
 - 🎥 [De "Foso de Desarrollo nº 23" a "Un Goonie nunca dice muerto"](https://www.youtube.com/watch?v=e1N6oRQHopo).
 - 🎥 [If Russ Ackoff had given a TED Talk… ](https://www.youtube.com/watch?v=OqEeIG8aPPk).
-- 🎥 [Drive: The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY).
 - 🎥 [El feliz developer](https://www.youtube.com/watch?v=BtIMCqFZNQ4).
 - 🎥 [El hombre pisó la luna, pero gracias a la mujer](https://www.youtube.com/watch?v=Wvkwfwgn2mE).
 - 🎥 [Teal organization: a living example](https://www.youtube.com/watch?v=ClnHKqtfR7M).
 - 📝 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
-- 📝 [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
-- 📝 [How to Give Constructive Design Feedback Over Email](https://medium.com/@tarngerine/how-to-give-constructive-design-feedback-over-email-be7ebb17deff).
-- 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
-- 📝 [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
-- 📝 [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
 - 📝 [Team Membership: Controlled or Self-organized?](https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364).
 - 📝 [Where Does the Leadership Come From?](https://medium.com/agility-scales/where-does-the-leadership-come-from-3757a1acd1d1).
-- 📝 [Don't Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4).
 - 📝 ["How" ages faster than "Why"](https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b).
 - 📝 [Re-structuring a growing team](https://jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637).
 - 📝 [We're Not a Startup: We're a Lifestyle Business (and We Love It)](https://marsbased.com/blog/2017/08/16/dont-call-startup-were-lifestyle-business/).
@@ -343,13 +339,25 @@ ordered either.
 - 📝 [How To Tell If Someone Is Truly Smart Or Just Average](https://medium.com/the-mission/how-to-tell-if-someone-is-truly-smart-or-just-average-a2f0bcac5db2).
 - 📝 [Experiment Together. Improve Together. Win Together](https://hackernoon.com/experiment-together-improve-together-win-together-8d353abd2f0f).
 - 📝 [Dedicated Ownership for Teams at Zalon](https://jobs.zalando.com/tech/blog/dedicated-ownership-for-teams-at-zalon/).
+- 📝 [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/).
+- 📝 [Hartazgo de Liderazgo… O crítica a la formación mainstream sobre liderazgo.](https://medium.com/@lainde/hartazgo-de-liderazgo-766687e9235a).
+- 📚 [Tribal Leadership](https://www.triballeadership.net/book).
+- 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
+- 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
+
+
+# Psychology
+- 🎥 [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
+- 🎥 [Drive: The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY).
+- 🎥 [Compassionate—Yet Candid—Code Reviews](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
+- 🎥 [Human Performance](https://www.youtube.com/watch?v=qouPzSryggk).
+- 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
+- 📝 [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
+- 📝 [Agilismo, psicología y cosas que chirrían](https://medium.com/@lainde/agilismo-psicolog%C3%ADa-y-cosas-que-chirr%C3%ADan-1d099736c1ad).
+- 📝 [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
+- 📝 [Don't Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4).
 - 📝 [How Stories Change Our Brains](https://shane.substack.com/p/how-stories-change-our-brains).
 - 📝 [Truth Hurts (And Values Should Too!)](https://shane.substack.com/p/truth-hurts-and-values-should-too).
 - 📝 [Feedback Equation](https://larahogan.me/blog/feedback-equation/).
-- 📝 [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/).
-- 📝 [Hartazgo de Liderazgo… O crítica a la formación mainstream sobre liderazgo.](https://medium.com/@lainde/hartazgo-de-liderazgo-766687e9235a).
-- 📚 [Zero to One](http://zerotoonebook.com/).
-- 📚 [Tribal Leadership](https://www.triballeadership.net/book).
-- 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805).
-- 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
+- 📚 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA).
