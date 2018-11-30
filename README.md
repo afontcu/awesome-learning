@@ -34,6 +34,7 @@ I also tried to identify some formats:
 - 📝 Post, article.
 - 🔈 Podcast.
 - 🎥 Talk or Video Course.
+- 📚 Book.
 - 🤷 Other (an online game, an infographic...).
 
 ---
@@ -175,6 +176,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e).
 - 📝 [Process > Outcome (How to Overcome The Outcome Bias) ](https://medium.com/personal-growth/process-outcome-how-to-overcome-the-outcome-bias-acc521a30484).
 - 📝 [Imaginary Problems Are the Root of Bad Software ](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
+- 📚 [The Lean Startup](http://theleanstartup.com/).
 
 
 # Agile and Software Crafting
@@ -252,6 +254,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex).
 - 📝 [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960).
 - 📝 [Server to Client](https://alistapart.com/article/server-to-client).
+- 📝 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
 
 
 # UX and Design
@@ -285,6 +288,13 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b).
 - 📝 [How to Stop UX Research being a Blocker](https://medium.com/beakerandflint/how-to-stop-ux-research-being-a-blocker-225d91105de8).
 - 📝 [Rhythm in Web Typography](https://betterwebtype.com/rhythm-in-web-typography).
+- 📚 [Don't Make Me Think](https://www.oreilly.com/library/view/dont-make-me/0321344758/).
+- 📚 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123/).
+- 📚 [Lean UX](http://shop.oreilly.com/product/0636920021827.do/).
+- 📚 [Elements of User Experience: User-Centered Design for the Web and Beyond](http://www.jjg.net/elements/).
+- 📚 [El Arte de Medir](https://www.casadellibro.com/libro-el-arte-de-medir-manual-de-analitica-web/9788492956647/1829890).
+- 📚 [Usabilidad: deja de sufror](https://www.amazon.es/Usabilidad-Deja-sufrir-Social-Media/dp/8441539804).
+- 📚 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA).
 
 
 # Leadership
@@ -322,3 +332,8 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [Truth Hurts (And Values Should Too!)](https://shane.substack.com/p/truth-hurts-and-values-should-too).
 - 📝 [Feedback Equation](https://larahogan.me/blog/feedback-equation/).
 - 📝 [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/).
+- 📚 [Zero to One](http://zerotoonebook.com/).
+- 📚 [Tribal Leadership](https://www.triballeadership.net/book).
+- 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
+- 📚 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805).
+- 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
