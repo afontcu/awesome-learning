@@ -9,6 +9,12 @@ enjoyed consuming.
 
 Most of the content will be in English and Spanish.
 
+## "Dude, I loved this amazing post/talk/book and it's not on the list!"
+
+That's beyond amazing! Feel free to submit a PR :) If I really enjoy the content
+(and I probably will), I'll add it to the list. Thank  you! ❤️
+
+---
 
 ## Categories
 
