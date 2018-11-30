@@ -183,6 +183,7 @@ ordered either.
 - 📝 [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e).
 - 📝 [Process > Outcome (How to Overcome The Outcome Bias) ](https://medium.com/personal-growth/process-outcome-how-to-overcome-the-outcome-bias-acc521a30484).
 - 📝 [Imaginary Problems Are the Root of Bad Software ](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
+- 📝 [The essence of story slicing in agile development](https://medium.com/@neil2killick/the-essence-of-story-slicing-in-agile-development-fc16a1226941).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 
 
@@ -192,6 +193,7 @@ ordered either.
 - 🎥 [The Lean Organization](https://www.youtube.com/watch?list=PLKxa4AIfm4pWYrMY88Obx2JNVIjfXEm4v&v=kFLvzqE3Rr4).
 - 🎥 [El patadón palante. Posponer decisiones](https://www.youtube.com/watch?v=vEr2xbNoUxM).
 - 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04).
+- 🎥 [Menos agilismo y más agilidad](https://www.youtube.com/watch?v=u__JwxhWigE).
 - 📝 [How to Impose Agile](https://ronjeffries.com/articles/018-01ff/imposition/).
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
 - 📝 [Do you want Crappy Agile?](https://ronjeffries.com/articles/016-03/you-want/).
@@ -209,12 +211,10 @@ ordered either.
 - 📝 [Agile Tooth Fairy and top barrier for Agile adoption](https://tisquirrel.me/2015/03/02/agile-tooth-fairy-and-top-barrier-for-agile-adoption/).
 - 📝 [Why we moved from Scrum to Kanban](https://medium.com/skim-technologies/why-we-moved-from-scrum-to-kanban-b578d210ef8a).
 - 📝 [Como ser Agile Product Owner y no morir en el intento](https://inside.runroom.com/agile-product-owner-en-apuros/).
-- 📝 [The essence of story slicing in agile development](https://medium.com/@neil2killick/the-essence-of-story-slicing-in-agile-development-fc16a1226941).
 - 📝 [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae).
 - 📝 [Why developers are slow?](https://tisquirrel.me/2015/03/30/why-developers-are-slow/).
 - 📝 [What's Missing In The Agile Manifesto: Mindset](https://www.forbes.com/sites/stevedenning/2016/06/07/the-key-missing-ingredient-in-the-agile-manifesto-mindset/#7fe910146a93).
 - 📝 [When story points misfire](https://medium.com/xing-engineering/when-story-points-misfire-88b068bfc97c).
-- 📝 [Menos agilismo y más agilidad](https://www.youtube.com/watch?v=u__JwxhWigE).
 - 📝 [ScrumMaster: Should They Be Technical Or Not? ](https://inspectandadapt.com/blog/scrum/should-the-scrummaster-be-technical/).
 - 📝 [Agile doesn't have a brain ](https://medium.com/@jboogie/agile-doesnt-have-a-brain-51c2835a838).
 - 📝 [Adopting Agile? You're aiming at the wrong target](https://www.linkedin.com/pulse/adopting-agile-youre-aiming-wrong-target-tim-snyder).
@@ -237,6 +237,8 @@ ordered either.
 - 🎥 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 - 🎥 [Mejorando como desarrolladores](https://www.youtube.com/watch?v=AHVnR0oLk6Y).
 - 🎥 [Towards an inclusive craft](https://www.youtube.com/watch?v=43mP7l-w3po).
+- 🎥 [Time to grow up](https://www.youtube.com/watch?v=2jaPgSiy1jg).
+- 🎥 [Simplicidad para desarrolladores](https://www.youtube.com/watch?v=6FDxbCzh2sI).
 - 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Refactoring](https://sourcemaking.com/refactoring).
@@ -250,13 +252,11 @@ ordered either.
 - 📝 [REST vs. GraphQL: A Critical Review](https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7).
 - 📝 [The Human Cost of Tech Debt](http://www.infragistics.com/community/blogs/erikdietrich/archive/2016/06/29/the-human-cost-of-tech-debt.aspx).
 - 📝 [Paying Technical Debt : How To Rescue Legacy Code through Refactoring](http://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring).
-- 📝 [Time to grow up](https://www.youtube.com/watch?v=2jaPgSiy1jg).
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
 - 📝 [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
 - 📝 [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b).
-- 📝 [Simplicidad para desarrolladores](https://www.youtube.com/watch?v=6FDxbCzh2sI).
 - 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
 - 📝 [The State of Being Stuck](https://mathwithbaddrawings.com/2017/09/20/the-state-of-being-stuck/amp/).
 - 📝 [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68).
