@@ -60,6 +60,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 🎥 [The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA).
 - 📝 [The Present Future of User Interface Development](https://medium.com/@jevakallio/the-present-future-of-user-interface-development-ebd371255175).
 - 📝 [SEO para Progressive Web APPs (PWA) y Frameworks JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/).
+- 📝 [How to stop using console.log() and start using your browser’s debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).
 
 
 # Vue
@@ -141,12 +142,13 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7).
 - 📝 [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3).
 - 📝 [Popular HTTP Headers for Enhancing Performance](https://www.keycdn.com/blog/http-headers/).
+- 📝 [Font loading strategy for single page applications](https://jeremenichelli.io/2018/07/font-loading-strategy-single-page-applications/).
 
 
 # Accessibility
 - 🎥 [Common ways we break accessibility and how to avoid](https://www.youtube.com/watch?v=O_OJfY4Jax4).
 - 🎥 [Getting your priorities straight](https://www.youtube.com/watch?v=MZfZO9mTKpU).
-- 📝 [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/).
+- 🤷 [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/).
 - 📝 [The Web Accessibility Introduction I Wish I Had](https://dev.to/maxwell_dev/the-web-accessibility-introduction-i-wish-i-had-4ope).
 - 📝 [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/).
 - 📝 [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/).
@@ -172,6 +174,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [All You Need To Know About Customer Journey Mapping](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/).
 - 📝 [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e).
 - 📝 [Process > Outcome (How to Overcome The Outcome Bias) ](https://medium.com/personal-growth/process-outcome-how-to-overcome-the-outcome-bias-acc521a30484).
+- 📝 [Imaginary Problems Are the Root of Bad Software ](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
 
 
 # Agile and Software Crafting
@@ -216,6 +219,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [WIP It Real Good](https://hackernoon.com/wip-it-real-good-66aa710178fd).
 - 📝 [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/).
 - 📝 [Why We Need WIP Limits](https://leankit.com/learn/kanban/why-we-need-wip-limits/).
+- 📝 [Want to scale agile? Don’t. Descale the work first. Achieve big through small](https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540).
 
 
 # Programming and Computer Science
@@ -247,6 +251,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2).
 - 📝 [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex).
 - 📝 [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960).
+- 📝 [Server to Client](https://alistapart.com/article/server-to-client).
 
 
 # UX and Design
@@ -279,6 +284,7 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [The King vs. Pawn Game of UI Design](http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design).
 - 📝 [The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b).
 - 📝 [How to Stop UX Research being a Blocker](https://medium.com/beakerandflint/how-to-stop-ux-research-being-a-blocker-225d91105de8).
+- 📝 [Rhythm in Web Typography](https://betterwebtype.com/rhythm-in-web-typography).
 
 
 # Leadership
@@ -315,3 +321,4 @@ _Disclaimer_: Posts are not ordered. Categories are not ordered.
 - 📝 [How Stories Change Our Brains](https://shane.substack.com/p/how-stories-change-our-brains).
 - 📝 [Truth Hurts (And Values Should Too!)](https://shane.substack.com/p/truth-hurts-and-values-should-too).
 - 📝 [Feedback Equation](https://larahogan.me/blog/feedback-equation/).
+- 📝 [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/).
