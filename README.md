@@ -18,7 +18,7 @@ That's beyond amazing! Feel free to submit a PR :) If I really enjoy the content
 
 ## Categories
 
-_(I'll keep creating new categories as I see fit)._
+_(Categories are not set in stone - I'll keep creating them when needed)._
 
 1. [JavaScript](#javascript)
 2. [Vue](#vue)
