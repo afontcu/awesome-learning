@@ -167,6 +167,7 @@ what does UX even mean if there's a Psychology category!
 # Accessibility
 - 🎥 [Common ways we break accessibility and how to avoid](https://www.youtube.com/watch?v=O_OJfY4Jax4).
 - 🎥 [Getting your priorities straight](https://www.youtube.com/watch?v=MZfZO9mTKpU).
+- 🎥 [Inteligencia artificial para acabar con la dislexia](https://www.youtube.com/watch?v=csWnPn6fEa8).
 - 📝 [The Web Accessibility Introduction I Wish I Had](https://dev.to/maxwell_dev/the-web-accessibility-introduction-i-wish-i-had-4ope).
 - 📝 [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/).
 - 📝 [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/).
@@ -357,6 +358,7 @@ what does UX even mean if there's a Psychology category!
 - 🎥 [Drive: The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY).
 - 🎥 [Compassionate—Yet Candid—Code Reviews](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
 - 🎥 [Human Performance](https://www.youtube.com/watch?v=qouPzSryggk).
+- 🎥 [Inteligencia artificial para acabar con la dislexia](https://www.youtube.com/watch?v=csWnPn6fEa8).
 - 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
 - 📝 [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
 - 📝 [Agilismo, psicología y cosas que chirrían](https://medium.com/@lainde/agilismo-psicolog%C3%ADa-y-cosas-que-chirr%C3%ADan-1d099736c1ad).
