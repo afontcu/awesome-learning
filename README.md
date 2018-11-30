@@ -25,8 +25,9 @@ _(I'll keep creating new categories as I see fit)._
 9. [Product Management](#product-management)
 10. [Agile and Software Crafting](#agile-and-software-crafting)
 11. [Programming and Computer Science](#programming-and-computer-science)
-12. [UX and design](#ux-and-design)
-13. [Leadership](#leadership)
+12. [Diversity and inclusion](#diversity-and-inclusion)
+13. [UX and design](#ux-and-design)
+14. [Leadership](#leadership)
 
 
 I also tried to identify some formats:
@@ -46,6 +47,7 @@ ordered either.
 
 # JavaScript
 - 🎥 [The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA).
+- 🎥 [Me da igual tu framework JavaScript](https://www.youtube.com/watch?v=9gT8q2WEGU8).
 - 📝 [WTF is ES6, ES8, ES 2017, ECMAScript?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c).
 - 📝 [A Beginner's Guide to JavaScript's Prototype](https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk).
 - 📝 [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2).
@@ -62,7 +64,7 @@ ordered either.
 - 📝 [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/).
 - 📝 [The Present Future of User Interface Development](https://medium.com/@jevakallio/the-present-future-of-user-interface-development-ebd371255175).
 - 📝 [SEO para Progressive Web APPs (PWA) y Frameworks JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/).
-- 📝 [How to stop using console.log() and start using your browser’s debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).
+- 📝 [How to stop using console.log() and start using your browser's debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).
 - 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 - 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
 
@@ -127,7 +129,7 @@ ordered either.
 
 # Testing
 - 🎥 [Unit Testing sucks (and it's our fault)](https://www.youtube.com/watch?v=GZ9iZsMAZFQ).
-- 🎥 [TDD Mi cuaderno de recetas](https://www.youtube.com/watch?v=D1fWBImC2r8).
+- 🎥 [TDD Mi cuaderno de recetas](https://www.youtube.com/watch?v=o9yspCrKHV0).
 - 📝 [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009).
 - 📝 [Mocking as a Design Tool](https://codurance.com/2018/10/18/mocking-as-a-design-tool/).
 - 📝 [Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50).
@@ -174,7 +176,7 @@ ordered either.
 - 📝 [The Three Jobs of Product Management](https://productcoalition.com/three-jobs-of-product-management-9e006f944bc7).
 - 📝 [Why we kick off any new project with a Design Sprint](https://journal.mozestudio.com/why-we-kick-off-any-new-project-with-a-design-sprint-5b7177f432b5).
 - 📝 [The Ultimate Guide to Minimum Viable Product](https://hackernoon.com/the-ultimate-guide-to-minimum-viable-product-59218ce738f8).
-- 📝 [Got a great product idea? Don’t build it](https://medium.com/swlh/got-a-great-product-idea-dont-build-it-4499c6ab581f).
+- 📝 [Got a great product idea? Don't build it](https://medium.com/swlh/got-a-great-product-idea-dont-build-it-4499c6ab581f).
 - 📝 [Looking beyond launch](https://clearleft.com/posts/425).
 - 📝 [Your app is an onion: Why software projects spiral out of control](https://medium.com/swlh/your-app-is-an-onion-why-software-projects-spiral-out-of-control-bb9247d9bdbd).
 - 📝 [All You Need To Know About Customer Journey Mapping](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/).
@@ -222,17 +224,19 @@ ordered either.
 - 📝 [How Do We Go Faster?](https://hackernoon.com/how-do-we-go-faster-ed51207952a8).
 - 📝 [One year of agile teams at aFrogleap](https://afrogleap.com/agile/one-year-of-agile-teams-at-afrogleap/).
 - 📝 [Going Into Deep Space: Creating the Right Environment for Your Open Space](https://labs.spotify.com/2017/05/31/going-into-deep-space-creating-the-right-environment-for-your-open-space/).
-- 📝 [Why Isn’t Agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552).
+- 📝 [Why Isn't Agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552).
 - 📝 [Faster. Faster. Faster.](https://hackernoon.com/faster-faster-faster-231c7b3d088d).
 - 📝 [WIP It Real Good](https://hackernoon.com/wip-it-real-good-66aa710178fd).
 - 📝 [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/).
 - 📝 [Why We Need WIP Limits](https://leankit.com/learn/kanban/why-we-need-wip-limits/).
-- 📝 [Want to scale agile? Don’t. Descale the work first. Achieve big through small](https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540).
+- 📝 [Want to scale agile? Don't. Descale the work first. Achieve big through small](https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540).
 
 
 # Programming and Computer Science
 - 🎥 [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg).
 - 🎥 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
+- 🎥 [Mejorando como desarrolladores](https://www.youtube.com/watch?v=AHVnR0oLk6Y).
+- 🎥 [Towards an inclusive craft](https://www.youtube.com/watch?v=43mP7l-w3po).
 - 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Refactoring](https://sourcemaking.com/refactoring).
@@ -261,6 +265,7 @@ ordered either.
 - 📝 [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960).
 - 📝 [Server to Client](https://alistapart.com/article/server-to-client).
 - 📝 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
+- 📝 [Agilismo versus craftismo. Y diversidad](https://medium.com/scbcn/agilismo-versus-craftismo-y-diversidad-67c465e3acf7).
 
 
 # UX and Design
@@ -294,6 +299,7 @@ ordered either.
 - 📝 [The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b).
 - 📝 [How to Stop UX Research being a Blocker](https://medium.com/beakerandflint/how-to-stop-ux-research-being-a-blocker-225d91105de8).
 - 📝 [Rhythm in Web Typography](https://betterwebtype.com/rhythm-in-web-typography).
+- 📝 ['Me gusta' no es un argumento de diseño](https://medium.com/@javiercanada/me-gusta-no-es-un-argumento-de-dise%C3%B1o-5c3fa5b87c06).
 - 📚 [Don't Make Me Think](https://www.oreilly.com/library/view/dont-make-me/0321344758/).
 - 📚 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123/).
 - 📚 [Lean UX](http://shop.oreilly.com/product/0636920021827.do/).
@@ -316,6 +322,7 @@ ordered either.
 - 🎥 [If Russ Ackoff had given a TED Talk… ](https://www.youtube.com/watch?v=OqEeIG8aPPk).
 - 🎥 [Drive: The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY).
 - 🎥 [El feliz developer](https://www.youtube.com/watch?v=BtIMCqFZNQ4).
+- 🎥 [El hombre pisó la luna, pero gracias a la mujer](https://www.youtube.com/watch?v=Wvkwfwgn2mE).
 - 📝 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
 - 📝 [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
@@ -338,6 +345,7 @@ ordered either.
 - 📝 [Truth Hurts (And Values Should Too!)](https://shane.substack.com/p/truth-hurts-and-values-should-too).
 - 📝 [Feedback Equation](https://larahogan.me/blog/feedback-equation/).
 - 📝 [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/).
+- 📝 [Hartazgo de Liderazgo… O crítica a la formación mainstream sobre liderazgo.](https://medium.com/@lainde/hartazgo-de-liderazgo-766687e9235a).
 - 📚 [Zero to One](http://zerotoonebook.com/).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
