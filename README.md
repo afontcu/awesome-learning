@@ -82,6 +82,8 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9).
 - 📝 [Why every beginner front-end developer should know publish-subscribe pattern?](https://itnext.io/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-72a12cd68d44).
 - 📝 [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c).
+- 📝 [Removing jQuery from GitHub.com frontend](https://githubengineering.com/removing-jquery-from-github-frontend/).
+- 📝 [How Does React Tell a Class from a Function?](https://overreacted.io/how-does-react-tell-a-class-from-a-function/).
 - 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 - 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
 
@@ -108,6 +110,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e).
 - 📝 [React's JSX: The Other Side of the Coin](https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98).
 - 📝 [React hooks: not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e).
+- 📝 [Thinking About React, Atomically](https://blog.usejournal.com/thinking-about-react-atomically-608c865d2262).
 
 
 # CSS
@@ -256,6 +259,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Agilismo versus craftismo. Y diversidad](https://medium.com/scbcn/agilismo-versus-craftismo-y-diversidad-67c465e3acf7).
 - 📝 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
 - 📝 [Roles dinamizadores de la Transformación Ágil](https://transformacionagil.org/2018/10/22/roles-dinamizadores-de-la-transformacion-agil-agile-coaches-y-hr/).
+- 📝 [Dinámicas de PO como motor de cambio del equipo](https://medium.com/@ladypain/din%C3%A1micas-de-po-como-motor-de-cambio-del-equipo-95aa9ea89430).
 
 
 # Programming and Computer Science
@@ -370,6 +374,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [What Truly Makes a Senior Developer](https://medium.com/s/story/what-truly-makes-a-senior-developer-74b608847d7e).
 - 📝 [Lessons Learned by Mentoring](https://dev.to/rpalo/lessons-learned-by-mentoring-1k6i).
 - 📝 [Software Engineering Leadership](https://ericbrooke.wordpress.com/2018/09/16/software-engineering-leadership/).
+- 📝 [The Six Leadership Styles for effective Team Performance](https://www.educational-business-articles.com/six-leadership-styles/).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
