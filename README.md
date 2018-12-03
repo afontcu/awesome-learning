@@ -289,7 +289,6 @@ what does UX even mean if there's a Psychology category!
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
 - 📝 [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b).
 - 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
-- 📝 [The State of Being Stuck](https://mathwithbaddrawings.com/2017/09/20/the-state-of-being-stuck/amp/).
 - 📝 [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68).
 - 📝 [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2).
 - 📝 [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex).
@@ -393,6 +392,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Don't Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4).
 - 📝 [How Stories Change Our Brains](https://shane.substack.com/p/how-stories-change-our-brains).
 - 📝 [Truth Hurts (And Values Should Too!)](https://shane.substack.com/p/truth-hurts-and-values-should-too).
+- 📝 [The State of Being Stuck](https://mathwithbaddrawings.com/2017/09/20/the-state-of-being-stuck/amp/).
 - 📝 [Feedback Equation](https://larahogan.me/blog/feedback-equation/).
 - 📚 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805).
 - 📚 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA).
