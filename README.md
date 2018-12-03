@@ -59,6 +59,8 @@ what does UX even mean if there's a Psychology category!
 # JavaScript
 - 🎥 [The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA).
 - 🎥 [Me da igual tu framework JavaScript](https://www.youtube.com/watch?v=9gT8q2WEGU8).
+- 🎥 [npm and the future of JavaScript](https://www.youtube.com/watch?v=mSQh0gcDXkc).
+- 🎥 [Keep Betting on JavaScript](https://www.youtube.com/watch?v=lDLQA6lQSFg).
 - 📝 [WTF is ES6, ES8, ES 2017, ECMAScript?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c).
 - 📝 [A Beginner's Guide to JavaScript's Prototype](https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk).
 - 📝 [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2).
@@ -77,11 +79,15 @@ what does UX even mean if there's a Psychology category!
 - 📝 [The Present Future of User Interface Development](https://medium.com/@jevakallio/the-present-future-of-user-interface-development-ebd371255175).
 - 📝 [SEO para Progressive Web APPs (PWA) y Frameworks JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/).
 - 📝 [How to stop using console.log() and start using your browser's debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).
+- 📝 [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9).
+- 📝 [Why every beginner front-end developer should know publish-subscribe pattern?](https://itnext.io/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-72a12cd68d44).
+- 📝 [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c).
 - 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 - 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
 
 
 # Vue
+- 🎥 [The Trick to Understanding Scoped Slots in Vue.js](https://www.youtube.com/watch?v=GWdOucfAzTo).
 - 📝 [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77).
 - 📝 [A React Point of Vue](https://www.vuemastery.com/conferences/vueconf-2018/a-react-point-of-vue-divya-sasidharan/).
 - 📝 [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/).
@@ -101,6 +107,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [A different way to manage state in React](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482).
 - 📝 [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e).
 - 📝 [React's JSX: The Other Side of the Coin](https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98).
+- 📝 [React hooks: not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e).
 
 
 # CSS
@@ -121,6 +128,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Rebuilding slack.com ](https://slack.engineering/rebuilding-slack-com-b124c405c193).
 - 📝 [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/).
 - 📝 [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62).
+- 📝 [A Tale of Two Buttons](https://medium.com/buildit/a-tale-of-two-buttons-e63185aefd5f).
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
 - 🤷 [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/).
@@ -153,6 +161,7 @@ what does UX even mean if there's a Psychology category!
 - 🎥 [FaCSSt—CSS and Performance](https://www.youtube.com/watch?v=2Rn8an74khk).
 - 🎥 [Web Performance: Learn to Make Your Websites Load Fast with Webpack 4](https://frontendmasters.com/courses/performance-webpack/).
 - 📝 [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0).
+- 📝 [Web Performance 101](https://3perf.com/talks/web-perf-101/).
 - 📝 [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf).
 - 📝 [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4).
 - 📝 [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html).
@@ -172,6 +181,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/).
 - 📝 [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/).
 - 🤷 [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/).
+- 🤷 [Inclusive Components](https://inclusive-components.design).
 
 
 # Product Management
@@ -245,6 +255,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Want to scale agile? Don't. Descale the work first. Achieve big through small](https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540).
 - 📝 [Agilismo versus craftismo. Y diversidad](https://medium.com/scbcn/agilismo-versus-craftismo-y-diversidad-67c465e3acf7).
 - 📝 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
+- 📝 [Roles dinamizadores de la Transformación Ágil](https://transformacionagil.org/2018/10/22/roles-dinamizadores-de-la-transformacion-agil-agile-coaches-y-hr/).
 
 
 # Programming and Computer Science
@@ -254,6 +265,7 @@ what does UX even mean if there's a Psychology category!
 - 🎥 [Towards an inclusive craft](https://www.youtube.com/watch?v=43mP7l-w3po).
 - 🎥 [Time to grow up](https://www.youtube.com/watch?v=2jaPgSiy1jg).
 - 🎥 [Simplicidad para desarrolladores](https://www.youtube.com/watch?v=6FDxbCzh2sI).
+- 🎥 [Writing Readable Code](https://www.youtube.com/watch?v=OVf0xP4BLq0).
 - 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Refactoring](https://sourcemaking.com/refactoring).
@@ -280,6 +292,10 @@ what does UX even mean if there's a Psychology category!
 - 📝 [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960).
 - 📝 [Server to Client](https://alistapart.com/article/server-to-client).
 - 📝 [The Code Quality vs. Speed Fallacy](https://medium.com/@asciamanna/the-code-quality-vs-speed-fallacy-f4eea147b23e).
+- 📝 [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b).
+- 📝 [Level Up Your Reverse Engineering Skills](https://blog.angularindepth.com/level-up-your-reverse-engineering-skills-8f910ae10630).
+- 📝 [Writing Tidy Code](https://csswizardry.com/2017/05/writing-tidy-code/).
+- 📝 [Programming Sucks](https://www.stilldrinking.org/programming-sucks).
 
 
 # UI Design
@@ -297,6 +313,8 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Rhythm in Web Typography](https://betterwebtype.com/rhythm-in-web-typography).
 - 📝 ['Me gusta' no es un argumento de diseño](https://medium.com/@javiercanada/me-gusta-no-es-un-argumento-de-dise%C3%B1o-5c3fa5b87c06).
 - 📝 [How to Give Constructive Design Feedback Over Email](https://medium.com/@tarngerine/how-to-give-constructive-design-feedback-over-email-be7ebb17deff).
+- 📝 [On Switching from HEX & RGB to HSL](https://www.sarasoueidan.com/blog/hex-rgb-to-hsl/).
+- 📝 [The system always kicks back](https://ux.shopify.com/the-system-always-kicks-back-d94b945407f2?gi=6e6cef402550).
 - 📚 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123/).
 
 
@@ -349,6 +367,9 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Dedicated Ownership for Teams at Zalon](https://jobs.zalando.com/tech/blog/dedicated-ownership-for-teams-at-zalon/).
 - 📝 [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/).
 - 📝 [Hartazgo de Liderazgo… O crítica a la formación mainstream sobre liderazgo.](https://medium.com/@lainde/hartazgo-de-liderazgo-766687e9235a).
+- 📝 [What Truly Makes a Senior Developer](https://medium.com/s/story/what-truly-makes-a-senior-developer-74b608847d7e).
+- 📝 [Lessons Learned by Mentoring](https://dev.to/rpalo/lessons-learned-by-mentoring-1k6i).
+- 📝 [Software Engineering Leadership](https://ericbrooke.wordpress.com/2018/09/16/software-engineering-leadership/).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
