@@ -133,6 +133,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/).
 - 📝 [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62).
 - 📝 [A Tale of Two Buttons](https://medium.com/buildit/a-tale-of-two-buttons-e63185aefd5f).
+- 📚 [CSS animation 101](https://cssanimation.rocks/css-animation-101/).
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
 - 🤷 [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/).
@@ -176,6 +177,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3).
 - 📝 [Popular HTTP Headers for Enhancing Performance](https://www.keycdn.com/blog/http-headers/).
 - 📝 [Font loading strategy for single page applications](https://jeremenichelli.io/2018/07/font-loading-strategy-single-page-applications/).
+- 📝 [Front-End Developers Have to Manage the Loading Experience](https://css-tricks.com/front-end-developers-have-to-manage-the-loading-experience).
 
 
 # Accessibility
