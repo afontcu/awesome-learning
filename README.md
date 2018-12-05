@@ -58,10 +58,10 @@ what does UX even mean if there's a Psychology category!
 ---
 
 # JavaScript
-- 🎥 [The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA).
-- 🎥 [Me da igual tu framework JavaScript](https://www.youtube.com/watch?v=9gT8q2WEGU8).
-- 🎥 [npm and the future of JavaScript](https://www.youtube.com/watch?v=mSQh0gcDXkc).
-- 🎥 [Keep Betting on JavaScript](https://www.youtube.com/watch?v=lDLQA6lQSFg).
+- 🎥 [The Melting Pot of JavaScript - Dan Abramov](https://www.youtube.com/watch?v=G39lKaONAlA).
+- 🎥 [Me da igual tu framework JavaScript - Coding Stones](https://www.youtube.com/watch?v=9gT8q2WEGU8).
+- 🎥 [npm and the future of JavaScript - Laurie Voss](https://www.youtube.com/watch?v=mSQh0gcDXkc).
+- 🎥 [Keep Betting on JavaScript - Kyle Simpson](https://www.youtube.com/watch?v=lDLQA6lQSFg).
 - 📝 [WTF is ES6, ES8, ES 2017, ECMAScript?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c).
 - 📝 [A Beginner's Guide to JavaScript's Prototype](https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk).
 - 📝 [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2).
@@ -90,8 +90,8 @@ what does UX even mean if there's a Psychology category!
 
 
 # Vue
-- 🎥 [The Trick to Understanding Scoped Slots in Vue.js](https://www.youtube.com/watch?v=GWdOucfAzTo).
-- 🎥 [Serverless Functions and VueJS](https://www.youtube.com/watch?v=Tn6SnOubP6U).
+- 🎥 [The Trick to Understanding Scoped Slots in Vue.js - Adam Wathan](https://www.youtube.com/watch?v=GWdOucfAzTo).
+- 🎥 [Serverless Functions and VueJS - Sarah Drasner](https://www.youtube.com/watch?v=Tn6SnOubP6U).
 - 📝 [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77).
 - 📝 [A React Point of Vue](https://www.vuemastery.com/conferences/vueconf-2018/a-react-point-of-vue-divya-sasidharan/).
 - 📝 [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/).
@@ -104,7 +104,7 @@ what does UX even mean if there's a Psychology category!
 
 
 # React
-- 🎥 [Minimal API Surface Area](https://www.youtube.com/watch?v=4anAwXYqLG8).
+- 🎥 [Minimal API Surface Area - Sebastian Markbage](https://www.youtube.com/watch?v=4anAwXYqLG8).
 - 📝 [ReactJS: Props vs. State](http://lucybain.com/blog/2016/react-state-vs-pros/).
 - 📝 [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5).
 - 📝 [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889).
@@ -116,7 +116,7 @@ what does UX even mean if there's a Psychology category!
 
 
 # CSS
-- 🎥 [Thinking beyond “Scalable CSS” ](https://www.youtube.com/watch?v=L8w3v9m6G04).
+- 🎥 [Thinking beyond 'Scalable CSS' - Nicholas Gallagher ](https://www.youtube.com/watch?v=L8w3v9m6G04).
 - 📝 [Use Cases For Flexbox](https://www.smashingmagazine.com/2018/10/flexbox-use-cases).
 - 📝 [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes).
 - 📝 [Page Transitions for Everyone](https://css-tricks.com/page-transitions-for-everyone/).
@@ -141,7 +141,7 @@ what does UX even mean if there's a Psychology category!
 
 
 # CSS Grid
-- 🎥 [Designing with Grid](https://www.youtube.com/watch?v=t0b3uBoDkBs).
+- 🎥 [Designing with Grid - Jen Simmons](https://www.youtube.com/watch?v=t0b3uBoDkBs).
 - 📝 [The benefits of learning how to code layouts with CSS](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css).
 - 📝 [Introducing the CSS Grid Layout](https://www.sitepoint.com/introducing-the-css-grid-layout/).
 - 📝 [Editorial Design and CSS Grid: Inspiration and examples](https://www.silocreativo.com/en/editorial-design-and-css-grid-inspiration-and-examples/).
@@ -153,8 +153,8 @@ what does UX even mean if there's a Psychology category!
 
 
 # Testing
-- 🎥 [Unit Testing sucks (and it's our fault)](https://www.youtube.com/watch?v=GZ9iZsMAZFQ).
-- 🎥 [TDD Mi cuaderno de recetas](https://www.youtube.com/watch?v=o9yspCrKHV0).
+- 🎥 [Unit Testing sucks (and it's our fault) - José Armesto](https://www.youtube.com/watch?v=GZ9iZsMAZFQ).
+- 🎥 [TDD Mi cuaderno de recetas - Modesto San Juan](https://www.youtube.com/watch?v=o9yspCrKHV0).
 - 📝 [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009).
 - 📝 [Mocking as a Design Tool](https://codurance.com/2018/10/18/mocking-as-a-design-tool/).
 - 📝 [Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50).
@@ -164,9 +164,8 @@ what does UX even mean if there's a Psychology category!
 
 
 # Performance
-- 🎥 [Perceived Performance: The only kind that really matters](https://www.youtube.com/watch?v=USH4iPQ44LQ).
-- 🎥 [FaCSSt—CSS and Performance](https://www.youtube.com/watch?v=2Rn8an74khk).
-- 🎥 [Web Performance: Learn to Make Your Websites Load Fast with Webpack 4](https://frontendmasters.com/courses/performance-webpack/).
+- 🎥 [Perceived Performance: The only kind that really matters - Eli Fitch](https://www.youtube.com/watch?v=USH4iPQ44LQ).
+- 🎥 [FaCSSt—CSS and Performance - Harry Roberts](https://www.youtube.com/watch?v=2Rn8an74khk).
 - 📝 [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0).
 - 📝 [Web Performance 101](https://3perf.com/talks/web-perf-101/).
 - 📝 [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf).
@@ -179,12 +178,13 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Popular HTTP Headers for Enhancing Performance](https://www.keycdn.com/blog/http-headers/).
 - 📝 [Font loading strategy for single page applications](https://jeremenichelli.io/2018/07/font-loading-strategy-single-page-applications/).
 - 📝 [Front-End Developers Have to Manage the Loading Experience](https://css-tricks.com/front-end-developers-have-to-manage-the-loading-experience).
+- 🤷 [Web Performance: Learn to Make Your Websites Load Fast with Webpack 4](https://frontendmasters.com/courses/performance-webpack/).
 
 
 # Accessibility
-- 🎥 [Common ways we break accessibility and how to avoid](https://www.youtube.com/watch?v=O_OJfY4Jax4).
-- 🎥 [Getting your priorities straight](https://www.youtube.com/watch?v=MZfZO9mTKpU).
-- 🎥 [Inteligencia artificial para acabar con la dislexia](https://www.youtube.com/watch?v=csWnPn6fEa8).
+- 🎥 [Common ways we break accessibility and how to avoid - Laura Carvajal](https://www.youtube.com/watch?v=O_OJfY4Jax4).
+- 🎥 [Getting your priorities straight - Heydon Pickering](https://www.youtube.com/watch?v=MZfZO9mTKpU).
+- 🎥 [Inteligencia artificial para acabar con la dislexia - Luz Rello](https://www.youtube.com/watch?v=csWnPn6fEa8).
 - 📝 [The Web Accessibility Introduction I Wish I Had](https://dev.to/maxwell_dev/the-web-accessibility-introduction-i-wish-i-had-4ope).
 - 📝 [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/).
 - 📝 [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/).
@@ -193,8 +193,8 @@ what does UX even mean if there's a Psychology category!
 
 
 # Product Management
-- 🎥 [Tengo demasiados proyectos...¿Qué hago? (Gestión de la Demanda)](https://www.youtube.com/watch?v=xsqVWY3wpF4).
-- 🎥 [The Importance of Listening to Your Customers](http://www.mindtheproduct.com/2016/12/importance-listening-customers-david-cancel/).
+- 🎥 [Tengo demasiados proyectos...¿Qué hago? (Gestión de la Demanda) - Ángel Medinilla](https://www.youtube.com/watch?v=xsqVWY3wpF4).
+- 🎥 [The Importance of Listening to Your Customers - David Cancel](http://www.mindtheproduct.com/2016/12/importance-listening-customers-david-cancel/).
 - 📝 [Your Product is Decisions](https://www.farnamstreetblog.com/2013/11/your-product-is-decisions/).
 - 📝 [Product Management Alignment - How to create it](https://herbigt.com/alignment-is-not-agreement).
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
@@ -218,10 +218,11 @@ what does UX even mean if there's a Psychology category!
 
 
 # Agile
-- 🎥 [Making the Date](https://ronjeffries.com/xprog/articles/jatmakingthedate/).
-- 🎥 [Empresa Ágil del siglo XXI](https://www.youtube.com/watch?v=YTKvaJDuw8Q).
-- 🎥 [The Lean Organization](https://www.youtube.com/watch?list=PLKxa4AIfm4pWYrMY88Obx2JNVIjfXEm4v&v=kFLvzqE3Rr4).
-- 🎥 [El patadón palante. Posponer decisiones](https://www.youtube.com/watch?v=vEr2xbNoUxM).
+- 🎥 [Coaching de datos - Jaume Jornet](https://www.youtube.com/watch?v=72dEeZJYb3o).
+- 🎥 [Empresa Ágil del siglo XXI - Ángel Medinilla](https://www.youtube.com/watch?v=YTKvaJDuw8Q).
+- 🎥 [The Lean Organization - Gabriel Prat](https://www.youtube.com/watch?v=kFLvzqE3Rr4).
+- 🎥 [El patadón palante. Posponer decisiones - Eduardo Ferro](https://www.youtube.com/watch?v=vEr2xbNoUxM).
+- 📝 [Making the Date](https://ronjeffries.com/xprog/articles/jatmakingthedate/).
 - 📝 [How to Impose Agile](https://ronjeffries.com/articles/018-01ff/imposition/).
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
 - 📝 [Do you want Crappy Agile?](https://ronjeffries.com/articles/016-03/you-want/).
@@ -258,11 +259,10 @@ what does UX even mean if there's a Psychology category!
 
 
 # Software Crafting
-- 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04).
-- 🎥 [Software Crasftsmanship por Sandro Mancuso](https://www.youtube.com/watch?v=9OhXqBlCmrM).
-- 🎥 [Menos agilismo y más agilidad](https://www.youtube.com/watch?v=u__JwxhWigE).
-- 🎥 [Simplicidad para desarrolladores](https://www.youtube.com/watch?v=6FDxbCzh2sI).
-- 🎥 [Writing Readable Code](https://www.youtube.com/watch?v=OVf0xP4BLq0).
+- 🎥 [Refactorizar a patrones - Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04).
+- 🎥 [Software Crasftsmanship - Sandro Mancuso](https://www.youtube.com/watch?v=9OhXqBlCmrM).
+- 🎥 [Simplicidad para desarrolladores - Eduardo Ferro](https://www.youtube.com/watch?v=6FDxbCzh2sI).
+- 🎥 [Writing Readable Code - Tom Hudson](https://www.youtube.com/watch?v=OVf0xP4BLq0).
 - 📝 [The Tragedy of Craftsmanship](http://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html).
 - 📝 [Why developers are slow?](https://tisquirrel.me/2015/03/30/why-developers-are-slow/).
 - 📝 [Software Development: Fast and Slow](https://www.targetprocess.com/blog/2013/07/software-development-fast-and-slow/).
@@ -280,11 +280,9 @@ what does UX even mean if there's a Psychology category!
 
 
 # Programming and Computer Science
-- 🎥 [Aprender a enseñar a programar](https://www.youtube.com/watch?v=50Sh3WQOKeg).
-- 🎥 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
-- 🎥 [Mejorando como desarrolladores](https://www.youtube.com/watch?v=AHVnR0oLk6Y).
-- 🎥 [Towards an inclusive craft](https://www.youtube.com/watch?v=43mP7l-w3po).
-- 🎥 [Time to grow up](https://www.youtube.com/watch?v=2jaPgSiy1jg).
+- 🎥 [Aprender a enseñar a programar - Xavi Gost](https://www.youtube.com/watch?v=50Sh3WQOKeg).
+- 🎥 [Mejorando como desarrolladores - Belén Albeza](https://www.youtube.com/watch?v=AHVnR0oLk6Y).
+- 🎥 [Towards an inclusive craft - Daniel Irvine](https://www.youtube.com/watch?v=43mP7l-w3po).
 - 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Refactoring](https://sourcemaking.com/refactoring).
@@ -309,6 +307,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Level Up Your Reverse Engineering Skills](https://blog.angularindepth.com/level-up-your-reverse-engineering-skills-8f910ae10630).
 - 📝 [Programming Sucks](https://www.stilldrinking.org/programming-sucks).
 - 📝 [What, exactly, is the DOM?](https://bitsofco.de/what-exactly-is-the-dom/).
+- 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
 
@@ -333,7 +332,7 @@ what does UX even mean if there's a Psychology category!
 
 
 # User Experience
-- 🎥 [Malas gráficas](https://www.youtube.com/watch?v=dKJ2RAKWFGc).
+- 🎥 [Malas gráficas - Almudena Martín](https://www.youtube.com/watch?v=dKJ2RAKWFGc).
 - 🔈 [User Experience (UX) con Daniel Torres Burriel](https://carlosiglesias.info/e010-user-experience-con-daniel-torres-burriel/).
 - 📝 [There is no such thing as UX Design](http://www.peterme.com/2014/12/01/there-is-no-such-thing-as-ux-design/).
 - 📝 [Lean Inception](https://martinfowler.com/articles/lean-inception).
@@ -357,16 +356,16 @@ what does UX even mean if there's a Psychology category!
 
 
 # Leadership
-- 🎥 [Tech Lead vs. Engineering Manager](https://www.youtube.com/watch?v=LD9G-pWung4).
-- 🎥 [Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow](https://www.youtube.com/watch?v=xqT8e6_yzLg).
-- 🎥 [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action).
-- 🎥 [¿Qué es un Senior Developer?](https://www.youtube.com/watch?v=Vp0mR0XUrGo).
-- 🎥 [Turn the Ship Around](https://www.youtube.com/watch?v=IzJL8zX3EVk).
-- 🎥 [De "Foso de Desarrollo nº 23" a "Un Goonie nunca dice muerto"](https://www.youtube.com/watch?v=e1N6oRQHopo).
-- 🎥 [If Russ Ackoff had given a TED Talk… ](https://www.youtube.com/watch?v=OqEeIG8aPPk).
-- 🎥 [El feliz developer](https://www.youtube.com/watch?v=BtIMCqFZNQ4).
-- 🎥 [El hombre pisó la luna, pero gracias a la mujer](https://www.youtube.com/watch?v=Wvkwfwgn2mE).
-- 🎥 [Teal organization: a living example](https://www.youtube.com/watch?v=ClnHKqtfR7M).
+- 🎥 [Tech Lead vs. Engineering Manager - Félix López](https://www.youtube.com/watch?v=LD9G-pWung4).
+- 🎥 [Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow - Jason Lengstorf](https://www.youtube.com/watch?v=xqT8e6_yzLg).
+- 🎥 [How great leaders inspire action - Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action).
+- 🎥 [¿Qué es un Senior Developer? - Luis G. Valle](https://www.youtube.com/watch?v=Vp0mR0XUrGo).
+- 🎥 [Turn the Ship Around - David Marquet](https://www.youtube.com/watch?v=IzJL8zX3EVk).
+- 🎥 [De "Foso de Desarrollo nº 23" a "Un Goonie nunca dice muerto" - Fran Ávila](https://www.youtube.com/watch?v=e1N6oRQHopo).
+- 🎥 [If Russ Ackoff had given a TED Talk…  - Russ Ackoff](https://www.youtube.com/watch?v=OqEeIG8aPPk).
+- 🎥 [El feliz developer - Irene M Morgado](https://www.youtube.com/watch?v=BtIMCqFZNQ4).
+- 🎥 [El hombre pisó la luna, pero gracias a la mujer - Teresa de la Torre](https://www.youtube.com/watch?v=Wvkwfwgn2mE).
+- 🎥 [Teal organization: a living example - Sandro Mancuso](https://www.youtube.com/watch?v=ClnHKqtfR7M).
 - 📝 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
 - 📝 [Team Membership: Controlled or Self-organized?](https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364).
