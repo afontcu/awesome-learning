@@ -43,7 +43,7 @@ I also tried to identify some formats:
 - 📝 Post, article.
 - 🔈 Podcast.
 - 🎥 Talk or Video Course.
-- 📚 Book.
+- 📚 Book (either physical or digital).
 - 🤷 Other (an online game, an infographic...).
 
 ---
@@ -96,10 +96,10 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/).
 - 📝 [Vue state management from the ground up](https://hackernoon.com/vue-state-management-from-the-ground-up-a31eb87c668d) _(disclaimer: I wrote this post)_.
 - 📝 [Vuex + IDD: Part1](https://medium.com/coding-stones/vuex-idd-part1-4b81d4088e54).
-- 📝 [Desarrolla aplicaciones con VueJS](https://jdonsan.gitbooks.io/desarrolla-aplicaciones-con-vuejs/content/).
 - 📝 [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/).
 - 📝 [Introduction to Vue.js with Sarah Drasner](https://frontendmasters.com/courses/vue/).
 - 📝 [Five years of PostCSS: State of the Union](https://evilmartians.com/chronicles/five-years-of-postcss-state-of-the-union).
+- 📚 [Desarrolla aplicaciones con VueJS](https://jdonsan.gitbooks.io/desarrolla-aplicaciones-con-vuejs/content/).
 
 
 # React
