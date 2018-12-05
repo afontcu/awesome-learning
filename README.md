@@ -91,6 +91,7 @@ what does UX even mean if there's a Psychology category!
 
 # Vue
 - 🎥 [The Trick to Understanding Scoped Slots in Vue.js](https://www.youtube.com/watch?v=GWdOucfAzTo).
+- 🎥 [Serverless Functions and VueJS](https://www.youtube.com/watch?v=Tn6SnOubP6U).
 - 📝 [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77).
 - 📝 [A React Point of Vue](https://www.vuemastery.com/conferences/vueconf-2018/a-react-point-of-vue-divya-sasidharan/).
 - 📝 [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/).
