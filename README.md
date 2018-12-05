@@ -29,12 +29,13 @@ _(Categories are not set in stone - I'll keep creating them when needed)._
 7. [Performance](#performance)
 8. [Accessibility](#accessibility)
 9. [Product Management](#product-management)
-10. [Agile and Software Crafting](#agile-and-software-crafting)
-11. [Programming and Computer Science](#programming-and-computer-science)
-12. [UI design](#ui-design)
-12. [User Experience](#user-experience)
-13. [Leadership](#leadership)
-14. [Psychology](#psychology)
+10. [Agile](#agile)
+11. [Software Crafting](#software-crafting)
+12. [Programming and Computer Science](#programming-and-computer-science)
+13. [UI design](#ui-design)
+14. [User Experience](#user-experience)
+15. [Leadership](#leadership)
+16. [Psychology](#psychology)
 
 
 I also tried to identify some formats:
@@ -208,23 +209,19 @@ what does UX even mean if there's a Psychology category!
 - 📝 [All You Need To Know About Customer Journey Mapping](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/).
 - 📝 [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e).
 - 📝 [Process > Outcome (How to Overcome The Outcome Bias) ](https://medium.com/personal-growth/process-outcome-how-to-overcome-the-outcome-bias-acc521a30484).
-- 📝 [Imaginary Problems Are the Root of Bad Software ](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
 - 📝 [The essence of story slicing in agile development](https://medium.com/@neil2killick/the-essence-of-story-slicing-in-agile-development-fc16a1226941).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
 
 
-# Agile and Software Crafting
+# Agile
 - 🎥 [Making the Date](https://ronjeffries.com/xprog/articles/jatmakingthedate/).
 - 🎥 [Empresa Ágil del siglo XXI](https://www.youtube.com/watch?v=YTKvaJDuw8Q).
 - 🎥 [The Lean Organization](https://www.youtube.com/watch?list=PLKxa4AIfm4pWYrMY88Obx2JNVIjfXEm4v&v=kFLvzqE3Rr4).
 - 🎥 [El patadón palante. Posponer decisiones](https://www.youtube.com/watch?v=vEr2xbNoUxM).
-- 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04).
-- 🎥 [Menos agilismo y más agilidad](https://www.youtube.com/watch?v=u__JwxhWigE).
 - 📝 [How to Impose Agile](https://ronjeffries.com/articles/018-01ff/imposition/).
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
 - 📝 [Do you want Crappy Agile?](https://ronjeffries.com/articles/016-03/you-want/).
-- 📝 [The Tragedy of Craftsmanship](http://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html).
 - 📝 [The Agile Bicycle](https://dotdev.co/the-agile-bicycle-829a83b18e7).
 - 📝 [Agile is a mindset not a process!](https://medium.com/@HaydenSlaughter/agile-is-a-mindset-not-a-process-3fbcb27ad097).
 - 📝 [The Principles of Kanban method](https://web.archive.org/web/20140114161522/http://www.djaa.com/principles-kanban-method).
@@ -237,17 +234,13 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Why we moved from Scrum to Kanban](https://medium.com/skim-technologies/why-we-moved-from-scrum-to-kanban-b578d210ef8a).
 - 📝 [Como ser Agile Product Owner y no morir en el intento](https://inside.runroom.com/agile-product-owner-en-apuros/).
 - 📝 [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae).
-- 📝 [Why developers are slow?](https://tisquirrel.me/2015/03/30/why-developers-are-slow/).
 - 📝 [What's Missing In The Agile Manifesto: Mindset](https://www.forbes.com/sites/stevedenning/2016/06/07/the-key-missing-ingredient-in-the-agile-manifesto-mindset/#7fe910146a93).
 - 📝 [When story points misfire](https://medium.com/xing-engineering/when-story-points-misfire-88b068bfc97c).
 - 📝 [ScrumMaster: Should They Be Technical Or Not? ](https://inspectandadapt.com/blog/scrum/should-the-scrummaster-be-technical/).
 - 📝 [Agile doesn't have a brain ](https://medium.com/@jboogie/agile-doesnt-have-a-brain-51c2835a838).
 - 📝 [Adopting Agile? You're aiming at the wrong target](https://www.linkedin.com/pulse/adopting-agile-youre-aiming-wrong-target-tim-snyder).
 - 📝 [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
-- 📝 [Software Development: Fast and Slow](https://www.targetprocess.com/blog/2013/07/software-development-fast-and-slow/).
-- 📝 [Your developers are not slow](https://sprint.ly/blog/your-developers-arent-slow/).
 - 📝 [Henry Ford: Master of flow](https://yorkesoftware.com/2017/06/13/henry-ford-master-of-flow/).
-- 📝 [How Do We Go Faster?](https://hackernoon.com/how-do-we-go-faster-ed51207952a8).
 - 📝 [One year of agile teams at aFrogleap](https://afrogleap.com/agile/one-year-of-agile-teams-at-afrogleap/).
 - 📝 [Going Into Deep Space: Creating the Right Environment for Your Open Space](https://labs.spotify.com/2017/05/31/going-into-deep-space-creating-the-right-environment-for-your-open-space/).
 - 📝 [Why Isn't Agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552).
@@ -257,10 +250,30 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Self-Balanced, Not Self-Organized](https://blog.agilityscales.com/self-balanced-not-self-organized-4056dd6a087d).
 - 📝 [Why We Need WIP Limits](https://leankit.com/learn/kanban/why-we-need-wip-limits/).
 - 📝 [Want to scale agile? Don't. Descale the work first. Achieve big through small](https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540).
-- 📝 [Agilismo versus craftismo. Y diversidad](https://medium.com/scbcn/agilismo-versus-craftismo-y-diversidad-67c465e3acf7).
-- 📝 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
 - 📝 [Roles dinamizadores de la Transformación Ágil](https://transformacionagil.org/2018/10/22/roles-dinamizadores-de-la-transformacion-agil-agile-coaches-y-hr/).
 - 📝 [Dinámicas de PO como motor de cambio del equipo](https://medium.com/@ladypain/din%C3%A1micas-de-po-como-motor-de-cambio-del-equipo-95aa9ea89430).
+
+
+# Software Crafting
+- 🎥 [Refactorizar a patrones por Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04).
+- 🎥 [Software Crasftsmanship por Sandro Mancuso](https://www.youtube.com/watch?v=9OhXqBlCmrM).
+- 🎥 [Menos agilismo y más agilidad](https://www.youtube.com/watch?v=u__JwxhWigE).
+- 🎥 [Simplicidad para desarrolladores](https://www.youtube.com/watch?v=6FDxbCzh2sI).
+- 🎥 [Writing Readable Code](https://www.youtube.com/watch?v=OVf0xP4BLq0).
+- 📝 [The Tragedy of Craftsmanship](http://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html).
+- 📝 [Why developers are slow?](https://tisquirrel.me/2015/03/30/why-developers-are-slow/).
+- 📝 [Software Development: Fast and Slow](https://www.targetprocess.com/blog/2013/07/software-development-fast-and-slow/).
+- 📝 [Your developers are not slow](https://sprint.ly/blog/your-developers-arent-slow/).
+- 📝 [How Do We Go Faster?](https://hackernoon.com/how-do-we-go-faster-ed51207952a8).
+- 📝 [Agilismo versus craftismo. Y diversidad](https://medium.com/scbcn/agilismo-versus-craftismo-y-diversidad-67c465e3acf7).
+- 📝 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
+- 📝 [Writing Tidy Code](https://csswizardry.com/2017/05/writing-tidy-code/).
+- 📝 [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68).
+- 📝 [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex).
+- 📝 [The Human Cost of Tech Debt](http://www.infragistics.com/community/blogs/erikdietrich/archive/2016/06/29/the-human-cost-of-tech-debt.aspx).
+- 📝 [Paying Technical Debt : How To Rescue Legacy Code through Refactoring](http://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring).
+- 📝 [Imaginary Problems Are the Root of Bad Software ](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
+- 📝 [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea).
 
 
 # Programming and Computer Science
@@ -269,8 +282,6 @@ what does UX even mean if there's a Psychology category!
 - 🎥 [Mejorando como desarrolladores](https://www.youtube.com/watch?v=AHVnR0oLk6Y).
 - 🎥 [Towards an inclusive craft](https://www.youtube.com/watch?v=43mP7l-w3po).
 - 🎥 [Time to grow up](https://www.youtube.com/watch?v=2jaPgSiy1jg).
-- 🎥 [Simplicidad para desarrolladores](https://www.youtube.com/watch?v=6FDxbCzh2sI).
-- 🎥 [Writing Readable Code](https://www.youtube.com/watch?v=OVf0xP4BLq0).
 - 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Refactoring](https://sourcemaking.com/refactoring).
@@ -278,28 +289,24 @@ what does UX even mean if there's a Psychology category!
 - 📝 [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork).
 - 📝 [Choosing an HTTP Status Code - Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/).
 - 📝 [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536).
-- 📝 [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea).
 - 📝 [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f).
 - 📝 [OO Tricks: The Art of Command Query Separation](https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0).
 - 📝 [REST vs. GraphQL: A Critical Review](https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7).
-- 📝 [The Human Cost of Tech Debt](http://www.infragistics.com/community/blogs/erikdietrich/archive/2016/06/29/the-human-cost-of-tech-debt.aspx).
-- 📝 [Paying Technical Debt : How To Rescue Legacy Code through Refactoring](http://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring).
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
 - 📝 [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
 - 📝 [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b).
 - 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
-- 📝 [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68).
 - 📝 [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2).
-- 📝 [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex).
 - 📝 [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960).
 - 📝 [Server to Client](https://alistapart.com/article/server-to-client).
 - 📝 [The Code Quality vs. Speed Fallacy](https://medium.com/@asciamanna/the-code-quality-vs-speed-fallacy-f4eea147b23e).
 - 📝 [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b).
 - 📝 [Level Up Your Reverse Engineering Skills](https://blog.angularindepth.com/level-up-your-reverse-engineering-skills-8f910ae10630).
-- 📝 [Writing Tidy Code](https://csswizardry.com/2017/05/writing-tidy-code/).
 - 📝 [Programming Sucks](https://www.stilldrinking.org/programming-sucks).
+- 📝 [What, exactly, is the DOM?](https://bitsofco.de/what-exactly-is-the-dom/).
+
 
 
 # UI Design
