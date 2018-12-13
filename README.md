@@ -258,6 +258,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Want to scale agile? Don't. Descale the work first. Achieve big through small](https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540).
 - 📝 [Roles dinamizadores de la Transformación Ágil](https://transformacionagil.org/2018/10/22/roles-dinamizadores-de-la-transformacion-agil-agile-coaches-y-hr/).
 - 📝 [Dinámicas de PO como motor de cambio del equipo](https://medium.com/@ladypain/din%C3%A1micas-de-po-como-motor-de-cambio-del-equipo-95aa9ea89430).
+- 📝 [Three drawings I use to explain agile](https://medium.com/swlh/three-drawings-i-use-to-explain-agile-9c0ef15b64b8).
 
 
 # Software Crafting
