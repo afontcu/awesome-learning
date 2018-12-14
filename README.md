@@ -371,6 +371,7 @@ what does UX even mean if there's a Psychology category!
 - 🎥 [El hombre pisó la luna, pero gracias a la mujer - Teresa de la Torre](https://www.youtube.com/watch?v=Wvkwfwgn2mE).
 - 🎥 [Teal organization: a living example - Sandro Mancuso](https://www.youtube.com/watch?v=ClnHKqtfR7M).
 - 🎥 [Go Slow To Go Fast: Building Strong Foundations for Leadership - Alicia Liu](https://www.youtube.com/watch?list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&v=zxzaG2zNiTU).
+- 🎥 [Radical Candor — The Surprising Secret to Being a Good Boss - Kimm Scott](https://www.youtube.com/watch?v=4yODalLQ2lM).
 - 📝 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
 - 📝 [Team Membership: Controlled or Self-organized?](https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364).
@@ -400,7 +401,8 @@ what does UX even mean if there's a Psychology category!
 - 🎥 [Drive: The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY).
 - 🎥 [Compassionate—Yet Candid—Code Reviews](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
 - 🎥 [Human Performance](https://www.youtube.com/watch?v=qouPzSryggk).
-- 🎥 [Inteligencia artificial para acabar con la dislexia](https://www.youtube.com/watch?v=csWnPn6fEa8).
+- 🎥 [Inteligencia artificial para acabar con la dislexia - Luz Rello](https://www.youtube.com/watch?v=csWnPn6fEa8).
+- 🎥 [Your body language may shape who you are - Amy Cuddy](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en).
 - 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
 - 📝 [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
 - 📝 [Agilismo, psicología y cosas que chirrían](https://medium.com/@lainde/agilismo-psicolog%C3%ADa-y-cosas-que-chirr%C3%ADan-1d099736c1ad).
