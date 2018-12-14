@@ -370,6 +370,7 @@ what does UX even mean if there's a Psychology category!
 - 🎥 [El feliz developer - Irene M Morgado](https://www.youtube.com/watch?v=BtIMCqFZNQ4).
 - 🎥 [El hombre pisó la luna, pero gracias a la mujer - Teresa de la Torre](https://www.youtube.com/watch?v=Wvkwfwgn2mE).
 - 🎥 [Teal organization: a living example - Sandro Mancuso](https://www.youtube.com/watch?v=ClnHKqtfR7M).
+- 🎥 [Go Slow To Go Fast: Building Strong Foundations for Leadership - Alicia Liu](https://www.youtube.com/watch?list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&v=zxzaG2zNiTU).
 - 📝 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
 - 📝 [Team Membership: Controlled or Self-organized?](https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364).
