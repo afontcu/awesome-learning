@@ -372,7 +372,7 @@ what does UX even mean if there's a Psychology category!
 - 🎥 [Teal organization: a living example - Sandro Mancuso](https://www.youtube.com/watch?v=ClnHKqtfR7M).
 - 📝 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
-- 📝 [Team Membership: Controlled or Self-organized?] (https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364).
+- 📝 [Team Membership: Controlled or Self-organized?](https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364).
 - 📝 [Where Does the Leadership Come From?](https://medium.com/agility-scales/where-does-the-leadership-come-from-3757a1acd1d1).
 - 📝 ["How" ages faster than "Why"](https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b).
 - 📝 [Re-structuring a growing team](https://jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637).
