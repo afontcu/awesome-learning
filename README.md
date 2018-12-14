@@ -397,10 +397,10 @@ what does UX even mean if there's a Psychology category!
 
 
 # Psychology
-- 🎥 [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
-- 🎥 [Drive: The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY).
-- 🎥 [Compassionate—Yet Candid—Code Reviews](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
-- 🎥 [Human Performance](https://www.youtube.com/watch?v=qouPzSryggk).
+- 🎥 [10 ways to have a better conversation - Celeste Headlee](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
+- 🎥 [Drive: The Surprising Truth About What Motivates Us - Daniel Pink](https://www.youtube.com/watch?v=LFlvor6ZHdY).
+- 🎥 [Compassionate—Yet Candid—Code Reviews - April Wensel](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
+- 🎥 [Human Performance - Jem Young](https://www.youtube.com/watch?v=qouPzSryggk).
 - 🎥 [Inteligencia artificial para acabar con la dislexia - Luz Rello](https://www.youtube.com/watch?v=csWnPn6fEa8).
 - 🎥 [Your body language may shape who you are - Amy Cuddy](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en).
 - 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
