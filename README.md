@@ -76,7 +76,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437).
 - 📝 [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns).
 - 📝 [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db).
-- 📝 [Object Composition in Javascript](https://medium.com/code-monkey/object-composition-in-javascript-2f9b9077b5e6).
+- 📝 [Object Composition in JavaScript](https://medium.com/code-monkey/object-composition-in-javascript-2f9b9077b5e6).
 - 📝 [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/).
 - 📝 [The Present Future of User Interface Development](https://medium.com/@jevakallio/the-present-future-of-user-interface-development-ebd371255175).
 - 📝 [SEO para Progressive Web APPs (PWA) y Frameworks JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/).
@@ -161,7 +161,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50).
 - 📝 [Testing Implementation Details](https://blog.kentcdodds.com/testing-implementation-details-ccb8d269586).
 - 📝 [Why You Should Sometimes Test "Implementation Details"](https://codingitwrong.com/2018/12/03/why-you-should-sometimes-test-implementation-details.html).
-- 🤷 [Testing Javascript](http://testingjavascript.com).
+- 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
 # Performance
