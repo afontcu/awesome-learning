@@ -98,6 +98,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Vue state management from the ground up](https://hackernoon.com/vue-state-management-from-the-ground-up-a31eb87c668d) _(disclaimer: I wrote this post)_.
 - 📝 [Vuex + IDD: Part1](https://medium.com/coding-stones/vuex-idd-part1-4b81d4088e54).
 - 📝 [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/).
+- 📝 [3 tips for scaling large Vue.js application](http://www.maxpou.fr/3-tips-scaling-vue-application).
 - 📚 [Desarrolla aplicaciones con VueJS](https://jdonsan.gitbooks.io/desarrolla-aplicaciones-con-vuejs/content/).
 - 🤷 [Introduction to Vue.js with Sarah Drasner](https://frontendmasters.com/courses/vue/).
 - 🤷 [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/).
