@@ -415,5 +415,6 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Truth Hurts (And Values Should Too!)](https://shane.substack.com/p/truth-hurts-and-values-should-too).
 - 📝 [The State of Being Stuck](https://mathwithbaddrawings.com/2017/09/20/the-state-of-being-stuck/amp/).
 - 📝 [Feedback Equation](https://larahogan.me/blog/feedback-equation/).
+- 📝 [Engineering a culture of psychological safety](https://www.intercom.com/blog/psychological-safety/).
 - 📚 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805).
 - 📚 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA).
