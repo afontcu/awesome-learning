@@ -35,7 +35,7 @@ _(Categories are not set in stone - I'll keep creating them when needed)._
 13. [UI design](#ui-design)
 14. [User Experience](#user-experience)
 15. [Leadership](#leadership)
-16. [Psychology](#psychology)
+16. [Psychology and People](#psychology-and-people)
 
 
 I also tried to identify some formats:
@@ -399,7 +399,7 @@ what does UX even mean if there's a Psychology category!
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
 
 
-# Psychology
+# Psychology and People
 - 🎥 [10 ways to have a better conversation - Celeste Headlee](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
 - 🎥 [Drive: The Surprising Truth About What Motivates Us - Daniel Pink](https://www.youtube.com/watch?v=LFlvor6ZHdY).
 - 🎥 [Compassionate—Yet Candid—Code Reviews - April Wensel](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
