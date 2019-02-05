@@ -35,7 +35,7 @@ _(Categories are not set in stone - I'll keep creating them when needed)._
 13. [UI design](#ui-design)
 14. [User Experience](#user-experience)
 15. [Leadership](#leadership)
-16. [Teams](#team)
+16. [Teams](#teams)
 17. [Psychology](#psychology)
 
 
