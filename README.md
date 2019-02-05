@@ -35,7 +35,8 @@ _(Categories are not set in stone - I'll keep creating them when needed)._
 13. [UI design](#ui-design)
 14. [User Experience](#user-experience)
 15. [Leadership](#leadership)
-16. [Psychology and People](#psychology-and-people)
+16. [Teams](#team)
+17. [Psychology](#psychology)
 
 
 I also tried to identify some formats:
@@ -200,7 +201,6 @@ what does UX even mean if there's a Psychology category!
 - 🎥 [The Importance of Listening to Your Customers - David Cancel](http://www.mindtheproduct.com/2016/12/importance-listening-customers-david-cancel/).
 - 📝 [Your Product is Decisions](https://www.farnamstreetblog.com/2013/11/your-product-is-decisions/).
 - 📝 [Product Management Alignment - How to create it](https://herbigt.com/alignment-is-not-agreement).
-- 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
 - 📝 [¿Por qué no hay SEO en Mercadona Online?](https://medium.com/@josetarheel/por-qu%C3%A9-no-hay-seo-en-mercadona-online-128f5f3a863c).
 - 📝 [MVPM: Minimum Viable Product Manager](https://blackboxofpm.com/mvpm-minimum-viable-product-manager-e1aeb8dd421).
 - 📝 [The New User Story Backlog is a Map](http://www.jpattonassociates.com/the-new-backlog/).
@@ -364,7 +364,6 @@ what does UX even mean if there's a Psychology category!
 
 # Leadership
 - 🎥 [Tech Lead vs. Engineering Manager - Félix López](https://www.youtube.com/watch?v=LD9G-pWung4).
-- 🎥 [Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow - Jason Lengstorf](https://www.youtube.com/watch?v=xqT8e6_yzLg).
 - 🎥 [How great leaders inspire action - Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action).
 - 🎥 [¿Qué es un Senior Developer? - Luis G. Valle](https://www.youtube.com/watch?v=Vp0mR0XUrGo).
 - 🎥 [Turn the Ship Around - David Marquet](https://www.youtube.com/watch?v=IzJL8zX3EVk).
@@ -372,21 +371,12 @@ what does UX even mean if there's a Psychology category!
 - 🎥 [If Russ Ackoff had given a TED Talk…  - Russ Ackoff](https://www.youtube.com/watch?v=OqEeIG8aPPk).
 - 🎥 [El feliz developer - Irene M Morgado](https://www.youtube.com/watch?v=BtIMCqFZNQ4).
 - 🎥 [El hombre pisó la luna, pero gracias a la mujer - Teresa de la Torre](https://www.youtube.com/watch?v=Wvkwfwgn2mE).
-- 🎥 [Teal organization: a living example - Sandro Mancuso](https://www.youtube.com/watch?v=ClnHKqtfR7M).
 - 🎥 [Go Slow To Go Fast: Building Strong Foundations for Leadership - Alicia Liu](https://www.youtube.com/watch?list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&v=zxzaG2zNiTU).
 - 🎥 [Radical Candor — The Surprising Secret to Being a Good Boss - Kimm Scott](https://www.youtube.com/watch?v=4yODalLQ2lM).
-- 📝 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
-- 📝 [Team Membership: Controlled or Self-organized?](https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364).
 - 📝 [Where Does the Leadership Come From?](https://medium.com/agility-scales/where-does-the-leadership-come-from-3757a1acd1d1).
 - 📝 ["How" ages faster than "Why"](https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b).
-- 📝 [Re-structuring a growing team](https://jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637).
 - 📝 [We're Not a Startup: We're a Lifestyle Business (and We Love It)](https://marsbased.com/blog/2017/08/16/dont-call-startup-were-lifestyle-business/).
-- 📝 [The Art of Building Autonomous Teams](https://johnfergusonsmart.com/art-building-autonomous-teams/).
-- 📝 [Let Teams Figure it Out](https://medium.com/@johnpcutler/let-teams-figure-it-out-eefbf1a44ae8).
-- 📝 [How To Tell If Someone Is Truly Smart Or Just Average](https://medium.com/the-mission/how-to-tell-if-someone-is-truly-smart-or-just-average-a2f0bcac5db2).
-- 📝 [Experiment Together. Improve Together. Win Together](https://hackernoon.com/experiment-together-improve-together-win-together-8d353abd2f0f).
-- 📝 [Dedicated Ownership for Teams at Zalon](https://jobs.zalando.com/tech/blog/dedicated-ownership-for-teams-at-zalon/).
 - 📝 [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/).
 - 📝 [Hartazgo de Liderazgo… O crítica a la formación mainstream sobre liderazgo.](https://medium.com/@lainde/hartazgo-de-liderazgo-766687e9235a).
 - 📝 [What Truly Makes a Senior Developer](https://medium.com/s/story/what-truly-makes-a-senior-developer-74b608847d7e).
@@ -399,14 +389,28 @@ what does UX even mean if there's a Psychology category!
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
 
 
-# Psychology and People
+# Teams
+- 🎥 [Teal organization: a living example - Sandro Mancuso](https://www.youtube.com/watch?v=ClnHKqtfR7M).
+- 🎥 [Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow - Jason Lengstorf](https://www.youtube.com/watch?v=xqT8e6_yzLg).
+- 📝 [Let Teams Figure it Out](https://medium.com/@johnpcutler/let-teams-figure-it-out-eefbf1a44ae8).
+- 📝 [Why Small Teams Win](https://uxdesign.cc/why-small-teams-win-b607cb03db11/).
+- 📝 [Dedicated Ownership for Teams at Zalon](https://jobs.zalando.com/tech/blog/dedicated-ownership-for-teams-at-zalon/).
+- 📝 [The Art of Building Autonomous Teams](https://johnfergusonsmart.com/art-building-autonomous-teams/).
+- 📝 [Experiment Together. Improve Together. Win Together](https://hackernoon.com/experiment-together-improve-together-win-together-8d353abd2f0f).
+- 📝 [The five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/).
+- 📝 [Team Membership: Controlled or Self-organized?](https://medium.com/agility-scales/team-membership-controlled-or-self-organized-e52719fa0364).
+- 📝 [Re-structuring a growing team](https://jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637).
+- 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
+- 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
+
+
+# Psychology
 - 🎥 [10 ways to have a better conversation - Celeste Headlee](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
 - 🎥 [Drive: The Surprising Truth About What Motivates Us - Daniel Pink](https://www.youtube.com/watch?v=LFlvor6ZHdY).
 - 🎥 [Compassionate—Yet Candid—Code Reviews - April Wensel](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
 - 🎥 [Human Performance - Jem Young](https://www.youtube.com/watch?v=qouPzSryggk).
 - 🎥 [Inteligencia artificial para acabar con la dislexia - Luz Rello](https://www.youtube.com/watch?v=csWnPn6fEa8).
 - 🎥 [Your body language may shape who you are - Amy Cuddy](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en).
-- 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
 - 📝 [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
 - 📝 [Agilismo, psicología y cosas que chirrían](https://medium.com/@lainde/agilismo-psicolog%C3%ADa-y-cosas-que-chirr%C3%ADan-1d099736c1ad).
 - 📝 [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
@@ -416,5 +420,6 @@ what does UX even mean if there's a Psychology category!
 - 📝 [The State of Being Stuck](https://mathwithbaddrawings.com/2017/09/20/the-state-of-being-stuck/amp/).
 - 📝 [Feedback Equation](https://larahogan.me/blog/feedback-equation/).
 - 📝 [Engineering a culture of psychological safety](https://www.intercom.com/blog/psychological-safety/).
+- 📝 [How To Tell If Someone Is Truly Smart Or Just Average](https://medium.com/the-mission/how-to-tell-if-someone-is-truly-smart-or-just-average-a2f0bcac5db2).
 - 📚 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805).
 - 📚 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA).
