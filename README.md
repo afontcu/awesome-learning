@@ -33,7 +33,7 @@ _(Categories are not set in stone - I'll keep creating them when needed)._
 11. [Software Crafting](#software-crafting)
 12. [Programming and Computer Science](#programming-and-computer-science)
 13. [UI Engineering](#ui-engineering)
-14. [UI design](#ui-design)
+14. [UI Design](#ui-design)
 15. [User Experience](#user-experience)
 16. [Leadership](#leadership)
 17. [Teams](#teams)
