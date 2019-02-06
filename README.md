@@ -32,11 +32,12 @@ _(Categories are not set in stone - I'll keep creating them when needed)._
 10. [Agile](#agile)
 11. [Software Crafting](#software-crafting)
 12. [Programming and Computer Science](#programming-and-computer-science)
-13. [UI design](#ui-design)
-14. [User Experience](#user-experience)
-15. [Leadership](#leadership)
-16. [Teams](#teams)
-17. [Psychology](#psychology)
+13. [UI Engineering](#ui-engineering)
+14. [UI design](#ui-design)
+15. [User Experience](#user-experience)
+16. [Leadership](#leadership)
+17. [Teams](#teams)
+18. [Psychology](#psychology)
 
 
 I also tried to identify some formats:
@@ -68,7 +69,6 @@ what does UX even mean if there's a Psychology category!
 - 📝 [A Beginner's Guide to JavaScript's Prototype](https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk).
 - 📝 [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2).
 - 📝 [Exploring ES6](http://exploringjs.com/es6/index.html).
-- 📝 [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1).
 - 📝 [Intuitive Transducer in JavaScript](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d).
 - 📝 [A Quick Practical Example of JavaScript's Reduce Function](https://codeburst.io/a-quick-practical-example-of-javascripts-reduce-function-862b506d01a4).
 - 📝 [I'm harvesting credit card numbers and passwords from your site. Here's how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5).
@@ -285,7 +285,6 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Imaginary Problems Are the Root of Bad Software ](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
 - 📝 [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea).
 - 📝 [Refactor cotidiano (4). Sustituye escalares por objetos](https://franiglesias.github.io/everyday-refactor-4/).
-- 📝 [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/).
 
 
 # Programming and Computer Science
@@ -296,18 +295,14 @@ what does UX even mean if there's a Psychology category!
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Refactoring](https://sourcemaking.com/refactoring).
 - 📝 [Object Oriented Tricks: #2 Law of Demeter](https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85).
-- 📝 [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork).
-- 📝 [Choosing an HTTP Status Code - Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/).
 - 📝 [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536).
 - 📝 [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f).
 - 📝 [OO Tricks: The Art of Command Query Separation](https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0).
 - 📝 [REST vs. GraphQL: A Critical Review](https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7).
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
-- 📝 [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
 - 📝 [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b).
-- 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
 - 📝 [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2).
 - 📝 [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960).
 - 📝 [Server to Client](https://alistapart.com/article/server-to-client).
@@ -319,6 +314,15 @@ what does UX even mean if there's a Psychology category!
 - 📝 [The Great Divide](https://css-tricks.com/the-great-divide/).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
+
+# UI Engineering
+- 📝 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web/).
+- 📝 [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1).
+- 📝 [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/).
+- 📝 [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork).
+- 📝 [Choosing an HTTP Status Code - Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/).
+- 📝 [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/).
+- 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
 
 
 # UI Design
