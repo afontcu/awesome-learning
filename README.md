@@ -25,14 +25,14 @@ _(Categories are not set in stone - I'll keep creating them when needed)._
 3. [React](#react)
 4. [CSS](#css)
 5. [CSS Grid](#css-grid)
-6. [Testing](#testing)
-7. [Performance](#performance)
-8. [Accessibility](#accessibility)
-9. [Product Management](#product-management)
-10. [Agile](#agile)
-11. [Software Crafting](#software-crafting)
-12. [Programming and Computer Science](#programming-and-computer-science)
-13. [UI Engineering](#ui-engineering)
+6. [UI Engineering](#ui-engineering)
+7. [Testing](#testing)
+8. [Performance](#performance)
+9. [Accessibility](#accessibility)
+10. [Product Management](#product-management)
+11. [Agile](#agile)
+12. [Software Crafting](#software-crafting)
+13. [Programming and Computer Science](#programming-and-computer-science)
 14. [UI Design](#ui-design)
 15. [User Experience](#user-experience)
 16. [Leadership](#leadership)
@@ -156,6 +156,16 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/).
 - 📝 [Grid Projection Naming](https://www.kizu.ru/grid-projection-naming).
 - 📝 [The benefits of learning how to code layouts with CSS](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css).
+
+
+# UI Engineering
+- 📝 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web/).
+- 📝 [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1).
+- 📝 [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/).
+- 📝 [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork).
+- 📝 [Choosing an HTTP Status Code - Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/).
+- 📝 [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/).
+- 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
 
 
 # Testing
@@ -313,16 +323,6 @@ what does UX even mean if there's a Psychology category!
 - 📝 [What, exactly, is the DOM?](https://bitsofco.de/what-exactly-is-the-dom/).
 - 📝 [The Great Divide](https://css-tricks.com/the-great-divide/).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
-
-
-# UI Engineering
-- 📝 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web/).
-- 📝 [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1).
-- 📝 [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/).
-- 📝 [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork).
-- 📝 [Choosing an HTTP Status Code - Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/).
-- 📝 [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/).
-- 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
 
 
 # UI Design
