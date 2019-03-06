@@ -392,6 +392,7 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Software Engineering Leadership](https://ericbrooke.wordpress.com/2018/09/16/software-engineering-leadership/).
 - 📝 [The Six Leadership Styles for effective Team Performance](https://www.educational-business-articles.com/six-leadership-styles/).
 - 📝 [Why your company is slowing down and how to fix it](https://medium.com/swlh/why-your-company-is-slowing-down-and-how-to-fix-it-89f5cf5bf7ce).
+- 📝 [Delegate outcomes, not activities](https://m.signalvnoise.com/delegate-outcomes-not-activities/).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
