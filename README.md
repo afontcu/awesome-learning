@@ -171,11 +171,13 @@ what does UX even mean if there's a Psychology category!
 # Testing
 - 🎥 [Unit Testing sucks (and it's our fault) - José Armesto](https://www.youtube.com/watch?v=GZ9iZsMAZFQ).
 - 🎥 [TDD Mi cuaderno de recetas - Modesto San Juan](https://www.youtube.com/watch?v=o9yspCrKHV0).
+- 🎥 [Component Tests with Vue.js - Matt O'Connell](https://www.youtube.com/watch?v=OIpfWTThrK8).
 - 📝 [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009).
 - 📝 [Mocking as a Design Tool](https://codurance.com/2018/10/18/mocking-as-a-design-tool/).
 - 📝 [Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50).
 - 📝 [Testing Implementation Details](https://blog.kentcdodds.com/testing-implementation-details-ccb8d269586).
 - 📝 [Why You Should Sometimes Test "Implementation Details"](https://codingitwrong.com/2018/12/03/why-you-should-sometimes-test-implementation-details.html).
+- 📝 [Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests).
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
@@ -295,6 +297,8 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Imaginary Problems Are the Root of Bad Software ](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
 - 📝 [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea).
 - 📝 [Refactor cotidiano (4). Sustituye escalares por objetos](https://franiglesias.github.io/everyday-refactor-4/).
+- 📝 [Hexagonal Architecture](https://fideloper.com/hexagonal-architecture).
+
 
 
 # Programming and Computer Science
