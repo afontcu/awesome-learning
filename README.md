@@ -305,6 +305,7 @@ what does UX even mean if there's a Psychology category!
 - 🎥 [Aprender a enseñar a programar - Xavi Gost](https://www.youtube.com/watch?v=50Sh3WQOKeg).
 - 🎥 [Mejorando como desarrolladores - Belén Albeza](https://www.youtube.com/watch?v=AHVnR0oLk6Y).
 - 🎥 [Towards an inclusive craft - Daniel Irvine](https://www.youtube.com/watch?v=43mP7l-w3po).
+- 🎥 [Agility and Architecture - Robert C. Martin ("Uncle Bob")](https://www.youtube.com/watch?v=0oGpWmS0aYQ).
 - 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Refactoring](https://sourcemaking.com/refactoring).
