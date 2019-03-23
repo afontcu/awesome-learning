@@ -149,6 +149,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/).
 - 📝 [Grid Projection Naming](https://www.kizu.ru/grid-projection-naming).
 - 📝 [The benefits of learning how to code layouts with CSS](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css).
+- 📝 [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way/).
 
 
 # UI Engineering
