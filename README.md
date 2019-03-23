@@ -1,18 +1,9 @@
 # 📚 Awesome Learning
 A living curated list of awesome learning material.
 
-I'll try to jot down interesting stuff I read, watch, or listen related to the
-things I enjoy the most: web development and everything related to it.
+I'll try to jot down interesting stuff I read, watch, or listen related to the things I enjoy the most: web development and everything related to it. Most of the content will be in English and Spanish.
 
-This won't be an exhaustive list. It'll contain links to resources I value and I
-enjoyed consuming.
-
-Most of the content will be in English and Spanish.
-
-## "Dude, I loved this amazing post/talk/book and it's not on the list!"
-
-That's beyond amazing! Feel free to submit a PR :) If I really enjoy the content
-(and I probably will), I'll add it to the list. Thank  you! ❤️
+If you have any awesome material you'd like to share, Feel free to submit a PR :) If I really enjoy the content (and I probably will), I'll add it to the list. Thank you! ❤️
 
 ---
 
@@ -40,7 +31,7 @@ _(Categories are not set in stone - I'll keep creating them when needed)._
 18. [Psychology](#psychology)
 
 
-I also tried to identify some formats:
+I also tried to identify some content types:
 
 - 📝 Post, article.
 - 🔈 Podcast.
@@ -50,12 +41,11 @@ I also tried to identify some formats:
 
 ---
 
-_Disclaimer_: Resouruces are not ordered (only by type). Categories are not
-ordered either.
+_Disclaimer_: This isn't an exhaustive list. It contains resources I value and I enjoyed consuming.
 
-_Disclaimer #2_: A lot of resources and categories are overlapping. I know. I'm
-not trying to create a debate of whether if UX and UI should go together, or
-what does UX even mean if there's a Psychology category!
+_Disclaimer #2_: Content is not ordered. Categories are not ordered either. Just read the whole thing :D
+
+_Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm not trying to create a debate of whether if Agile and Software Crafting should go together (spoiler: they do), or what does "UX" even mean if there's a Psychology category!
 
 ---
 
