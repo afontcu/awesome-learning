@@ -158,6 +158,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Choosing an HTTP Status Code - Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/).
 - 📝 [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/).
 - 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
+- 📝 [What, exactly, is the DOM?](https://bitsofco.de/what-exactly-is-the-dom/).
 - 📝 [Backend-in-the-frontend: a pattern for cleaner code](https://hackernoon.com/frontend-in-the-backend-a-pattern-for-cleaner-code-b497c92d0b49).
 
 
@@ -319,7 +320,6 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b).
 - 📝 [Level Up Your Reverse Engineering Skills](https://blog.angularindepth.com/level-up-your-reverse-engineering-skills-8f910ae10630).
 - 📝 [Programming Sucks](https://www.stilldrinking.org/programming-sucks).
-- 📝 [What, exactly, is the DOM?](https://bitsofco.de/what-exactly-is-the-dom/).
 - 📝 [The Great Divide](https://css-tricks.com/the-great-divide/).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
