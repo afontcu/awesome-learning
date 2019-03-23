@@ -166,6 +166,8 @@ what does UX even mean if there's a Psychology category!
 - 📝 [Choosing an HTTP Status Code - Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/).
 - 📝 [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/).
 - 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
+- 📝 [Backend-in-the-frontend: a pattern for cleaner code](https://hackernoon.com/frontend-in-the-backend-a-pattern-for-cleaner-code-b497c92d0b49).
+
 
 
 # Testing
