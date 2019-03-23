@@ -323,6 +323,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Level Up Your Reverse Engineering Skills](https://blog.angularindepth.com/level-up-your-reverse-engineering-skills-8f910ae10630).
 - 📝 [Programming Sucks](https://www.stilldrinking.org/programming-sucks).
 - 📝 [The Great Divide](https://css-tricks.com/the-great-divide/).
+- 📝 [S.O.L.I.D. functions](http://codemanship.co.uk/parlezuml/blog/?postid=1578).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
