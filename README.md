@@ -77,6 +77,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c).
 - 📝 [Removing jQuery from GitHub.com frontend](https://githubengineering.com/removing-jquery-from-github-frontend/).
 - 📝 [Clean JavaScript: Using use-case interactors](https://medium.com/@dtinth/clean-javascript-using-use-case-interactors-f3a50c138154).
+- 📝 [Design Patterns for humans - JavaScript edition](https://github.com/sohamkamani/javascript-design-patterns-for-humans).
 - 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 - 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
 
