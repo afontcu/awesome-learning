@@ -429,5 +429,6 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Feedback Equation](https://larahogan.me/blog/feedback-equation/).
 - 📝 [Engineering a culture of psychological safety](https://www.intercom.com/blog/psychological-safety/).
 - 📝 [How To Tell If Someone Is Truly Smart Or Just Average](https://medium.com/the-mission/how-to-tell-if-someone-is-truly-smart-or-just-average-a2f0bcac5db2).
+- 📚 [The Subtle Art of Not Giving a Fuck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck).
 - 📚 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805).
 - 📚 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA).
