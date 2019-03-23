@@ -85,6 +85,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 # Vue
 - 🎥 [The Trick to Understanding Scoped Slots in Vue.js - Adam Wathan](https://www.youtube.com/watch?v=GWdOucfAzTo).
 - 🎥 [Serverless Functions and VueJS - Sarah Drasner](https://www.youtube.com/watch?v=Tn6SnOubP6U).
+- 🎥 [7 Secret Patterns Vue Consultants Don’t Want You to Know - Chris Fritz](https://www.youtube.com/watch?v=7YZ5DwlLSt8).
 - 📝 [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77).
 - 📝 [A React Point of Vue](https://www.vuemastery.com/conferences/vueconf-2018/a-react-point-of-vue-divya-sasidharan/).
 - 📝 [Vue state management from the ground up](https://hackernoon.com/vue-state-management-from-the-ground-up-a31eb87c668d) _(disclaimer: I wrote this post)_.
@@ -170,6 +171,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Testing Implementation Details](https://blog.kentcdodds.com/testing-implementation-details-ccb8d269586).
 - 📝 [Why You Should Sometimes Test "Implementation Details"](https://codingitwrong.com/2018/12/03/why-you-should-sometimes-test-implementation-details.html).
 - 📝 [Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests).
+- 📝 [Mocking global objects in vue test utils](https://itnext.io/mocking-global-objects-in-vue-test-utils-a8822df013a8).
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
