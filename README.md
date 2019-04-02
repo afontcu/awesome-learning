@@ -272,6 +272,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Roles dinamizadores de la Transformación Ágil](https://transformacionagil.org/2018/10/22/roles-dinamizadores-de-la-transformacion-agil-agile-coaches-y-hr/).
 - 📝 [Dinámicas de PO como motor de cambio del equipo](https://medium.com/@ladypain/din%C3%A1micas-de-po-como-motor-de-cambio-del-equipo-95aa9ea89430).
 - 📝 [Three drawings I use to explain agile](https://medium.com/swlh/three-drawings-i-use-to-explain-agile-9c0ef15b64b8).
+- 📝 [A letter to Agile Coaches (Scrum, XP, and software delivery)](https://www.eferro.net/2019/04/a-letter-to-agile-coaches-scrum-xp-and.html).
 
 
 # Software Crafting
