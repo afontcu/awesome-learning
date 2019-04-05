@@ -69,7 +69,6 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db).
 - 📝 [Object Composition in JavaScript](https://medium.com/code-monkey/object-composition-in-javascript-2f9b9077b5e6).
 - 📝 [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/).
-- 📝 [The Present Future of User Interface Development](https://medium.com/@jevakallio/the-present-future-of-user-interface-development-ebd371255175).
 - 📝 [SEO para Progressive Web APPs (PWA) y Frameworks JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/).
 - 📝 [How to stop using console.log() and start using your browser's debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).
 - 📝 [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9).
@@ -165,6 +164,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Backend-in-the-frontend: a pattern for cleaner code](https://hackernoon.com/frontend-in-the-backend-a-pattern-for-cleaner-code-b497c92d0b49).
 - 📝 [The Great Divide](https://css-tricks.com/the-great-divide/).
 - 📝 [Server to Client](https://alistapart.com/article/server-to-client).
+- 📝 [The Present Future of User Interface Development](https://medium.com/@jevakallio/the-present-future-of-user-interface-development-ebd371255175).
 
 
 # Testing
