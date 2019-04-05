@@ -162,6 +162,8 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Dividing frontend from backend is an antipattern](https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern).
 - 📝 [What, exactly, is the DOM?](https://bitsofco.de/what-exactly-is-the-dom/).
 - 📝 [Backend-in-the-frontend: a pattern for cleaner code](https://hackernoon.com/frontend-in-the-backend-a-pattern-for-cleaner-code-b497c92d0b49).
+- 📝 [The Great Divide](https://css-tricks.com/the-great-divide/).
+- 📝 [Server to Client](https://alistapart.com/article/server-to-client).
 
 
 # Testing
@@ -318,13 +320,12 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b).
 - 📝 [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2).
 - 📝 [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960).
-- 📝 [Server to Client](https://alistapart.com/article/server-to-client).
 - 📝 [The Code Quality vs. Speed Fallacy](https://medium.com/@asciamanna/the-code-quality-vs-speed-fallacy-f4eea147b23e).
 - 📝 [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b).
 - 📝 [Level Up Your Reverse Engineering Skills](https://blog.angularindepth.com/level-up-your-reverse-engineering-skills-8f910ae10630).
 - 📝 [Programming Sucks](https://www.stilldrinking.org/programming-sucks).
-- 📝 [The Great Divide](https://css-tricks.com/the-great-divide/).
 - 📝 [S.O.L.I.D. functions](http://codemanship.co.uk/parlezuml/blog/?postid=1578).
+- 📝 [Before learning SOLID principles](https://rachelcarmena.github.io/2019/04/04/before-learning-solid-principles.html).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
