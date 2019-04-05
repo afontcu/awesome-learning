@@ -78,6 +78,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Removing jQuery from GitHub.com frontend](https://githubengineering.com/removing-jquery-from-github-frontend/).
 - 📝 [Clean JavaScript: Using use-case interactors](https://medium.com/@dtinth/clean-javascript-using-use-case-interactors-f3a50c138154).
 - 📝 [Design Patterns for humans - JavaScript edition](https://github.com/sohamkamani/javascript-design-patterns-for-humans).
+- 📝 [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea).
 - 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 - 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
 
@@ -282,6 +283,10 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 🎥 [Software Crasftsmanship - Sandro Mancuso](https://www.youtube.com/watch?v=9OhXqBlCmrM).
 - 🎥 [Simplicidad para desarrolladores - Eduardo Ferro](https://www.youtube.com/watch?v=6FDxbCzh2sI).
 - 🎥 [Writing Readable Code - Tom Hudson](https://www.youtube.com/watch?v=OVf0xP4BLq0).
+- 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
+- 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
+- 📝 [The DIY illusion](http://www.mironov.com/diy/).
+- 📝 [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b).
 - 📝 [The Tragedy of Craftsmanship](http://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html).
 - 📝 [Why developers are slow?](https://tisquirrel.me/2015/03/30/why-developers-are-slow/).
 - 📝 [Software Development: Fast and Slow](https://www.targetprocess.com/blog/2013/07/software-development-fast-and-slow/).
@@ -295,10 +300,6 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [The Human Cost of Tech Debt](http://www.infragistics.com/community/blogs/erikdietrich/archive/2016/06/29/the-human-cost-of-tech-debt.aspx).
 - 📝 [Paying Technical Debt : How To Rescue Legacy Code through Refactoring](http://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring).
 - 📝 [Imaginary Problems Are the Root of Bad Software ](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
-- 📝 [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea).
-- 📝 [Refactor cotidiano (4). Sustituye escalares por objetos](https://franiglesias.github.io/everyday-refactor-4/).
-- 📝 [Hexagonal Architecture](https://fideloper.com/hexagonal-architecture).
-- 📝 [Better Software Design with Clean Architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture).
 
 
 # Programming and Computer Science
@@ -314,18 +315,17 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f).
 - 📝 [OO Tricks: The Art of Command Query Separation](https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0).
 - 📝 [REST vs. GraphQL: A Critical Review](https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7).
-- 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
-- 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
-- 📝 [The DIY illusion](http://www.mironov.com/diy/).
-- 📝 [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b).
 - 📝 [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2).
 - 📝 [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960).
 - 📝 [The Code Quality vs. Speed Fallacy](https://medium.com/@asciamanna/the-code-quality-vs-speed-fallacy-f4eea147b23e).
 - 📝 [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b).
 - 📝 [Level Up Your Reverse Engineering Skills](https://blog.angularindepth.com/level-up-your-reverse-engineering-skills-8f910ae10630).
 - 📝 [Programming Sucks](https://www.stilldrinking.org/programming-sucks).
+- 📝 [Refactor cotidiano (4). Sustituye escalares por objetos](https://franiglesias.github.io/everyday-refactor-4/).
 - 📝 [S.O.L.I.D. functions](http://codemanship.co.uk/parlezuml/blog/?postid=1578).
 - 📝 [Before learning SOLID principles](https://rachelcarmena.github.io/2019/04/04/before-learning-solid-principles.html).
+- 📝 [Hexagonal Architecture](https://fideloper.com/hexagonal-architecture).
+- 📝 [Better Software Design with Clean Architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
