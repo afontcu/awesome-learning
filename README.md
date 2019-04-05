@@ -87,6 +87,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 🎥 [The Trick to Understanding Scoped Slots in Vue.js - Adam Wathan](https://www.youtube.com/watch?v=GWdOucfAzTo).
 - 🎥 [Serverless Functions and VueJS - Sarah Drasner](https://www.youtube.com/watch?v=Tn6SnOubP6U).
 - 🎥 [7 Secret Patterns Vue Consultants Don’t Want You to Know - Chris Fritz](https://www.youtube.com/watch?v=7YZ5DwlLSt8).
+- 🎥 [Aquitecturas Frontend con Vue y Vuex](https://www.youtube.com/watch?v=K7bds-SEdOQ).
 - 📝 [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77).
 - 📝 [A React Point of Vue](https://www.vuemastery.com/conferences/vueconf-2018/a-react-point-of-vue-divya-sasidharan/).
 - 📝 [Vue state management from the ground up](https://hackernoon.com/vue-state-management-from-the-ground-up-a31eb87c668d) _(disclaimer: I wrote this post)_.
