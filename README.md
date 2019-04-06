@@ -167,6 +167,8 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [The Great Divide](https://css-tricks.com/the-great-divide/).
 - 📝 [Server to Client](https://alistapart.com/article/server-to-client).
 - 📝 [The Present Future of User Interface Development](https://medium.com/@jevakallio/the-present-future-of-user-interface-development-ebd371255175).
+- 📝 [Architecting UIs for Change](https://joreteg.com/blog/architecting-uis-for-change).
+- 📝 [Writing Resilient Components](https://overreacted.io/writing-resilient-components/).
 
 
 # Testing
