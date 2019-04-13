@@ -428,8 +428,8 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 🎥 [Drive: The Surprising Truth About What Motivates Us - Daniel Pink](https://www.youtube.com/watch?v=LFlvor6ZHdY).
 - 🎥 [Compassionate—Yet Candid—Code Reviews - April Wensel](https://www.youtube.com/watch?v=Ea8EiIPZvh0).
 - 🎥 [Human Performance - Jem Young](https://www.youtube.com/watch?v=qouPzSryggk).
-- 🎥 [Inteligencia artificial para acabar con la dislexia - Luz Rello](https://www.youtube.com/watch?v=csWnPn6fEa8).
 - 🎥 [Your body language may shape who you are - Amy Cuddy](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en).
+- 🎥 [Building a psychologically safe workplace - Amy Edmondson](https://www.youtube.com/watch?v=LhoLuui9gX8).
 - 📝 [How do I convince...?](https://codurance.com/2017/06/13/how-do-I-convince/).
 - 📝 [Agilismo, psicología y cosas que chirrían](https://medium.com/@lainde/agilismo-psicolog%C3%ADa-y-cosas-que-chirr%C3%ADan-1d099736c1ad).
 - 📝 [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/).
