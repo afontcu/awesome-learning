@@ -143,6 +143,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 
 # CSS Grid
 - 🎥 [Designing with Grid - Jen Simmons](https://www.youtube.com/watch?v=t0b3uBoDkBs).
+- 🎥 [Making Future Interfaces: Algorithmic Layouts - Heydon Pickering](https://www.youtube.com/watch?v=qOUtkN6M52M).
 - 📝 [The benefits of learning how to code layouts with CSS](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css).
 - 📝 [Introducing the CSS Grid Layout](https://www.sitepoint.com/introducing-the-css-grid-layout/).
 - 📝 [Editorial Design and CSS Grid: Inspiration and examples](https://www.silocreativo.com/en/editorial-design-and-css-grid-inspiration-and-examples/).
