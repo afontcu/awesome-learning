@@ -94,7 +94,9 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Vuex + IDD: Part1](https://medium.com/coding-stones/vuex-idd-part1-4b81d4088e54).
 - 📝 [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/).
 - 📝 [3 tips for scaling large Vue.js application](http://www.maxpou.fr/3-tips-scaling-vue-application).
-- 📝 [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f).- 📝 [Form Validation in Under an Hour with Vuelidate](https://css-tricks.com/form-validation-in-under-an-hour-with-vuelidate/).
+- 📝 [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f).
+- 📝 [Form Validation in Under an Hour with Vuelidate](https://css-tricks.com/form-validation-in-under-an-hour-with-vuelidate/).
+- 📝 [Mocking global objects in vue test utils](https://itnext.io/mocking-global-objects-in-vue-test-utils-a8822df013a8).
 - 📚 [Desarrolla aplicaciones con VueJS](https://jdonsan.gitbooks.io/desarrolla-aplicaciones-con-vuejs/content/).
 - 🤷 [Introduction to Vue.js with Sarah Drasner](https://frontendmasters.com/courses/vue/).
 - 🤷 [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/).
@@ -176,13 +178,14 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 🎥 [Unit Testing sucks (and it's our fault) - José Armesto](https://www.youtube.com/watch?v=GZ9iZsMAZFQ).
 - 🎥 [TDD Mi cuaderno de recetas - Modesto San Juan](https://www.youtube.com/watch?v=o9yspCrKHV0).
 - 🎥 [Component Tests with Vue.js - Matt O'Connell](https://www.youtube.com/watch?v=OIpfWTThrK8).
+- 🎥 [Establishing testing patterns with software design principles - Aaron Abramov](https://www.youtube.com/watch?v=_pnW-JjmyXE).
 - 📝 [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009).
 - 📝 [Mocking as a Design Tool](https://codurance.com/2018/10/18/mocking-as-a-design-tool/).
 - 📝 [Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50).
 - 📝 [Testing Implementation Details](https://blog.kentcdodds.com/testing-implementation-details-ccb8d269586).
 - 📝 [Why You Should Sometimes Test "Implementation Details"](https://codingitwrong.com/2018/12/03/why-you-should-sometimes-test-implementation-details.html).
 - 📝 [Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests).
-- 📝 [Mocking global objects in vue test utils](https://itnext.io/mocking-global-objects-in-vue-test-utils-a8822df013a8).
+- 📝 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test).
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
