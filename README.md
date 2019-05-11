@@ -89,10 +89,11 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Vue state management from the ground up](https://hackernoon.com/vue-state-management-from-the-ground-up-a31eb87c668d) _(disclaimer: I wrote this post)_.
 - 📝 [Vuex + IDD: Part1](https://medium.com/coding-stones/vuex-idd-part1-4b81d4088e54).
 - 📝 [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/).
+- 📝 [Building “Renderless” Vue Components](https://css-tricks.com/building-renderless-vue-components).
 - 📝 [3 tips for scaling large Vue.js application](http://www.maxpou.fr/3-tips-scaling-vue-application).
 - 📝 [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f).
 - 📝 [Form Validation in Under an Hour with Vuelidate](https://css-tricks.com/form-validation-in-under-an-hour-with-vuelidate/).
-- 📝 [Mocking global objects in vue test utils](https://itnext.io/mocking-global-objects-in-vue-test-utils-a8822df013a8).
+- 📝 [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web).
 - 📚 [Desarrolla aplicaciones con VueJS](https://jdonsan.gitbooks.io/desarrolla-aplicaciones-con-vuejs/content/).
 - 🤷 [Introduction to Vue.js with Sarah Drasner](https://frontendmasters.com/courses/vue/).
 - 🤷 [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/).
