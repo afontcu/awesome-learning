@@ -179,6 +179,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 🎥 [TDD Mi cuaderno de recetas - Modesto San Juan](https://www.youtube.com/watch?v=o9yspCrKHV0).
 - 🎥 [Component Tests with Vue.js - Matt O'Connell](https://www.youtube.com/watch?v=OIpfWTThrK8).
 - 🎥 [Establishing testing patterns with software design principles - Aaron Abramov](https://www.youtube.com/watch?v=_pnW-JjmyXE).
+- 🎥 [Please don’t mock me - Justin Searls](https://www.youtube.com/watch?v=Af4M8GMoxi4).
 - 📝 [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009).
 - 📝 [Mocking as a Design Tool](https://codurance.com/2018/10/18/mocking-as-a-design-tool/).
 - 📝 [Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50).
