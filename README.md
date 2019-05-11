@@ -186,6 +186,7 @@ _Disclaimer #3_: A lot of resources and categories are overlapping. I know. I'm 
 - 📝 [Why You Should Sometimes Test "Implementation Details"](https://codingitwrong.com/2018/12/03/why-you-should-sometimes-test-implementation-details.html).
 - 📝 [Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests).
 - 📝 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test).
+- 📝 [Tutorial: JavaScript End to End Testing with Cypress](https://www.valentinog.com/blog/cypress/)
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
