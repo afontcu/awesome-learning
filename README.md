@@ -411,7 +411,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
-
+- 🤷 [Engineering Manager list of reads](https://github.com/charlax/engineering-management).
 
 # Teams
 - 🎥 [Teal organization: a living example - Sandro Mancuso](https://www.youtube.com/watch?v=ClnHKqtfR7M).
