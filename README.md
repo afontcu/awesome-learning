@@ -75,6 +75,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Clean JavaScript: Using use-case interactors](https://medium.com/@dtinth/clean-javascript-using-use-case-interactors-f3a50c138154).
 - 📝 [Design Patterns for humans - JavaScript edition](https://github.com/sohamkamani/javascript-design-patterns-for-humans).
 - 📝 [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea).
+- 📝 [Async JavaScript: From Callbacks, to Promises, to Async/Await](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/).
 - 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 - 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
 
