@@ -135,6 +135,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [A Tale of Two Buttons](https://medium.com/buildit/a-tale-of-two-buttons-e63185aefd5f).
 - 📝 [Five years of PostCSS: State of the Union](https://evilmartians.com/chronicles/five-years-of-postcss-state-of-the-union).
 - 📝 [CSS Position Sticky - How It Really Works!](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46).
+- 📝 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 - 📚 [CSS animation 101](https://cssanimation.rocks/css-animation-101/).
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
