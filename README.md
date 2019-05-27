@@ -171,7 +171,8 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Server to Client](https://alistapart.com/article/server-to-client).
 - 📝 [The Present Future of User Interface Development](https://medium.com/@jevakallio/the-present-future-of-user-interface-development-ebd371255175).
 - 📝 [Architecting UIs for Change](https://joreteg.com/blog/architecting-uis-for-change).
-- 📝 [Writing Resilient Components](https://overreacted.io/writing-resilient-components/).
+- 📝 [Writing Resilient Components](https://overreacted.io/writing-resilient-components/)
+- 📝 [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead).
 
 
 # Testing
