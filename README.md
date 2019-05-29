@@ -218,6 +218,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/).
 - 📝 [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/).
 - 📝 [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/).
+- 📝 [Accessible Icon Buttons](https://www.sarasoueidan.com/blog/accessible-icon-buttons/).
 - 🤷 [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/).
 - 🤷 [Inclusive Components](https://inclusive-components.design).
 
