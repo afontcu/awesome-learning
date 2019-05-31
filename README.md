@@ -173,6 +173,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Architecting UIs for Change](https://joreteg.com/blog/architecting-uis-for-change).
 - 📝 [Writing Resilient Components](https://overreacted.io/writing-resilient-components/)
 - 📝 [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead).
+- 📝 [Scalable Frontend](https://blog.codeminer42.com/scalable-frontend-1-architecture-9b80a16b8ec7) ([Part 2](https://blog.codeminer42.com/scalable-frontend-2-common-patterns-d2f28aef0714), [Part 3](https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c)).
 
 
 # Testing
@@ -188,7 +189,8 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Why You Should Sometimes Test "Implementation Details"](https://codingitwrong.com/2018/12/03/why-you-should-sometimes-test-implementation-details.html).
 - 📝 [Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests).
 - 📝 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test).
-- 📝 [Tutorial: JavaScript End to End Testing with Cypress](https://www.valentinog.com/blog/cypress/)
+- 📝 [Tutorial: JavaScript End to End Testing with Cypress](https://www.valentinog.com/blog/cypress/).
+- 📝 [Testing API calls in Vue applications](https://afontcu.dev/testing-api-calls/) _(disclaimer: I wrote this post)_.
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
