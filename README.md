@@ -137,6 +137,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [CSS Position Sticky - How It Really Works!](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46).
 - 📝 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 - 📝 [Thoughts on Self-Documenting CSS](https://keithjgrant.com/posts/2017/06/self-documenting-css/).
+- 📝 [Why we prefer CSS Custom Properties to SASS variables](https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables).
 - 📚 [CSS animation 101](https://cssanimation.rocks/css-animation-101/).
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
