@@ -142,6 +142,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
 - 🤷 [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/).
+- 🤷 [Relearn CSS layout](https://every-layout.dev/).
 
 
 # CSS Grid
