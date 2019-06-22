@@ -459,3 +459,4 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📚 [The Subtle Art of Not Giving a Fuck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck).
 - 📚 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805).
 - 📚 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA).
+- 📚 [Make it stick](https://www.goodreads.com/book/show/18770267-make-it-stick).
