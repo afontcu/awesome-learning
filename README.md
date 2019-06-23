@@ -318,7 +318,8 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex).
 - 📝 [The Human Cost of Tech Debt](http://www.infragistics.com/community/blogs/erikdietrich/archive/2016/06/29/the-human-cost-of-tech-debt.aspx).
 - 📝 [Paying Technical Debt : How To Rescue Legacy Code through Refactoring](http://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring).
-- 📝 [Imaginary Problems Are the Root of Bad Software ](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
+- 📝 [Imaginary Problems Are the Root of Bad Software](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
+- 📝 [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html).
 
 
 # Programming and Computer Science
