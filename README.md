@@ -52,6 +52,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Keep Betting on JavaScript - Kyle Simpson](https://www.youtube.com/watch?v=lDLQA6lQSFg).
 - 🎥 [JavaScript Concurrency and the DOM - Kristofer Baxter and Malte Ubl](https://www.youtube.com/watch?v=XyVQfqmx2CI).
 - 🎥 [The Event Loop - Jake Archibald](https://vimeo.com/254947206).
+- 🎥 [What the heck is the event loop anyway? - Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ).
 - 📝 [WTF is ES6, ES8, ES 2017, ECMAScript?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c).
 - 📝 [A Beginner's Guide to JavaScript's Prototype](https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk).
 - 📝 [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2).
