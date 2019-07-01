@@ -195,6 +195,8 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test).
 - 📝 [Tutorial: JavaScript End to End Testing with Cypress](https://www.valentinog.com/blog/cypress/).
 - 📝 [Testing API calls in Vue applications](https://afontcu.dev/testing-api-calls/) _(disclaimer: I wrote this post)_.
+- 📝 [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a).
+- 📝 [Five Things You (Probably) Didn't Know About Testing Library](https://www.polvara.me/posts/five-things-you-didnt-know-about-testing-library/).
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
