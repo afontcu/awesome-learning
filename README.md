@@ -412,6 +412,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Go Slow To Go Fast: Building Strong Foundations for Leadership - Alicia Liu](https://www.youtube.com/watch?list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&v=zxzaG2zNiTU).
 - 🎥 [Radical Candor — The Surprising Secret to Being a Good Boss - Kimm Scott](https://www.youtube.com/watch?v=4yODalLQ2lM).
 - 🎥 [Leadership Guide for the Reluctant Leader - David Neal](https://www.youtube.com/watch?v=0h5X5UKWao8).
+- 🎥 [Being right is only half the battle - Rod Begbie](https://www.youtube.com/watch?v=xnZAMk-xIGk).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
 - 📝 [Where Does the Leadership Come From?](https://medium.com/agility-scales/where-does-the-leadership-come-from-3757a1acd1d1).
 - 📝 ["How" ages faster than "Why"](https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b).
