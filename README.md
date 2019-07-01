@@ -228,6 +228,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Why, How, and When to Use Semantic HTML and ARIA](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/).
 - 📝 [Accessible Icon Buttons](https://www.sarasoueidan.com/blog/accessible-icon-buttons/).
 - 📝 [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/).
+- 📝 [How to Section Your HTML](https://css-tricks.com/how-to-section-your-html/).
 - 🤷 [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/).
 - 🤷 [Inclusive Components](https://inclusive-components.design).
 
