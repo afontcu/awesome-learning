@@ -257,6 +257,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Creating Flow and Value in Product Development](https://amplitude.com/blog/creating-flow-value-in-product-development).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
+- 📚 [Escaping the build trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X).
 
 
 # Agile
