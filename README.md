@@ -417,6 +417,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Radical Candor — The Surprising Secret to Being a Good Boss - Kimm Scott](https://www.youtube.com/watch?v=4yODalLQ2lM).
 - 🎥 [Leadership Guide for the Reluctant Leader - David Neal](https://www.youtube.com/watch?v=0h5X5UKWao8).
 - 🎥 [Being right is only half the battle - Rod Begbie](https://www.youtube.com/watch?v=xnZAMk-xIGk).
+- 🎥 [Creating a career ladder for engineers - Marco Rogers](https://www.youtube.com/watch?v=jA1Q94d2z10).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
 - 📝 [Where Does the Leadership Come From?](https://medium.com/agility-scales/where-does-the-leadership-come-from-3757a1acd1d1).
 - 📝 ["How" ages faster than "Why"](https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b).
@@ -427,7 +428,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Lessons Learned by Mentoring](https://dev.to/rpalo/lessons-learned-by-mentoring-1k6i).
 - 📝 [Software Engineering Leadership](https://ericbrooke.wordpress.com/2018/09/16/software-engineering-leadership/).
 - 📝 [The Six Leadership Styles for effective Team Performance](https://www.educational-business-articles.com/six-leadership-styles/).
-- 📝 [Why your company is slowing down and how to fix it](https://medium.com/swlh/why-your-company-is-slowing-down-and-how-to-fix-it-89f5cf5bf7ce).
 - 📝 [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/).
 - 📝 [Delegate outcomes, not activities](https://signalvnoise.com/delegate-outcomes-not-activities/).
 - 📝 [The Importance of Setting Good Expectations](https://lengstorf.com/setting-expectations/).
@@ -450,6 +450,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Re-structuring a growing team](https://jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637).
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
 - 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
+- 📝 [Why your company is slowing down and how to fix it](https://medium.com/swlh/why-your-company-is-slowing-down-and-how-to-fix-it-89f5cf5bf7ce).
 
 
 # Psychology
