@@ -179,6 +179,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Writing Resilient Components](https://overreacted.io/writing-resilient-components/)
 - 📝 [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead).
 - 📝 [Scalable Frontend](https://blog.codeminer42.com/scalable-frontend-1-architecture-9b80a16b8ec7) ([Part 2](https://blog.codeminer42.com/scalable-frontend-2-common-patterns-d2f28aef0714), [Part 3](https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c)).
+- 📝 [Frontend Design, React, and a Bridge over the Great Divide](http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/).
 
 
 # Testing
