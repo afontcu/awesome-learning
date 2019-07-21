@@ -430,6 +430,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Software Engineering Leadership](https://ericbrooke.wordpress.com/2018/09/16/software-engineering-leadership/).
 - 📝 [The Six Leadership Styles for effective Team Performance](https://www.educational-business-articles.com/six-leadership-styles/).
 - 📝 [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/).
+- 📝 [¿Eres Senior?](https://mailchi.mp/bonillaware/senior?e=2fd57cc8b8).
 - 📝 [Delegate outcomes, not activities](https://signalvnoise.com/delegate-outcomes-not-activities/).
 - 📝 [The Importance of Setting Good Expectations](https://lengstorf.com/setting-expectations/).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
