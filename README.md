@@ -419,6 +419,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Leadership Guide for the Reluctant Leader - David Neal](https://www.youtube.com/watch?v=0h5X5UKWao8).
 - 🎥 [Being right is only half the battle - Rod Begbie](https://www.youtube.com/watch?v=xnZAMk-xIGk).
 - 🎥 [Creating a career ladder for engineers - Marco Rogers](https://www.youtube.com/watch?v=jA1Q94d2z10).
+- 🎥 [Rethinking the Developer Career Path – Randall Koutnik](https://www.youtube.com/watch?v=yIPbE7BssOs).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
 - 📝 [Where Does the Leadership Come From?](https://medium.com/agility-scales/where-does-the-leadership-come-from-3757a1acd1d1).
 - 📝 ["How" ages faster than "Why"](https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b).
@@ -434,7 +435,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Importance of Setting Good Expectations](https://lengstorf.com/setting-expectations/).
 - 📝 [¿Eres Senior?](https://mailchi.mp/bonillaware/senior?e=2fd57cc8b8).
 - 📝 [The Conjoined Triangles of Senior‑Level Development](https://frontside.io/blog/2016-07-07-the-conjoined-triangles-of-senior-level-development/).
-- 📝 [Rethinking the Developer Career Path – Randall Koutnik](https://www.youtube.com/watch?v=yIPbE7BssOs).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
