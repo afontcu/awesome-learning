@@ -434,6 +434,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Importance of Setting Good Expectations](https://lengstorf.com/setting-expectations/).
 - 📝 [¿Eres Senior?](https://mailchi.mp/bonillaware/senior?e=2fd57cc8b8).
 - 📝 [The Conjoined Triangles of Senior‑Level Development](https://frontside.io/blog/2016-07-07-the-conjoined-triangles-of-senior-level-development/).
+- 📝 [Rethinking the Developer Career Path – Randall Koutnik](https://www.youtube.com/watch?v=yIPbE7BssOs).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
