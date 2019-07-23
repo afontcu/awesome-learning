@@ -164,6 +164,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 
 
 # UI Engineering
+- 🎥 [How To Think Like A Front-End Developer - Chris Coyier](https://vimeo.com/showcase/5937296/video/331569372).
 - 📝 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web/).
 - 📝 [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1).
 - 📝 [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/).
