@@ -142,6 +142,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 - 📝 [Thoughts on Self-Documenting CSS](https://keithjgrant.com/posts/2017/06/self-documenting-css/).
 - 📝 [Why we prefer CSS Custom Properties to SASS variables](https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables).
+- 📝 [Dynamic SVG Animation with CSS Variables](https://lisilinhart.info/posts/svg-animation-css-variables)
 - 📚 [CSS animation 101](https://cssanimation.rocks/css-animation-101/).
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
