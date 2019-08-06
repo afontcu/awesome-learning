@@ -428,7 +428,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Being right is only half the battle - Rod Begbie](https://www.youtube.com/watch?v=xnZAMk-xIGk).
 - 🎥 [Creating a career ladder for engineers - Marco Rogers](https://www.youtube.com/watch?v=jA1Q94d2z10).
 - 🎥 [Rethinking the Developer Career Path – Randall Koutnik](https://www.youtube.com/watch?v=yIPbE7BssOs).
-- 🎥 [Human Performance – Jem Young](https://www.youtube.com/watch?v=qouPzSryggk).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
 - 📝 [Where Does the Leadership Come From?](https://medium.com/agility-scales/where-does-the-leadership-come-from-3757a1acd1d1).
 - 📝 ["How" ages faster than "Why"](https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b).
