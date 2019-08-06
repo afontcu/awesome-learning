@@ -84,7 +84,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/).
 - 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 - 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
-
+- 🤷 [JavaScript.info](http://javascript.info/).
 
 # Vue
 - 🎥 [The Trick to Understanding Scoped Slots in Vue.js - Adam Wathan](https://www.youtube.com/watch?v=GWdOucfAzTo).
