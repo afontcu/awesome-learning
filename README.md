@@ -159,13 +159,13 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The benefits of learning how to code layouts with CSS](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css).
 - 📝 [Introducing the CSS Grid Layout](https://www.sitepoint.com/introducing-the-css-grid-layout/).
 - 📝 [Editorial Design and CSS Grid: Inspiration and examples](https://www.silocreativo.com/en/editorial-design-and-css-grid-inspiration-and-examples/).
-- 📝 [CSS Grid with Wes Bos](https://cssgrid.io/).
 - 📝 [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0).
 - 📝 [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/).
 - 📝 [Grid Projection Naming](https://www.kizu.ru/grid-projection-naming).
 - 📝 [The benefits of learning how to code layouts with CSS](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css).
 - 📝 [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way/).
-
+- 🤷 [CSS Grid with Wes Bos](https://cssgrid.io/).
+- 🤷 [CSS Grid Garden](https://cssgridgarden.com/).
 
 # UI Engineering
 - 🎥 [How To Think Like A Front-End Developer - Chris Coyier](https://vimeo.com/showcase/5937296/video/331569372).
