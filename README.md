@@ -344,6 +344,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Towards an inclusive craft - Daniel Irvine](https://www.youtube.com/watch?v=43mP7l-w3po).
 - 🎥 [Agility and Architecture - Robert C. Martin ("Uncle Bob")](https://www.youtube.com/watch?v=0oGpWmS0aYQ).
 - 🎥 [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0).
+- 🎥 [It’s Not Continuous Delivery If You Can’t Deploy Right Now - Ken Mugrage](https://www.youtube.com/watch?v=po712VIZZ7M).
 - 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Refactoring](https://sourcemaking.com/refactoring).
