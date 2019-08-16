@@ -101,6 +101,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f).
 - 📝 [Form Validation in Under an Hour with Vuelidate](https://css-tricks.com/form-validation-in-under-an-hour-with-vuelidate/).
 - 📝 [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web).
+- 📝 [Getting More Out of Vue Async Components](https://logaretm.com/blog/getting-more-out-of-vue-async-components/).
 - 📚 [Desarrolla aplicaciones con VueJS](https://jdonsan.gitbooks.io/desarrolla-aplicaciones-con-vuejs/content/).
 - 🤷 [Introduction to Vue.js with Sarah Drasner](https://frontendmasters.com/courses/vue/).
 - 🤷 [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/).
