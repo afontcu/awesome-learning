@@ -209,6 +209,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a).
 - 📝 [Five Things You (Probably) Didn't Know About Testing Library](https://www.polvara.me/posts/five-things-you-didnt-know-about-testing-library/).
 - 📝 [Don't DRY your tests](https://vanslaars.io/post/dont-dry-your-tests/).
+- 📝 [Giving Up on TDD](https://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html).
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
@@ -321,6 +322,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Software Crasftsmanship - Sandro Mancuso](https://www.youtube.com/watch?v=9OhXqBlCmrM).
 - 🎥 [Simplicidad para desarrolladores - Eduardo Ferro](https://www.youtube.com/watch?v=6FDxbCzh2sI).
 - 🎥 [Writing Readable Code - Tom Hudson](https://www.youtube.com/watch?v=OVf0xP4BLq0).
+- 🎥 [Livable Code - Sarah Mei](https://www.youtube.com/watch?v=8_UoDmJi7U8).
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
@@ -339,6 +341,8 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Paying Technical Debt : How To Rescue Legacy Code through Refactoring](http://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring).
 - 📝 [Imaginary Problems Are the Root of Bad Software](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
 - 📝 [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html).
+- 📝 [KPIs para equipos de desarrollo de software](https://www.danilat.com/weblog/2019/06/10/kpis-equipos-desarrollo-software).
+- 📝 [Technical Skills](https://ronjeffries.com/articles/019-01ff/tech-skills/).
 
 
 # Programming and Computer Science
@@ -368,6 +372,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Hexagonal Architecture](https://fideloper.com/hexagonal-architecture).
 - 📝 [Better Software Design with Clean Architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture).
 - 📝 [Diseño incremental de software a partir de las interacciones](http://www.danilat.com/weblog/2019/04/10/diseno-incremental-de-software-a-partir-de-las-interacciones).
+- 📝 [OO vs FP](https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
@@ -448,6 +453,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Importance of Setting Good Expectations](https://lengstorf.com/setting-expectations/).
 - 📝 [¿Eres Senior?](https://mailchi.mp/bonillaware/senior?e=2fd57cc8b8).
 - 📝 [The Conjoined Triangles of Senior‑Level Development](https://frontside.io/blog/2016-07-07-the-conjoined-triangles-of-senior-level-development/).
+- 📝 [Try Different, Not Harder](http://geepawhill.org/try-different-not-harder/).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
