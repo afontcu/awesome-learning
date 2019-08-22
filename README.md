@@ -271,6 +271,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The essence of story slicing in agile development](https://medium.com/@neil2killick/the-essence-of-story-slicing-in-agile-development-fc16a1226941).
 - 📝 [Have you ever tried to learn a new skill online?](https://blog.prototypr.io/google-hobbies-a-retrospective-on-a-new-feature-to-help-google-users-find-and-learn-new-skills-650947f0be).
 - 📝 [What a very bad day at work taught me about building Stack Overflow’s community](https://stackoverflow.blog/2019/07/18/building-community-inclusivity-stack-overflow/).
+- 📝 [Continuous Alignment of Product Management](https://productcoalition.com/continuous-alignment-of-product-management-699bd61c2c0b).
 - 📝 [Creating Flow and Value in Product Development](https://amplitude.com/blog/creating-flow-value-in-product-development).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
