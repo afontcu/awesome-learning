@@ -212,6 +212,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Five Things You (Probably) Didn't Know About Testing Library](https://www.polvara.me/posts/five-things-you-didnt-know-about-testing-library/).
 - 📝 [Don't DRY your tests](https://vanslaars.io/post/dont-dry-your-tests/).
 - 📝 [Giving Up on TDD](https://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html).
+- 📝 [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html).
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
