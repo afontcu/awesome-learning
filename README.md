@@ -150,6 +150,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Thoughts on Self-Documenting CSS](https://keithjgrant.com/posts/2017/06/self-documenting-css/).
 - 📝 [Why we prefer CSS Custom Properties to SASS variables](https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables).
 - 📝 [Dynamic SVG Animation with CSS Variables](https://lisilinhart.info/posts/svg-animation-css-variables)
+- 📝 [Digging Into The Display Property: Box Generation](https://www.smashingmagazine.com/2019/05/display-box-generation/)
 - 📚 [CSS animation 101](https://cssanimation.rocks/css-animation-101/).
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
