@@ -330,6 +330,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Simplicidad para desarrolladores - Eduardo Ferro](https://www.youtube.com/watch?v=6FDxbCzh2sI).
 - 🎥 [Writing Readable Code - Tom Hudson](https://www.youtube.com/watch?v=OVf0xP4BLq0).
 - 🎥 [Livable Code - Sarah Mei](https://www.youtube.com/watch?v=8_UoDmJi7U8).
+- 🎥 [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA)
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
