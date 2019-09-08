@@ -434,7 +434,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 # Leadership
 - 🎥 [Tech Lead vs. Engineering Manager - Félix López](https://www.youtube.com/watch?v=LD9G-pWung4).
 - 🎥 [How great leaders inspire action - Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action).
-- 🎥 [¿Qué es un Senior Developer? - Luis G. Valle](https://www.youtube.com/watch?v=Vp0mR0XUrGo).
+- 🎥 [¿Qué es un Senior Developer? - Luis G. Valle](https://www.youtube.com/watch?v=hC2hhErZdBg).
 - 🎥 [Turn the Ship Around - David Marquet](https://www.youtube.com/watch?v=IzJL8zX3EVk).
 - 🎥 [De "Foso de Desarrollo nº 23" a "Un Goonie nunca dice muerto" - Fran Ávila](https://www.youtube.com/watch?v=e1N6oRQHopo).
 - 🎥 [If Russ Ackoff had given a TED Talk…  - Russ Ackoff](https://www.youtube.com/watch?v=OqEeIG8aPPk).
