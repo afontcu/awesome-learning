@@ -40,7 +40,7 @@ _Disclaimer_: This isn't an exhaustive list. It contains resources I value and I
 
 _Disclaimer #2_: There is no order or priorities. Read the whole thing :D
 
-_Disclaimer #3_: I know some resources and categories are overlapping. I know. I'm not trying to start a fire by splittind Agile and Software Crafting.
+_Disclaimer #3_: I know some resources and categories are overlapping. I know. I'm not trying to start a fire by splitting Agile and Software Crafting.
 
 ---
 
