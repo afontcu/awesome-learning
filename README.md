@@ -350,7 +350,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Your developers are not slow](https://sprint.ly/blog/your-developers-arent-slow/).
 - 📝 [How Do We Go Faster?](https://hackernoon.com/how-do-we-go-faster-ed51207952a8).
 - 📝 [Agilismo versus craftismo. Y diversidad](https://medium.com/scbcn/agilismo-versus-craftismo-y-diversidad-67c465e3acf7).
-- 📝 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
 - 📝 [Writing Tidy Code](https://csswizardry.com/2017/05/writing-tidy-code/).
 - 📝 [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68).
 - 📝 [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex).
@@ -362,7 +361,9 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Technical Skills](https://ronjeffries.com/articles/019-01ff/tech-skills/).
 - 📝 [La simplicidad por principio](https://leanmind.es/es/blog/simplicidad-por-principio/).
 - 📝 [Extreme Programming, a Reflection](https://blog.cleancoder.com/uncle-bob/2013/12/10/Thankyou-Kent.html).
-
+- 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
+- 📚 [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/).
+- 📚 [Refactoring](https://martinfowler.com/books/refactoring.html).
 
 # Programming and Computer Science
 - 🎥 [Aprender a enseñar a programar - Xavi Gost](https://www.youtube.com/watch?v=50Sh3WQOKeg).
