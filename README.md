@@ -216,6 +216,9 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Don't DRY your tests](https://vanslaars.io/post/dont-dry-your-tests/).
 - 📝 [Giving Up on TDD](https://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html).
 - 📝 [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html).
+- 📝 [Test First](https://blog.cleancoder.com/uncle-bob/2013/09/23/Test-first.html).
+- 📝 [The Cycles of TDD](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html).
+- 📝 [Symmetry Breaking](https://blog.cleancoder.com/uncle-bob/2017/03/07/SymmetryBreaking.html).
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
@@ -279,6 +282,8 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Continuous Alignment of Product Management](https://productcoalition.com/continuous-alignment-of-product-management-699bd61c2c0b).
 - 📝 [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/).
 - 📝 [Creating Flow and Value in Product Development](https://amplitude.com/blog/creating-flow-value-in-product-development).
+- 📝 [Deadline Defense](https://www.ronjeffries.com/articles/018-01ff/deadline-defense/).
+- 📝 [How Product Managers Lose Trust](https://cutle.fish/blog/how-product-managers-lose-trust).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
 - 📚 [Escaping the build trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X).
@@ -357,6 +362,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [KPIs para equipos de desarrollo de software](https://www.danilat.com/weblog/2019/06/10/kpis-equipos-desarrollo-software).
 - 📝 [Technical Skills](https://ronjeffries.com/articles/019-01ff/tech-skills/).
 - 📝 [La simplicidad por principio](https://leanmind.es/es/blog/simplicidad-por-principio/).
+- 📝 [Extreme Programming, a Reflection](https://blog.cleancoder.com/uncle-bob/2013/12/10/Thankyou-Kent.html).
 
 
 # Programming and Computer Science
