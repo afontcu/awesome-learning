@@ -356,6 +356,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html).
 - 📝 [KPIs para equipos de desarrollo de software](https://www.danilat.com/weblog/2019/06/10/kpis-equipos-desarrollo-software).
 - 📝 [Technical Skills](https://ronjeffries.com/articles/019-01ff/tech-skills/).
+- 📝 [La simplicidad por principio](https://leanmind.es/es/blog/simplicidad-por-principio/).
 
 
 # Programming and Computer Science
