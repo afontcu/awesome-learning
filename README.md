@@ -30,7 +30,6 @@ I'll try to jot down interesting stuff I read, watch, or listen related to the t
 I also tried to identify some content types:
 
 - 📝 Post, article.
-- 🔈 Podcast.
 - 🎥 Talk or Video Course.
 - 📚 Book (either physical or digital).
 - 🤷 Other (an online game, an infographic...).
@@ -420,7 +419,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 
 # User Experience
 - 🎥 [Malas gráficas - Almudena Martín](https://www.youtube.com/watch?v=dKJ2RAKWFGc).
-- 🔈 [User Experience (UX) con Daniel Torres Burriel](https://carlosiglesias.info/e010-user-experience-con-daniel-torres-burriel/).
 - 📝 [There is no such thing as UX Design](http://www.peterme.com/2014/12/01/there-is-no-such-thing-as-ux-design/).
 - 📝 [Lean Inception](https://martinfowler.com/articles/lean-inception).
 - 📝 [How to Get Stakeholders to Buy Into User Research](https://hackernoon.com/how-to-get-buy-in-for-doing-user-research-9dae432a8ec6).
@@ -441,7 +439,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📚 [Elements of User Experience: User-Centered Design for the Web and Beyond](http://www.jjg.net/elements/).
 - 📚 [El Arte de Medir](https://www.casadellibro.com/libro-el-arte-de-medir-manual-de-analitica-web/9788492956647/1829890).
 - 📚 [Usabilidad: deja de sufrir](https://www.amazon.es/Usabilidad-Deja-sufrir-Social-Media/dp/8441539804).
-
+- 🤷 [User Experience (UX) con Daniel Torres Burriel](https://carlosiglesias.info/e010-user-experience-con-daniel-torres-burriel/).
 
 # Leadership
 - 🎥 [Tech Lead vs. Engineering Manager - Félix López](https://www.youtube.com/watch?v=LD9G-pWung4).
