@@ -395,6 +395,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Better Software Design with Clean Architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture).
 - 📝 [Diseño incremental de software a partir de las interacciones](http://www.danilat.com/weblog/2019/04/10/diseno-incremental-de-software-a-partir-de-las-interacciones).
 - 📝 [OO vs FP](https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html).
+- 📝 [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
