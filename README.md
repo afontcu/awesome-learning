@@ -126,6 +126,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 # CSS
 - 🎥 [Thinking beyond 'Scalable CSS' - Nicholas Gallagher](https://www.youtube.com/watch?v=L8w3v9m6G04).
 - 🎥 [Everything You Know About Web Design Just Changed - Jen Simmons](https://www.youtube.com/watch?v=jBwBACbRuGY).
+- 🎥 [Keeping it simple with CSS that scales - Andy Bell](https://www.youtube.com/watch?v=Apm52q3xPkk).
 - 📝 [Use Cases For Flexbox](https://www.smashingmagazine.com/2018/10/flexbox-use-cases).
 - 📝 [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes).
 - 📝 [Page Transitions for Everyone](https://css-tricks.com/page-transitions-for-everyone/).
