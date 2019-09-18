@@ -331,6 +331,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Dinámicas de PO como motor de cambio del equipo](https://medium.com/@ladypain/din%C3%A1micas-de-po-como-motor-de-cambio-del-equipo-95aa9ea89430).
 - 📝 [Three drawings I use to explain agile](https://medium.com/swlh/three-drawings-i-use-to-explain-agile-9c0ef15b64b8).
 - 📝 [A letter to Agile Coaches (Scrum, XP, and software delivery)](https://www.eferro.net/2019/04/a-letter-to-agile-coaches-scrum-xp-and.html).
+- 📝 [Why Don’t We Just Call Agile What It Is: Feminist](https://medium.com/@Hanna.Thomas/why-dont-we-just-call-agile-what-it-is-feminist-8bdd9193edba).
 
 
 # Software Crafting
