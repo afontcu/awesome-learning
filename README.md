@@ -220,6 +220,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Cycles of TDD](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html).
 - 📝 [Symmetry Breaking](https://blog.cleancoder.com/uncle-bob/2017/03/07/SymmetryBreaking.html).
 - 📝 [Testing Functional React Components](https://leanmind.es/en/blog/testing_react_hooks).
+- 📝 [Front-end productivity boost: Cypress as your main development browser](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk).
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
