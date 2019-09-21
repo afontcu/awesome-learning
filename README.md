@@ -121,6 +121,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Thinking About React, Atomically](https://blog.usejournal.com/thinking-about-react-atomically-608c865d2262).
 - 📝 [How Does React Tell a Class from a Function?](https://overreacted.io/how-does-react-tell-a-class-from-a-function/).
 - 📝 [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/).
+- 📝 [State Machines in React](https://gedd.ski/post/state-machines-in-react/).
 
 
 # CSS
