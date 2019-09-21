@@ -345,6 +345,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [What Does Tech Excellence Look Like? - Martin Fowler](https://www.youtube.com/watch?v=Avs70dZ3Vlk).
 - 🎥 [The Path to Craftsmanship - Chet Hendrickson & Ron Jeffries](https://www.youtube.com/watch?v=Avs70dZ3Vlk).
 - 🎥 [Deliveritis Aguda - Carlos Buenosvinos](https://www.youtube.com/watch?v=vGCowJY5QCQ).
+- 🎥 [Workflows of Refactoring - Martin Fowler](https://www.youtube.com/watch?v=vqEg37e4Mkw).
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
