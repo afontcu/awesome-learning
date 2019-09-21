@@ -55,6 +55,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [The economics of open source - C J Silverio](https://www.youtube.com/watch?v=MO8hZlgK5zc).
 - 🎥 [What are Observables and why should I care? - Randall Koutnik](https://www.youtube.com/watch?v=LgjVpPFGIQ4).
 - 🎥 [Learning Functional Programming with JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY).
+- 🎥 [Two Fundamental Abstractions - André Staltz](https://www.youtube.com/watch?v=fdol03pcvMA).
 - 📝 [WTF is ES6, ES8, ES 2017, ECMAScript?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c).
 - 📝 [A Beginner's Guide to JavaScript's Prototype](https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk).
 - 📝 [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2).
