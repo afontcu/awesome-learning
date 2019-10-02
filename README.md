@@ -507,7 +507,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
 - 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
 - 📝 [Why your company is slowing down and how to fix it](https://medium.com/swlh/why-your-company-is-slowing-down-and-how-to-fix-it-89f5cf5bf7ce).
-
+- 📝 [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better).
 
 # Psychology
 - 🎥 [10 ways to have a better conversation - Celeste Headlee](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
