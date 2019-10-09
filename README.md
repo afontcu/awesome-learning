@@ -301,6 +301,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Empresa Ágil del siglo XXI - Ángel Medinilla](https://www.youtube.com/watch?v=YTKvaJDuw8Q).
 - 🎥 [The Lean Organization - Gabriel Prat](https://www.youtube.com/watch?v=kFLvzqE3Rr4).
 - 🎥 [El patadón palante. Posponer decisiones - Eduardo Ferro](https://www.youtube.com/watch?v=vEr2xbNoUxM).
+- 🎥 [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M).
 - 📝 [Making the Date](https://ronjeffries.com/xprog/articles/jatmakingthedate/).
 - 📝 [How to Impose Agile](https://ronjeffries.com/articles/018-01ff/imposition/).
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
