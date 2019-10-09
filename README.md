@@ -306,8 +306,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [How to Impose Agile](https://ronjeffries.com/articles/018-01ff/imposition/).
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
 - 📝 [Do you want Crappy Agile?](https://ronjeffries.com/articles/016-03/you-want/).
-- 📝 [The Agile Bicycle](https://dotdev.co/the-agile-bicycle-829a83b18e7).
-- 📝 [Agile is a mindset not a process!](https://medium.com/@HaydenSlaughter/agile-is-a-mindset-not-a-process-3fbcb27ad097).
+- 📝 [The Agile Bicycle](https://m.dotdev.co/the-agile-bicycle-829a83b18e7).
 - 📝 [The Principles of Kanban method](https://web.archive.org/web/20140114161522/http://www.djaa.com/principles-kanban-method).
 - 📝 [12 Signs You're Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2).
 - 📝 [Order-Takers vs. Value-Builders](https://hackernoon.com/order-takers-vs-value-builders-f4cd387462b8).
@@ -326,7 +325,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
 - 📝 [Henry Ford: Master of flow](https://yorkesoftware.com/2017/06/13/henry-ford-master-of-flow/).
 - 📝 [One year of agile teams at aFrogleap](https://afrogleap.com/agile/one-year-of-agile-teams-at-afrogleap/).
-- 📝 [Going Into Deep Space: Creating the Right Environment for Your Open Space](https://labs.spotify.com/2017/05/31/going-into-deep-space-creating-the-right-environment-for-your-open-space/).
 - 📝 [Why Isn't Agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552).
 - 📝 [Faster. Faster. Faster.](https://hackernoon.com/faster-faster-faster-231c7b3d088d).
 - 📝 [WIP It Real Good](https://hackernoon.com/wip-it-real-good-66aa710178fd).
