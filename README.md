@@ -225,6 +225,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Symmetry Breaking](https://blog.cleancoder.com/uncle-bob/2017/03/07/SymmetryBreaking.html).
 - 📝 [Testing Functional React Components](https://leanmind.es/en/blog/testing_react_hooks).
 - 📝 [Front-end productivity boost: Cypress as your main development browser](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk).
+- 📝 [TDD Guided by ZOMBIES](http://blog.wingman-sw.com/tdd-guided-by-zombies).
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
