@@ -339,6 +339,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [A letter to Agile Coaches (Scrum, XP, and software delivery)](https://www.eferro.net/2019/04/a-letter-to-agile-coaches-scrum-xp-and.html).
 - 📝 [Why Don’t We Just Call Agile What It Is: Feminist](https://medium.com/@Hanna.Thomas/why-dont-we-just-call-agile-what-it-is-feminist-8bdd9193edba).
 - 📝 [Scrum, sprints y ritmo sostenible](https://blog.jmbeas.es/2019/10/27/scrum-sprints-y-ritmo-sostenible).
+- 📝 [No Software: No Agile, No Scrum](https://ronjeffries.com/articles/019-01ff/no-software/).
 - 📚 [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development).
 
 
