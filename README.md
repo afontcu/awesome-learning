@@ -490,6 +490,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [¿Eres Senior?](https://mailchi.mp/bonillaware/senior?e=2fd57cc8b8).
 - 📝 [The Conjoined Triangles of Senior‑Level Development](https://frontside.io/blog/2016-07-07-the-conjoined-triangles-of-senior-level-development/).
 - 📝 [Try Different, Not Harder](http://geepawhill.org/try-different-not-harder/).
+- 📝 [How to succeed as a lead engineer – tactics and mindsets from practice](https://swizec.com/blog/how-to-be-lead-engineer-on-a-project-tactics-and-mindsets-from-practice/swizec/9222).
 - 📝 [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
