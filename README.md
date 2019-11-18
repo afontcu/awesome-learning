@@ -82,6 +82,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea).
 - 📝 [Async JavaScript: From Callbacks, to Promises, to Async/Await](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/).
 - 📝 [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/).
+- 📝 [The TypeScript Tax](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b).
 - 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 - 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
 - 🤷 [JavaScript.info](http://javascript.info/).
