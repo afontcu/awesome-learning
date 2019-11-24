@@ -412,6 +412,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [OO vs FP](https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html).
 - 📝 [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/).
 - 📝 [What is domain logic?](https://enterprisecraftsmanship.com/posts/what-is-domain-logic/).
+- 📝 [Una introducción a Domain Driven Design](https://franiglesias.github.io/ddd-intro/).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
