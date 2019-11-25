@@ -227,6 +227,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Testing Functional React Components](https://leanmind.es/en/blog/testing_react_hooks).
 - 📝 [Front-end productivity boost: Cypress as your main development browser](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk).
 - 📝 [TDD Guided by ZOMBIES](http://blog.wingman-sw.com/tdd-guided-by-zombies).
+- 📝 [TDD](https://ronjeffries.com/articles/019-01ff/tdd-one-word/).
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
