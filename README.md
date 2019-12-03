@@ -379,6 +379,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Technical Skills](https://ronjeffries.com/articles/019-01ff/tech-skills/).
 - 📝 [La simplicidad por principio](https://leanmind.es/es/blog/simplicidad-por-principio/).
 - 📝 [Extreme Programming, a Reflection](https://blog.cleancoder.com/uncle-bob/2013/12/10/Thankyou-Kent.html).
+- 📝 [To Domain Driven Design](https://dev.to/kmruiz/to-domain-driven-design-6ao).
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
 - 📚 [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/).
 - 📚 [Refactoring](https://martinfowler.com/books/refactoring.html).
