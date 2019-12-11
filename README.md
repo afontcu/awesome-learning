@@ -94,7 +94,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Aquitecturas Frontend con Vue y Vuex](https://www.youtube.com/watch?v=K7bds-SEdOQ).
 - 📝 [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77).
 - 📝 [A React Point of Vue](https://www.vuemastery.com/conferences/vueconf-2018/a-react-point-of-vue-divya-sasidharan/).
-- 📝 [Vue state management from the ground up](https://hackernoon.com/vue-state-management-from-the-ground-up-a31eb87c668d) _(disclaimer: I wrote this post)_.
 - 📝 [Vuex + IDD: Part1](https://medium.com/coding-stones/vuex-idd-part1-4b81d4088e54).
 - 📝 [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/).
 - 📝 [Building “Renderless” Vue Components](https://css-tricks.com/building-renderless-vue-components).
@@ -104,6 +103,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web).
 - 📝 [What does the Vue function API feel like](https://logaretm.com/blog/what-the-vue-function-api-feel-like).
 - 📝 [Getting More Out of Vue Async Components](https://logaretm.com/blog/getting-more-out-of-vue-async-components/).
+- 📝 [Vue state management from the ground up](https://hackernoon.com/vue-state-management-from-the-ground-up-a31eb87c668d) _(disclaimer: I wrote this post)_.
 - 📚 [Desarrolla aplicaciones con VueJS](https://jdonsan.gitbooks.io/desarrolla-aplicaciones-con-vuejs/content/).
 - 🤷 [Introduction to Vue.js with Sarah Drasner](https://frontendmasters.com/courses/vue/).
 - 🤷 [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/).
@@ -216,7 +216,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests).
 - 📝 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test).
 - 📝 [Tutorial: JavaScript End to End Testing with Cypress](https://www.valentinog.com/blog/cypress/).
-- 📝 [Testing API calls in Vue applications](https://afontcu.dev/testing-api-calls/) _(disclaimer: I wrote this post)_.
 - 📝 [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a).
 - 📝 [Five Things You (Probably) Didn't Know About Testing Library](https://www.polvara.me/posts/five-things-you-didnt-know-about-testing-library/).
 - 📝 [Don't DRY your tests](https://vanslaars.io/post/dont-dry-your-tests/).
@@ -230,6 +229,10 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Front-end productivity boost: Cypress as your main development browser](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk).
 - 📝 [TDD Guided by ZOMBIES](http://blog.wingman-sw.com/tdd-guided-by-zombies).
 - 📝 [TDD](https://ronjeffries.com/articles/019-01ff/tdd-one-word/).
+- 📝 [Testing API calls in Vue applications](https://afontcu.dev/testing-api-calls/) _(disclaimer: I wrote this post)_.
+- 📝 [I know testing is important, but](https://afontcu.dev/testing-is-hard/) _(disclaimer: I wrote this post)_.
+- 📝 [Front-end Testing and a tale of three users](https://afontcu.dev/frontend-testing-code-consumers/) _(disclaimer: I wrote this post)_.
+- 📝 [Creating a culture of testing](https://afontcu.dev/culture-of-testing/) _(disclaimer: I wrote this post)_.
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
 
 
@@ -346,6 +349,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Scrum, sprints y ritmo sostenible](https://blog.jmbeas.es/2019/10/27/scrum-sprints-y-ritmo-sostenible).
 - 📝 [No Software: No Agile, No Scrum](https://ronjeffries.com/articles/019-01ff/no-software/).
 - 📝 [Twelve](https://ronjeffries.com/articles/019-01ff/twelve/).
+- 📝 [Rethinking Agile... for all business?](https://afontcu.dev/rethinking-agile/) _(disclaimer: I wrote this post)_.
 - 📚 [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development).
 
 
@@ -383,9 +387,12 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [La simplicidad por principio](https://leanmind.es/es/blog/simplicidad-por-principio/).
 - 📝 [Extreme Programming, a Reflection](https://blog.cleancoder.com/uncle-bob/2013/12/10/Thankyou-Kent.html).
 - 📝 [To Domain Driven Design](https://dev.to/kmruiz/to-domain-driven-design-6ao).
+- 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
+- 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
 - 📚 [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/).
 - 📚 [Refactoring](https://martinfowler.com/books/refactoring.html).
+
 
 # Programming and Computer Science
 - 🎥 [Aprender a enseñar a programar - Xavi Gost](https://www.youtube.com/watch?v=50Sh3WQOKeg).
