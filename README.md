@@ -253,6 +253,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Font loading strategy for single page applications](https://jeremenichelli.io/2018/07/font-loading-strategy-single-page-applications/).
 - 📝 [Front-End Developers Have to Manage the Loading Experience](https://css-tricks.com/front-end-developers-have-to-manage-the-loading-experience).
 - 📝 [Performance Web en tiempos modernos](https://octuweb.com/performance-web-en-tiempos-modernos/).
+- 📝 [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/).
 - 🤷 [Web Performance: Learn to Make Your Websites Load Fast with Webpack 4](https://frontendmasters.com/courses/performance-webpack/).
 
 
