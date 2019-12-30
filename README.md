@@ -389,6 +389,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [La simplicidad por principio](https://leanmind.es/es/blog/simplicidad-por-principio/).
 - 📝 [Extreme Programming, a Reflection](https://blog.cleancoder.com/uncle-bob/2013/12/10/Thankyou-Kent.html).
 - 📝 [To Domain Driven Design](https://dev.to/kmruiz/to-domain-driven-design-6ao).
+- 📝 [Inefficient Efficiency](https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791).
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
