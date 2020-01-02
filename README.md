@@ -511,6 +511,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Try Different, Not Harder](http://geepawhill.org/try-different-not-harder/).
 - 📝 [How to succeed as a lead engineer – tactics and mindsets from practice](https://swizec.com/blog/how-to-be-lead-engineer-on-a-project-tactics-and-mindsets-from-practice/swizec/9222).
 - 📝 [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/).
+- 📝 [How GitHub’s CTO Architects Engineering Teams That Scale](https://medium.com/@FirstMark/githubs-cto-on-architecting-engineering-teams-that-scale-cb79dd6132ae).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
