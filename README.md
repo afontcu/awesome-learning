@@ -302,6 +302,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Creating Flow and Value in Product Development](https://amplitude.com/blog/creating-flow-value-in-product-development).
 - 📝 [Deadline Defense](https://www.ronjeffries.com/articles/018-01ff/deadline-defense/).
 - 📝 [How Product Managers Lose Trust](https://cutle.fish/blog/how-product-managers-lose-trust).
+- 📝 [Outcome Over Output: Also Impact and Effort](https://medium.com/@kentbeck_7670/outcome-over-output-also-impact-and-effort-8f9eb0ce0dbb).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
 - 📚 [Escaping the build trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X).
