@@ -451,6 +451,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [On Switching from HEX & RGB to HSL](https://www.sarasoueidan.com/blog/hex-rgb-to-hsl/).
 - 📝 [The system always kicks back](https://ux.shopify.com/the-system-always-kicks-back-d94b945407f2?gi=6e6cef402550).
 - 📝 [Consistency in Design is the Wrong Approach](https://medium.com/@jmspool/consistency-in-design-is-the-wrong-approach-3cfbc87a327).
+- 📝 [Space in Design Systems](https://eightshapes.com/articles/space-in-design-systems.html).
 - 📚 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123/).
 
 
