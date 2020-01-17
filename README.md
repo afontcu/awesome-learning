@@ -515,7 +515,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/).
 - 📝 [How GitHub’s CTO Architects Engineering Teams That Scale](https://medium.com/@FirstMark/githubs-cto-on-architecting-engineering-teams-that-scale-cb79dd6132ae).
 - 📝 [¿Necesitamos managers?](https://medium.com/@flopezluis/necesitamos-managers-9b13801c5d8b).
-- 📝 [How To Lead Self-Organising Teams](https://medium.com/laterpay-behind-the-scenes/how-to-lead-self-organising-teams-be8dc30a2aa7).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
@@ -537,6 +536,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [First things first, Trust each other](https://labs.spotify.com/2016/12/05/first-things-first-trust-each-other/).
 - 📝 [Why your company is slowing down and how to fix it](https://medium.com/swlh/why-your-company-is-slowing-down-and-how-to-fix-it-89f5cf5bf7ce).
 - 📝 [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better).
+- 📝 [How To Lead Self-Organising Teams](https://medium.com/laterpay-behind-the-scenes/how-to-lead-self-organising-teams-be8dc30a2aa7).
 
 # Psychology
 - 🎥 [10 ways to have a better conversation - Celeste Headlee](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
