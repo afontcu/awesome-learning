@@ -515,6 +515,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/).
 - 📝 [How GitHub’s CTO Architects Engineering Teams That Scale](https://medium.com/@FirstMark/githubs-cto-on-architecting-engineering-teams-that-scale-cb79dd6132ae).
 - 📝 [¿Necesitamos managers?](https://medium.com/@flopezluis/necesitamos-managers-9b13801c5d8b).
+- 📝 [El rol del Tech Lead](http://blog.talentoit.org/el-rol-del-tech-lead/).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
