@@ -352,6 +352,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Scrum, sprints y ritmo sostenible](https://blog.jmbeas.es/2019/10/27/scrum-sprints-y-ritmo-sostenible).
 - 📝 [No Software: No Agile, No Scrum](https://ronjeffries.com/articles/019-01ff/no-software/).
 - 📝 [Twelve](https://ronjeffries.com/articles/019-01ff/twelve/).
+- 📝 [12 Signs You’re Working in a Feature Factory — 3 Years Later](https://amplitude.com/blog/12-signs-youre-working-in-a-feature-factory-3-years-later).
 - 📝 [Rethinking Agile... for all business?](https://afontcu.dev/rethinking-agile/) _(disclaimer: I wrote this post)_.
 - 📚 [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development).
 
