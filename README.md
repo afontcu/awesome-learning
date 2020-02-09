@@ -231,6 +231,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Front-end productivity boost: Cypress as your main development browser](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk).
 - 📝 [TDD Guided by ZOMBIES](http://blog.wingman-sw.com/tdd-guided-by-zombies).
 - 📝 [TDD](https://ronjeffries.com/articles/019-01ff/tdd-one-word/).
+- 📝 [Construir confianza en el código, test a test](https://franiglesias.github.io/building-confidence/).
 - 📝 [Testing API calls in Vue applications](https://afontcu.dev/testing-api-calls/) _(disclaimer: I wrote this post)_.
 - 📝 [I know testing is important, but](https://afontcu.dev/testing-is-hard/) _(disclaimer: I wrote this post)_.
 - 📝 [Front-end Testing and a tale of three users](https://afontcu.dev/frontend-testing-code-consumers/) _(disclaimer: I wrote this post)_.
