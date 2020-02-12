@@ -434,6 +434,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Una introducción a Domain Driven Design](https://franiglesias.github.io/ddd-intro/).
 - 📝 [Everything you need to know to identify coupling with connascence](https://www.linkedin.com/pulse/identifying-coupling-using-connascence-borja-g%C3%BCiles-quintana/).
 - 📝 [Better Software Design with Application Layer Use Cases](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/application-layer-use-cases/).
+- 📝 [DDD - The Bounded Context Explained](http://blog.sapiensworks.com/post/2012/04/17/DDD-The-Bounded-Context-Explained.aspx).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
