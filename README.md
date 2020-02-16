@@ -395,6 +395,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [To Domain Driven Design](https://dev.to/kmruiz/to-domain-driven-design-6ao).
 - 📝 [Inefficient Efficiency](https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791).
 - 📝 [Duplication, you’re welcome](https://rachelcarmena.github.io/2018/02/27/duplication-you-are-welcome.html).
+- 📝 [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to).
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
