@@ -399,6 +399,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to).
 - 📝 [Repeat yourself, do more than one thing, and rewrite everything](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and).
 - 📝 [A Tale of Two TDDers](https://www.industriallogic.com/blog/a-tale-of-two-tdders/).
+- 📝 [One Defect, Two Fixes](https://www.industriallogic.com/blog/one-defect-two-fixes/).
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
