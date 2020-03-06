@@ -273,6 +273,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [How to Section Your HTML](https://css-tricks.com/how-to-section-your-html/).
 - 📝 [Accessibility and web performance are not features, they’re the baseline](https://css-tricks.com/accessibility-and-web-performance-are-not-features-theyre-the-baseline/).
 - 📝 [Pseudo Localization @ Netflix](https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe).
+- 📝 [Why the GOV.UK Design System team changed the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/).
 - 🤷 [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/).
 - 🤷 [Inclusive Components](https://inclusive-components.design).
 
