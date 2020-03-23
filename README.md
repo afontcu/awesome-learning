@@ -157,6 +157,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Dynamic SVG Animation with CSS Variables](https://lisilinhart.info/posts/svg-animation-css-variables).
 - 📝 [Digging Into The Display Property: Box Generation](https://www.smashingmagazine.com/2019/05/display-box-generation/).
 - 📝 [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b).
+- 📝 [CSS Viewport Units](https://ishadeed.com/article/viewport-units/).
 - 📚 [CSS animation 101](https://cssanimation.rocks/css-animation-101/).
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
