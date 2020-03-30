@@ -236,6 +236,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Construir confianza en el código, test a test](https://franiglesias.github.io/building-confidence/).
 - 📝 [TDD on the Front End](https://www.geepawhill.org/2020/03/11/tdd-on-the-front-end/).
 - 📝 [Dimensiones entre pruebas aisladas e integradas. El grado de confianza](https://qajungle.com/dimensiones-entre-pruebas-aisladas-e-integradas-el-grado-de-confianza/).
+- 📝 [Dimensiones entre pruebas aisladas e integradas. Tiempo de test](https://qajungle.com/dimensiones-entre-pruebas-aisladas-e-integradas-tiempo-de-test/).
 - 📝 [Testing API calls in Vue applications](https://afontcu.dev/testing-api-calls/) _(disclaimer: I wrote this post)_.
 - 📝 [I know testing is important, but](https://afontcu.dev/testing-is-hard/) _(disclaimer: I wrote this post)_.
 - 📝 [Front-end Testing and a tale of three users](https://afontcu.dev/frontend-testing-code-consumers/) _(disclaimer: I wrote this post)_.
