@@ -87,6 +87,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 - 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
 - 🤷 [JavaScript.info](http://javascript.info/).
+- 🤷 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript).
 
 # Vue
 - 🎥 [The Trick to Understanding Scoped Slots in Vue.js - Adam Wathan](https://www.youtube.com/watch?v=GWdOucfAzTo).
