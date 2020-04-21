@@ -451,6 +451,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Better Software Design with Application Layer Use Cases](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/application-layer-use-cases/).
 - 📝 [DDD - The Bounded Context Explained](http://blog.sapiensworks.com/post/2012/04/17/DDD-The-Bounded-Context-Explained.aspx).
 - 📝 [Domain-Driven Design "in a Shot"](https://www.danilat.com/weblog/2019/09/17/ddd-in-a-shot).
+- 📝 [Combatiendo la obsesión de primitivos con objetos valor](https://leanmind.es/es/blog/primitive-obsesion-value-objects/).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
