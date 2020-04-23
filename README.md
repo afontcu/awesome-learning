@@ -452,6 +452,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [DDD - The Bounded Context Explained](http://blog.sapiensworks.com/post/2012/04/17/DDD-The-Bounded-Context-Explained.aspx).
 - 📝 [Domain-Driven Design "in a Shot"](https://www.danilat.com/weblog/2019/09/17/ddd-in-a-shot).
 - 📝 [Combatiendo la obsesión de primitivos con objetos valor](https://leanmind.es/es/blog/primitive-obsesion-value-objects/).
+- 📝 [The Algebraic Structure of Functions, illustrated using React components](https://jrsinclair.com/articles/2020/algebraic-structure-of-functions-illustrated-with-react-components/).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
