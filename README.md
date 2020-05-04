@@ -381,6 +381,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Deliveritis Aguda - Carlos Buenosvinos](https://www.youtube.com/watch?v=vGCowJY5QCQ).
 - 🎥 [Workflows of Refactoring - Martin Fowler](https://www.youtube.com/watch?v=vqEg37e4Mkw).
 - 🎥 [Effective Technical Agile - Emily Bache](https://www.youtube.com/watch?v=CuO6dbdQup4).
+- 🎥 [Software that Fits in Your Head - Dan North](https://www.youtube.com/watch?v=4Y0tOi7QWqM).
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
