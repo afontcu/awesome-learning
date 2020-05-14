@@ -554,6 +554,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 # Teams
 - 🎥 [Teal organization: a living example - Sandro Mancuso](https://www.youtube.com/watch?v=ClnHKqtfR7M).
 - 🎥 [Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow - Jason Lengstorf](https://www.youtube.com/watch?v=xqT8e6_yzLg).
+- 🎥 [Product Teams Need A Family Too - Manuel Pais](https://www.youtube.com/watch?v=x_i0O1iaawk).
 - 📝 [Let Teams Figure it Out](https://medium.com/@johnpcutler/let-teams-figure-it-out-eefbf1a44ae8).
 - 📝 [Why Small Teams Win](https://uxdesign.cc/why-small-teams-win-b607cb03db11/).
 - 📝 [Dedicated Ownership for Teams at Zalon](https://jobs.zalando.com/tech/blog/dedicated-ownership-for-teams-at-zalon/).
