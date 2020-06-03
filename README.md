@@ -316,6 +316,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Deadline Defense](https://www.ronjeffries.com/articles/018-01ff/deadline-defense/).
 - 📝 [How Product Managers Lose Trust](https://cutle.fish/blog/how-product-managers-lose-trust).
 - 📝 [Outcome Over Output: Also Impact and Effort](https://medium.com/@kentbeck_7670/outcome-over-output-also-impact-and-effort-8f9eb0ce0dbb).
+- 📝 [Product vs Design vs Tech: A Partnership, not a Battlefield](https://productcoalition.com/product-vs-design-vs-tech-a-partnership-not-a-battlefield-95d3bcaee52e).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
 - 📚 [Escaping the build trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X).
