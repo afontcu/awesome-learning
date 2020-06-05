@@ -247,6 +247,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Front-end Testing and a tale of three users](https://afontcu.dev/frontend-testing-code-consumers/) _(disclaimer: I wrote this post)_.
 - 📝 [Creating a culture of testing](https://afontcu.dev/culture-of-testing/) _(disclaimer: I wrote this post)_.
 - 🤷 [Testing JavaScript](http://testingjavascript.com).
+- 🤷 [How They Test](https://github.com/abhivaikar/howtheytest).
 
 
 # Performance
