@@ -320,6 +320,9 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [How Product Managers Lose Trust](https://cutle.fish/blog/how-product-managers-lose-trust).
 - 📝 [Outcome Over Output: Also Impact and Effort](https://medium.com/@kentbeck_7670/outcome-over-output-also-impact-and-effort-8f9eb0ce0dbb).
 - 📝 [Product vs Design vs Tech: A Partnership, not a Battlefield](https://productcoalition.com/product-vs-design-vs-tech-a-partnership-not-a-battlefield-95d3bcaee52e).
+- 📝 [Kent Beck’s 3X — Explore, Expand, Extract](https://ideas.riverglide.com/3x-explore-expand-extract-b9aad6402a5a).
+- 📝 [The Product Development Triathlon](https://medium.com/@kentbeck_7670/the-product-development-triathlon-6464e2763c46).
+- 📝 [Fast/Slow in 3X: Explore/Expand/Extract](https://medium.com/@kentbeck_7670/fast-slow-in-3x-explore-expand-extract-6d4c94a7539).
 - 📝 [6 diagrams I use to explain Product Management concepts](https://medium.com/swlh/6-diagrams-i-use-to-explain-product-management-concepts-b9d9e79880bf).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
