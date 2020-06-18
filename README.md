@@ -89,6 +89,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🤷 [JavaScript.info](http://javascript.info/).
 - 🤷 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript).
 
+
 # Vue
 - 🎥 [The Trick to Understanding Scoped Slots in Vue.js - Adam Wathan](https://www.youtube.com/watch?v=GWdOucfAzTo).
 - 🎥 [Serverless Functions and VueJS - Sarah Drasner](https://www.youtube.com/watch?v=Tn6SnOubP6U).
@@ -181,6 +182,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way/).
 - 🤷 [CSS Grid with Wes Bos](https://cssgrid.io/).
 - 🤷 [CSS Grid Garden](https://cssgridgarden.com/).
+
 
 # UI Engineering
 - 🎥 [How To Think Like A Front-End Developer - Chris Coyier](https://vimeo.com/showcase/5937296/video/331569372).
@@ -511,6 +513,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📚 [Usabilidad: deja de sufrir](https://www.amazon.es/Usabilidad-Deja-sufrir-Social-Media/dp/8441539804).
 - 🤷 [User Experience (UX) con Daniel Torres Burriel](https://carlosiglesias.info/e010-user-experience-con-daniel-torres-burriel/).
 
+
 # Leadership
 - 🎥 [Tech Lead vs. Engineering Manager - Félix López](https://www.youtube.com/watch?v=LD9G-pWung4).
 - 🎥 [How great leaders inspire action - Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action).
@@ -571,6 +574,8 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Why your company is slowing down and how to fix it](https://medium.com/swlh/why-your-company-is-slowing-down-and-how-to-fix-it-89f5cf5bf7ce).
 - 📝 [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better).
 - 📝 [How To Lead Self-Organising Teams](https://medium.com/laterpay-behind-the-scenes/how-to-lead-self-organising-teams-be8dc30a2aa7).
+- 📝 [Visualising Sociotechnical Architecture with DDD and Team Topologies](https://medium.com/nick-tune-tech-strategy-blog/visualising-sociotechnical-architecture-with-ddd-and-team-topologies-48c6be036c40).
+
 
 # Psychology
 - 🎥 [10 ways to have a better conversation - Celeste Headlee](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation).
