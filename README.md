@@ -161,6 +161,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b).
 - 📝 [CSS Viewport Units](https://ishadeed.com/article/viewport-units/).
 - 📝 [Building dark mode on Stack Overflow](https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/).
+- 📝 [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/).
 - 📚 [CSS animation 101](https://cssanimation.rocks/css-animation-101/).
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
