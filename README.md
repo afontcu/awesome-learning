@@ -328,6 +328,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [6 diagrams I use to explain Product Management concepts](https://medium.com/swlh/6-diagrams-i-use-to-explain-product-management-concepts-b9d9e79880bf).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
+- 📚 [Making Work Visible: Exposing Time Theft to Optimize Work & Flow](https://www.goodreads.com/en/book/show/36458712/).
 - 📚 [Escaping the build trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X).
 
 
