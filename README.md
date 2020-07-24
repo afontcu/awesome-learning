@@ -425,6 +425,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [A Tale of Two TDDers](https://www.industriallogic.com/blog/a-tale-of-two-tdders/).
 - 📝 [One Defect, Two Fixes](https://www.industriallogic.com/blog/one-defect-two-fixes/).
 - 📝 [Ubiquitous Language & the joy of naming](https://blog.carbonfive.com/2016/10/04/ubiquitous-language-the-joy-of-naming/).
+- 📝 [Examining the Agile Cost of Change Curve](http://www.agilemodeling.com/essays/costOfChange.htm).
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
