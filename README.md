@@ -477,6 +477,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Combatiendo la obsesión de primitivos con objetos valor](https://leanmind.es/es/blog/primitive-obsesion-value-objects/).
 - 📝 [The Algebraic Structure of Functions, illustrated using React components](https://jrsinclair.com/articles/2020/algebraic-structure-of-functions-illustrated-with-react-components/).
 - 📝 [I push, therefore I am: 2 Days at Etsy](http://mhawthorne.net/posts/2013-etsy-netflix-I-push-therefore-I-am/).
+- 📝 [One Bite At A Time: Partitioning Complexity](https://www.facebook.com/notes/kent-beck/one-bite-at-a-time-partitioning-complexity/1716882961677894/).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
