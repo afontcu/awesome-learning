@@ -117,7 +117,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [React Today and Tomorrow - Sophie Alpert and Dan Abramov](https://www.youtube.com/watch?v=V-QO-KO90iQ).
 - 🎥 [90% Cleaner React With Hooks - Ryan Florence](https://www.youtube.com/watch?v=wXLf18DsV-I).
 - 📝 [ReactJS: Props vs. State](http://lucybain.com/blog/2016/react-state-vs-pros/).
-- 📝 [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5).
+- 📝 [10 React mini-patterns](https://medium.com/hackernoon/10-react-mini-patterns-c1da92f068c5).
 - 📝 [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889).
 - 📝 [A different way to manage state in React](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482).
 - 📝 [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e).
