@@ -208,6 +208,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [When a rewrite isn’t: rebuilding Slack on the desktop](https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4).
 - 📝 [Integrated systems for integrated programmers](https://m.signalvnoise.com/integrated-systems-for-integrated-programmers/).
 - 📝 [Rebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/web/facebook-redesign/).
+- 📝 [The Great CoffeeScript to Typescript Migration of 2017](https://dropbox.tech/frontend/the-great-coffeescript-to-typescript-migration-of-2017).
 
 
 # Testing
