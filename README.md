@@ -330,6 +330,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Fast/Slow in 3X: Explore/Expand/Extract](https://medium.com/@kentbeck_7670/fast-slow-in-3x-explore-expand-extract-6d4c94a7539).
 - 📝 [Crack The WIP](https://medium.com/@johnpcutler/crack-the-wip-work-in-progress-7b0c646a7cf8).
 - 📝 [6 diagrams I use to explain Product Management concepts](https://medium.com/swlh/6-diagrams-i-use-to-explain-product-management-concepts-b9d9e79880bf).
+- 📝 [How to survive working at a startup](https://stanete.com/survive-working-startup).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
 - 📚 [Making Work Visible: Exposing Time Theft to Optimize Work & Flow](https://www.goodreads.com/en/book/show/36458712/).
