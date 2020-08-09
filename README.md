@@ -1,7 +1,7 @@
 # 📚 Awesome Learning
 A living curated list of awesome learning material.
 
-I'll try to jot down interesting stuff I read, watch, or listen related to the things I enjoy the most: JavaScript, CSS, UX, lean software development, and everything in between.
+I'll try to jot down interesting stuff I read, watch, or listen related to the things I enjoy the most: Software development and everything in between.
 
 ---
 
