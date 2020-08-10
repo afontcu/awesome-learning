@@ -331,6 +331,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Crack The WIP](https://medium.com/@johnpcutler/crack-the-wip-work-in-progress-7b0c646a7cf8).
 - 📝 [6 diagrams I use to explain Product Management concepts](https://medium.com/swlh/6-diagrams-i-use-to-explain-product-management-concepts-b9d9e79880bf).
 - 📝 [How to survive working at a startup](https://stanete.com/survive-working-startup).
+- 📝 [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
 - 📚 [Making Work Visible: Exposing Time Theft to Optimize Work & Flow](https://www.goodreads.com/en/book/show/36458712/).
