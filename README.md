@@ -491,6 +491,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 
 # UI Design
 - 🎥 [Human Centred Products - Kim Goodwin](https://vimeo.com/298122851).
+- 🎥 [Rethinking Design Practices – Mark Dalgleish](https://www.youtube.com/watch?v=jnV1u67_yVg).
 - 📝 [Working Type](https://airbnb.design/working-type/).
 - 📝 [Using UI System Fonts In Web Design: A Quick Practical Guide](https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/).
 - 📝 [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886).
