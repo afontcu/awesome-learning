@@ -437,6 +437,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Cost of Change](https://codingitwrong.com/2020/03/09/the-cost-of-change.html).
 - 📝 [Speed in Software Development](https://www.targetprocess.com/blog/speed-in-software-development/).
 - 📝 [Understanding Incremental Switchover](https://www.geepawhill.org/2020/07/21/understanding-incremental-switchover/).
+- 📝 [TechnicalDebtQuadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html).
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
