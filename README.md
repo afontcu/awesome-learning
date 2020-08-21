@@ -149,7 +149,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862).
 - 📝 [Rebuilding slack.com ](https://slack.engineering/rebuilding-slack-com-b124c405c193).
 - 📝 [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/).
-- 📝 [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62).
 - 📝 [A Tale of Two Buttons](https://medium.com/buildit/a-tale-of-two-buttons-e63185aefd5f).
 - 📝 [Five years of PostCSS: State of the Union](https://evilmartians.com/chronicles/five-years-of-postcss-state-of-the-union).
 - 📝 [CSS Position Sticky - How It Really Works!](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46).
@@ -510,6 +509,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The system always kicks back](https://ux.shopify.com/the-system-always-kicks-back-d94b945407f2?gi=6e6cef402550).
 - 📝 [Consistency in Design is the Wrong Approach](https://medium.com/@jmspool/consistency-in-design-is-the-wrong-approach-3cfbc87a327).
 - 📝 [Space in Design Systems](https://eightshapes.com/articles/space-in-design-systems.html).
+- 📝 [Size in Design Systems](https://eightshapes.com/articles/size-in-design-systems.html).
 - 📚 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123/).
 
 
