@@ -404,6 +404,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Software that Fits in Your Head - Dan North](https://www.youtube.com/watch?v=4Y0tOi7QWqM).
 - 🎥 [Writing Software – David Heinemeier Hansson](https://www.youtube.com/watch?v=9LfmrkyP81M).
 - 🎥 [Tidy First? – Kent Beck](https://www.youtube.com/watch?v=BFFY9Zor6zw).
+- 🎥 [Pusheando en master, que es gerundio – Isidro López](https://www.youtube.com/watch?v=UvtaujgCNsI).
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
