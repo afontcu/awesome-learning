@@ -404,6 +404,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Software that Fits in Your Head - Dan North](https://www.youtube.com/watch?v=4Y0tOi7QWqM).
 - 🎥 [Writing Software – David Heinemeier Hansson](https://www.youtube.com/watch?v=9LfmrkyP81M).
 - 🎥 [Tidy First? – Kent Beck](https://www.youtube.com/watch?v=BFFY9Zor6zw).
+- 🎥 [It’s Not Continuous Delivery If You Can’t Deploy Right Now - Ken Mugrage](https://www.youtube.com/watch?v=po712VIZZ7M).
 - 🎥 [Pusheando en master, que es gerundio – Isidro López](https://www.youtube.com/watch?v=UvtaujgCNsI).
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
@@ -431,6 +432,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Duplication, you’re welcome](https://rachelcarmena.github.io/2018/02/27/duplication-you-are-welcome.html).
 - 📝 [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to).
 - 📝 [Repeat yourself, do more than one thing, and rewrite everything](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and).
+- 📝 [Refactoring](https://sourcemaking.com/refactoring).
 - 📝 [A Tale of Two TDDers](https://www.industriallogic.com/blog/a-tale-of-two-tdders/).
 - 📝 [One Defect, Two Fixes](https://www.industriallogic.com/blog/one-defect-two-fixes/).
 - 📝 [Ubiquitous Language & the joy of naming](https://blog.carbonfive.com/2016/10/04/ubiquitous-language-the-joy-of-naming/).
@@ -452,11 +454,9 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Towards an inclusive craft - Daniel Irvine](https://www.youtube.com/watch?v=43mP7l-w3po).
 - 🎥 [Agility and Architecture - Robert C. Martin ("Uncle Bob")](https://www.youtube.com/watch?v=0oGpWmS0aYQ).
 - 🎥 [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0).
-- 🎥 [It’s Not Continuous Delivery If You Can’t Deploy Right Now - Ken Mugrage](https://www.youtube.com/watch?v=po712VIZZ7M).
 - 🎥 [Preventing the Collapse of Civilization - Jonathan Blow](https://www.youtube.com/watch?v=pW-SOdj4Kkk).
 - 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
-- 📝 [Refactoring](https://sourcemaking.com/refactoring).
 - 📝 [Object Oriented Tricks: #2 Law of Demeter](https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85).
 - 📝 [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536).
 - 📝 [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f).
