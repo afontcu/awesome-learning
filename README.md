@@ -315,7 +315,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [All You Need To Know About Customer Journey Mapping](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/).
 - 📝 [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e).
 - 📝 [Process > Outcome (How to Overcome The Outcome Bias) ](https://medium.com/personal-growth/process-outcome-how-to-overcome-the-outcome-bias-acc521a30484).
-- 📝 [The essence of story slicing in agile development](https://medium.com/@neil2killick/the-essence-of-story-slicing-in-agile-development-fc16a1226941).
+- 📝 [The essence of story slicing in agile development](https://www.neilkillick.com/blog/the-essence-of-story-slicing-in-agile-development).
 - 📝 [Have you ever tried to learn a new skill online?](https://blog.prototypr.io/google-hobbies-a-retrospective-on-a-new-feature-to-help-google-users-find-and-learn-new-skills-650947f0be).
 - 📝 [What a very bad day at work taught me about building Stack Overflow’s community](https://stackoverflow.blog/2019/07/18/building-community-inclusivity-stack-overflow/).
 - 📝 [Continuous Alignment of Product Management](https://productcoalition.com/continuous-alignment-of-product-management-699bd61c2c0b).
