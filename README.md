@@ -583,6 +583,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [El rol del Tech Lead](http://blog.talentoit.org/el-rol-del-tech-lead/).
 - 📝 [The Coward's Confrontation: Leadership fail](http://agileotter.blogspot.com/2019/09/the-cowards-confrontation-leadership.html).
 - 📝 [How to survive working at a startup](https://stanete.com/survive-working-startup).
+- 📝 [Interviewing at Amazon — Leadership Principles](https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
