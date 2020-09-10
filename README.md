@@ -249,6 +249,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Unit Testing Dependencies: The Complete Guide](https://enterprisecraftsmanship.com/posts/unit-testing-dependencies).
 - 📝 [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2).
 - 📝 [Devil's advocate](https://blog.ploeh.dk/2019/10/07/devils-advocate/).
+- 📝 [Stop mocking fetch](https://kentcdodds.com/blog/stop-mocking-fetch/).
 - 📝 [Testing API calls in Vue applications](https://afontcu.dev/testing-api-calls/) _(disclaimer: I wrote this post)_.
 - 📝 [I know testing is important, but](https://afontcu.dev/testing-is-hard/) _(disclaimer: I wrote this post)_.
 - 📝 [Front-end Testing and a tale of three users](https://afontcu.dev/frontend-testing-code-consumers/) _(disclaimer: I wrote this post)_.
