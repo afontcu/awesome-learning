@@ -106,6 +106,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web).
 - 📝 [What does the Vue function API feel like](https://logaretm.com/blog/what-the-vue-function-api-feel-like).
 - 📝 [Getting More Out of Vue Async Components](https://logaretm.com/blog/getting-more-out-of-vue-async-components/).
+- 📝 [The Making of: Netlify's Million Devs SVG Animation Site](https://css-tricks.com/the-making-of-netlifys-million-devs-svg-animation-site/).
 - 📝 [Vue state management from the ground up](https://hackernoon.com/vue-state-management-from-the-ground-up-a31eb87c668d) _(disclaimer: I wrote this post)_.
 - 📚 [Desarrolla aplicaciones con VueJS](https://jdonsan.gitbooks.io/desarrolla-aplicaciones-con-vuejs/content/).
 - 🤷 [Introduction to Vue.js with Sarah Drasner](https://frontendmasters.com/courses/vue/).
