@@ -459,6 +459,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Agility and Architecture - Robert C. Martin ("Uncle Bob")](https://www.youtube.com/watch?v=0oGpWmS0aYQ).
 - 🎥 [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0).
 - 🎥 [Preventing the Collapse of Civilization - Jonathan Blow](https://www.youtube.com/watch?v=pW-SOdj4Kkk).
+- 🎥 [Simplicity Matters - Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0).
 - 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Object Oriented Tricks: #2 Law of Demeter](https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85).
