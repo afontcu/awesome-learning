@@ -210,6 +210,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Integrated systems for integrated programmers](https://m.signalvnoise.com/integrated-systems-for-integrated-programmers/).
 - 📝 [Rebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/web/facebook-redesign/).
 - 📝 [The Great CoffeeScript to Typescript Migration of 2017](https://dropbox.tech/frontend/the-great-coffeescript-to-typescript-migration-of-2017).
+- 📝 [ooooops I guess we’re* full-stack developers now](https://css-tricks.com/ooooops-i-guess-were-full-stack-developers-now/).
 - 📝 [The Widening Responsibility for Front-End Developers](https://css-tricks.com/the-widening-responsibility-for-front-end-developers/).
 
 # Testing
