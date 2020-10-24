@@ -303,6 +303,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [The Importance of Listening to Your Customers - David Cancel](http://www.mindtheproduct.com/2016/12/importance-listening-customers-david-cancel/).
 - 🎥 [Actionable Metrics for Predictability – Daniel Vacanti](https://vimeo.com/146545310).
 - 🎥 [3x Explore, Expand, Extract – Kent Beck](https://www.youtube.com/watch?v=FlJN6_4yI2A).
+- 🎥 [Cómo entregar más por menos – Marta Manso](https://www.youtube.com/watch?v=MtwyXiuW1OU).
 - 📝 [Your Product is Decisions](https://www.farnamstreetblog.com/2013/11/your-product-is-decisions/).
 - 📝 [Product Management Alignment - How to create it](https://herbigt.com/alignment-is-not-agreement).
 - 📝 [¿Por qué no hay SEO en Mercadona Online?](https://medium.com/@josetarheel/por-qu%C3%A9-no-hay-seo-en-mercadona-online-128f5f3a863c).
