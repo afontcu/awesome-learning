@@ -498,6 +498,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Rebuilding Twitter’s public API](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/rebuild_twitter_public_api_2020.html).
 - 📝 [From Primitive Obsession to Domain Modelling](https://blog.ploeh.dk/2015/01/19/from-primitive-obsession-to-domain-modelling/).
 - 📝 [Railway oriented programming](https://fsharpforfunandprofit.com/posts/recipe-part2/).
+- 📝 [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
