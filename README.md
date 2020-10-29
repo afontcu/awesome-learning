@@ -597,6 +597,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [If Management Isn’t A Promotion, Then Engineering Isn’t A Demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/).
 - 📝 [On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html).
 - 📝 [A Mental Model for Leading High Performance Engineering Teams](https://medium.com/@_chrishan/a-mental-model-for-leading-high-performance-engineering-teams-bf84caed50dd).
+- 📝 [Learnings from my first 90 days as an engineering manager](https://leaddev.com/skills-new-managers/learnings-my-first-90-days-engineering-manager).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
