@@ -252,6 +252,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2).
 - 📝 [Devil's advocate](https://blog.ploeh.dk/2019/10/07/devils-advocate/).
 - 📝 [Stop mocking fetch](https://kentcdodds.com/blog/stop-mocking-fetch/).
+- 📝 [The testing pyramid should look more like a crab](https://changelog.com/posts/the-testing-pyramid-should-look-more-like-a-crab).
 - 📝 [Testing API calls in Vue applications](https://afontcu.dev/testing-api-calls/) _(disclaimer: I wrote this post)_.
 - 📝 [I know testing is important, but](https://afontcu.dev/testing-is-hard/) _(disclaimer: I wrote this post)_.
 - 📝 [Front-end Testing and a tale of three users](https://afontcu.dev/frontend-testing-code-consumers/) _(disclaimer: I wrote this post)_.
@@ -449,6 +450,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Understanding Incremental Switchover](https://www.geepawhill.org/2020/07/21/understanding-incremental-switchover/).
 - 📝 [TechnicalDebtQuadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html).
 - 📝 [What is DevOps? A guide to common methods and misconceptions](https://github.blog/2020-10-07-devops-definition/).
+- 📝 [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction).
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
