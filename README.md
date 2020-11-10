@@ -212,6 +212,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Great CoffeeScript to Typescript Migration of 2017](https://dropbox.tech/frontend/the-great-coffeescript-to-typescript-migration-of-2017).
 - 📝 [ooooops I guess we’re* full-stack developers now](https://css-tricks.com/ooooops-i-guess-were-full-stack-developers-now/).
 - 📝 [The Widening Responsibility for Front-End Developers](https://css-tricks.com/the-widening-responsibility-for-front-end-developers/).
+- 📝 [Arquitectura Hexagonal en el FrontEnd](https://softwarecrafters.io/react/arquitectura-hexagonal-frontend).
 
 # Testing
 - 🎥 [Unit Testing sucks (and it's our fault) - José Armesto](https://www.youtube.com/watch?v=GZ9iZsMAZFQ).
