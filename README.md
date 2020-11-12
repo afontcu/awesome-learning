@@ -503,6 +503,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [From Primitive Obsession to Domain Modelling](https://blog.ploeh.dk/2015/01/19/from-primitive-obsession-to-domain-modelling/).
 - 📝 [Railway oriented programming](https://fsharpforfunandprofit.com/posts/recipe-part2/).
 - 📝 [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/).
+- 📝 [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
