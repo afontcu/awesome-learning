@@ -84,6 +84,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/).
 - 📝 [What Is JavaScript Made Of?](https://overreacted.io/what-is-javascript-made-of/).
 - 📝 [The TypeScript Tax](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b).
+- 📝 [Run-Time Type Checking in TypeScript with io-ts](https://www.azavea.com/blog/2020/10/29/run-time-type-checking-in-typescript-with-io-ts/).
 - 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 - 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
 - 🤷 [JavaScript.info](http://javascript.info/).
