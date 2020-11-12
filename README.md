@@ -499,11 +499,12 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Algebraic Structure of Functions, illustrated using React components](https://jrsinclair.com/articles/2020/algebraic-structure-of-functions-illustrated-with-react-components/).
 - 📝 [I push, therefore I am: 2 Days at Etsy](http://mhawthorne.net/posts/2013-etsy-netflix-I-push-therefore-I-am/).
 - 📝 [One Bite At A Time: Partitioning Complexity](https://www.facebook.com/notes/kent-beck/one-bite-at-a-time-partitioning-complexity/1716882961677894/).
-- 📝 [Rebuilding Twitter’s public API](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/rebuild_twitter_public_api_2020.html).
+- 📝 [Rebuilding Twitter's public API](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/rebuild_twitter_public_api_2020.html).
 - 📝 [From Primitive Obsession to Domain Modelling](https://blog.ploeh.dk/2015/01/19/from-primitive-obsession-to-domain-modelling/).
 - 📝 [Railway oriented programming](https://fsharpforfunandprofit.com/posts/recipe-part2/).
 - 📝 [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/).
-- 📝 [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/).
+- 📝 [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/).
+- 📝 [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
 
