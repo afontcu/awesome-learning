@@ -165,6 +165,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [CSS Viewport Units](https://ishadeed.com/article/viewport-units/).
 - 📝 [Building dark mode on Stack Overflow](https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/).
 - 📝 [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/).
+- 📝 [Everything I Learned About min(), max(), clamp() In CSS](https://ishadeed.com/article/css-min-max-clamp/).
 - 📚 [CSS animation 101](https://cssanimation.rocks/css-animation-101/).
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
