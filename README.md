@@ -399,6 +399,8 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Daily Meeting](https://www.industriallogic.com/blog/the-daily-meeting/).
 - 📝 [Rethinking Agile... for all business?](https://afontcu.dev/rethinking-agile/) _(disclaimer: I wrote this post)_.
 - 📚 [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development).
+- 📚 [This is Lean: Resolving the Efficiency Paradox](https://thisislean.com/).
+
 
 
 # Software Crafting
