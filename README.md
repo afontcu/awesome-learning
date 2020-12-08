@@ -86,6 +86,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The TypeScript Tax](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b).
 - 📝 [Run-Time Type Checking in TypeScript with io-ts](https://www.azavea.com/blog/2020/10/29/run-time-type-checking-in-typescript-with-io-ts/).
 - 📝 [Stronger JavaScript with Opaque Types](https://codemix.com/opaque-types-in-javascript/).
+- 📝 [10 Insights from Adopting TypeScript at Scale](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/).
 - 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 - 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
 - 🤷 [JavaScript.info](http://javascript.info/).
