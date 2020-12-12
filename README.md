@@ -348,6 +348,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📚 [Zero to One](http://zerotoonebook.com/).
 - 📚 [Making Work Visible: Exposing Time Theft to Optimize Work & Flow](https://www.goodreads.com/en/book/show/36458712/).
 - 📚 [Escaping the build trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X).
+- 📚 [Getting Real](https://basecamp.com/gettingreal).
 
 
 # Agile
