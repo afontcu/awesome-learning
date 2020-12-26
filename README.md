@@ -400,6 +400,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/).
 - 📝 [The Daily Meeting](https://www.industriallogic.com/blog/the-daily-meeting/).
 - 📝 [Little’s Law – It’s not about the numbers](https://agileramblings.com/2012/12/11/littles-law-its-not-about-the-numbers/).
+- 📝 [Little's Law - the basis of Lean and Kanban](http://www.vissinc.com/2012/09/07/littles-law-isnt-it-a-linear-relationship/).
 - 📝 [Rethinking Agile... for all business?](https://afontcu.dev/rethinking-agile/) _(disclaimer: I wrote this post)_.
 - 📚 [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development).
 - 📚 [This is Lean: Resolving the Efficiency Paradox](https://thisislean.com/).
