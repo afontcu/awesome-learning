@@ -399,6 +399,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [12 Signs You’re Working in a Feature Factory — 3 Years Later](https://amplitude.com/blog/12-signs-youre-working-in-a-feature-factory-3-years-later).
 - 📝 [Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/).
 - 📝 [The Daily Meeting](https://www.industriallogic.com/blog/the-daily-meeting/).
+- 📝 [Little’s Law – It’s not about the numbers](https://agileramblings.com/2012/12/11/littles-law-its-not-about-the-numbers/).
 - 📝 [Rethinking Agile... for all business?](https://afontcu.dev/rethinking-agile/) _(disclaimer: I wrote this post)_.
 - 📚 [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development).
 - 📚 [This is Lean: Resolving the Efficiency Paradox](https://thisislean.com/).
