@@ -332,7 +332,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [What a very bad day at work taught me about building Stack Overflow's community](https://stackoverflow.blog/2019/07/18/building-community-inclusivity-stack-overflow/).
 - 📝 [Continuous Alignment of Product Management](https://productcoalition.com/continuous-alignment-of-product-management-699bd61c2c0b).
 - 📝 [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/).
-- 📝 [Creating Flow and Value in Product Development](https://amplitude.com/blog/creating-flow-value-in-product-development).
 - 📝 [Deadline Defense](https://www.ronjeffries.com/articles/018-01ff/deadline-defense/).
 - 📝 [How Product Managers Lose Trust](https://cutle.fish/blog/how-product-managers-lose-trust).
 - 📝 [Outcome Over Output: Also Impact and Effort](https://medium.com/@kentbeck_7670/outcome-over-output-also-impact-and-effort-8f9eb0ce0dbb).
@@ -403,6 +402,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [WIP It Real Good](https://hackernoon.com/wip-it-real-good-66aa710178fd).
 - 📝 [Faster. Faster. Faster.](https://hackernoon.com/faster-faster-faster-231c7b3d088d).
 - 📝 [Why We Need WIP Limits](https://leankit.com/learn/kanban/why-we-need-wip-limits/).
+- 📝 [Creating Flow and Value in Product Development](https://amplitude.com/blog/creating-flow-value-in-product-development).
 - 📝 [Your developers are not slow](https://sprint.ly/blog/your-developers-arent-slow/).
 - 📝 [You say slow](https://afontcu.dev/slow//) _(disclaimer: I wrote this post)_.
 - 📚 [This is Lean: Resolving the Efficiency Paradox](https://thisislean.com/).
