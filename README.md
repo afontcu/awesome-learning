@@ -7,8 +7,6 @@ I'll try to jot down interesting stuff I read, watch, or listen related to the t
 
 ## Categories
 
-- [📚 Awesome Learning](#-awesome-learning)
-  - [Categories](#categories)
 - [JavaScript](#javascript)
 - [Vue](#vue)
 - [React](#react)
