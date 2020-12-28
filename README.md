@@ -7,24 +7,27 @@ I'll try to jot down interesting stuff I read, watch, or listen related to the t
 
 ## Categories
 
-1. [JavaScript](#javascript)
-2. [Vue](#vue)
-3. [React](#react)
-4. [CSS](#css)
-5. [CSS Grid](#css-grid)
-6. [UI Engineering](#ui-engineering)
-7. [Testing](#testing)
-8. [Performance](#performance)
-9. [Accessibility](#accessibility)
-10. [Product Management](#product-management)
-11. [Agile](#agile)
-12. [Software Crafting](#software-crafting)
-13. [Programming and Computer Science](#programming-and-computer-science)
-14. [UI Design](#ui-design)
-15. [User Experience](#user-experience)
-16. [Leadership](#leadership)
-17. [Teams](#teams)
-18. [Psychology](#psychology)
+- [📚 Awesome Learning](#-awesome-learning)
+  - [Categories](#categories)
+- [JavaScript](#javascript)
+- [Vue](#vue)
+- [React](#react)
+- [CSS](#css)
+- [CSS Grid](#css-grid)
+- [UI Engineering](#ui-engineering)
+- [Testing](#testing)
+- [Performance](#performance)
+- [Accessibility](#accessibility)
+- [Product Management](#product-management)
+- [Agile](#agile)
+- [Kanban and Lean](#kanban-and-lean)
+- [Software Crafting](#software-crafting)
+- [Programming and Computer Science](#programming-and-computer-science)
+- [UI Design](#ui-design)
+- [User Experience](#user-experience)
+- [Leadership](#leadership)
+- [Teams](#teams)
+- [Psychology](#psychology)
 
 
 I also tried to identify some content types:
@@ -72,7 +75,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/).
 - 📝 [SEO para Progressive Web APPs (PWA) y Frameworks JavaScript](https://www.analistaseo.es/posicionamiento-buscadores/seo-progressive-web-apps-pwa/).
 - 📝 [How to stop using console.log() and start using your browser's debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).
-- 📝 [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9).
+- 📝 [Master the JavaScript Interview: What's the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9).
 - 📝 [Why every beginner front-end developer should know publish-subscribe pattern?](https://itnext.io/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-72a12cd68d44).
 - 📝 [Understanding the Virtual DOM](https://bitsofco.de/understanding-the-virtual-dom/).
 - 📝 [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c).
@@ -96,7 +99,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 # Vue
 - 🎥 [The Trick to Understanding Scoped Slots in Vue.js - Adam Wathan](https://www.youtube.com/watch?v=GWdOucfAzTo).
 - 🎥 [Serverless Functions and VueJS - Sarah Drasner](https://www.youtube.com/watch?v=Tn6SnOubP6U).
-- 🎥 [7 Secret Patterns Vue Consultants Don’t Want You to Know - Chris Fritz](https://www.youtube.com/watch?v=7YZ5DwlLSt8).
+- 🎥 [7 Secret Patterns Vue Consultants Don't Want You to Know - Chris Fritz](https://www.youtube.com/watch?v=7YZ5DwlLSt8).
 - 🎥 [Aquitecturas Frontend con Vue y Vuex](https://www.youtube.com/watch?v=K7bds-SEdOQ).
 - 📝 [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77).
 - 📝 [A React Point of Vue](https://www.vuemastery.com/conferences/vueconf-2018/a-react-point-of-vue-divya-sasidharan/).
@@ -210,11 +213,11 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead).
 - 📝 [Scalable Frontend](https://blog.codeminer42.com/scalable-frontend-1-architecture-9b80a16b8ec7) ([Part 2](https://blog.codeminer42.com/scalable-frontend-2-common-patterns-d2f28aef0714), [Part 3](https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c)).
 - 📝 [Frontend Design, React, and a Bridge over the Great Divide](http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/).
-- 📝 [When a rewrite isn’t: rebuilding Slack on the desktop](https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4).
+- 📝 [When a rewrite isn't: rebuilding Slack on the desktop](https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4).
 - 📝 [Integrated systems for integrated programmers](https://m.signalvnoise.com/integrated-systems-for-integrated-programmers/).
 - 📝 [Rebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/web/facebook-redesign/).
 - 📝 [The Great CoffeeScript to Typescript Migration of 2017](https://dropbox.tech/frontend/the-great-coffeescript-to-typescript-migration-of-2017).
-- 📝 [ooooops I guess we’re* full-stack developers now](https://css-tricks.com/ooooops-i-guess-were-full-stack-developers-now/).
+- 📝 [ooooops I guess we're* full-stack developers now](https://css-tricks.com/ooooops-i-guess-were-full-stack-developers-now/).
 - 📝 [The Widening Responsibility for Front-End Developers](https://css-tricks.com/the-widening-responsibility-for-front-end-developers/).
 - 📝 [Arquitectura Hexagonal en el FrontEnd](https://softwarecrafters.io/react/arquitectura-hexagonal-frontend).
 
@@ -223,7 +226,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [TDD Mi cuaderno de recetas - Modesto San Juan](https://www.youtube.com/watch?v=o9yspCrKHV0).
 - 🎥 [Component Tests with Vue.js - Matt O'Connell](https://www.youtube.com/watch?v=OIpfWTThrK8).
 - 🎥 [Establishing testing patterns with software design principles - Aaron Abramov](https://www.youtube.com/watch?v=_pnW-JjmyXE).
-- 🎥 [Please don’t mock me - Justin Searls](https://www.youtube.com/watch?v=Af4M8GMoxi4).
+- 🎥 [Please don't mock me - Justin Searls](https://www.youtube.com/watch?v=Af4M8GMoxi4).
 - 🎥 [Writing Better Tests with React Testing Library - Billy Mathews](https://www.youtube.com/watch?v=hFm0enk-qfM).
 - 🎥 [Write Fewer Tests! From Automation to Autogeneration - David Khourshid](https://www.youtube.com/watch?v=tpNmPKjPSFQ).
 - 🎥 [BDD in Action: Testing Modern Web Applications at Scale - John Ferguson Smart](https://www.youtube.com/watch?v=hdBxLZ8f82Y).
@@ -297,7 +300,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Accessible Icon Buttons](https://www.sarasoueidan.com/blog/accessible-icon-buttons/).
 - 📝 [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/).
 - 📝 [How to Section Your HTML](https://css-tricks.com/how-to-section-your-html/).
-- 📝 [Accessibility and web performance are not features, they’re the baseline](https://css-tricks.com/accessibility-and-web-performance-are-not-features-theyre-the-baseline/).
+- 📝 [Accessibility and web performance are not features, they're the baseline](https://css-tricks.com/accessibility-and-web-performance-are-not-features-theyre-the-baseline/).
 - 📝 [Pseudo Localization @ Netflix](https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe).
 - 📝 [Why the GOV.UK Design System team changed the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/).
 - 🤷 [Nutrition Cards for Accessible Components A11Y Expectations](https://davatron5000.github.io/a11y-nutrition-cards/).
@@ -328,7 +331,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Process > Outcome (How to Overcome The Outcome Bias) ](https://medium.com/personal-growth/process-outcome-how-to-overcome-the-outcome-bias-acc521a30484).
 - 📝 [The essence of story slicing in agile development](https://www.neilkillick.com/blog/the-essence-of-story-slicing-in-agile-development).
 - 📝 [Have you ever tried to learn a new skill online?](https://blog.prototypr.io/google-hobbies-a-retrospective-on-a-new-feature-to-help-google-users-find-and-learn-new-skills-650947f0be).
-- 📝 [What a very bad day at work taught me about building Stack Overflow’s community](https://stackoverflow.blog/2019/07/18/building-community-inclusivity-stack-overflow/).
+- 📝 [What a very bad day at work taught me about building Stack Overflow's community](https://stackoverflow.blog/2019/07/18/building-community-inclusivity-stack-overflow/).
 - 📝 [Continuous Alignment of Product Management](https://productcoalition.com/continuous-alignment-of-product-management-699bd61c2c0b).
 - 📝 [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/).
 - 📝 [Creating Flow and Value in Product Development](https://amplitude.com/blog/creating-flow-value-in-product-development).
@@ -336,7 +339,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [How Product Managers Lose Trust](https://cutle.fish/blog/how-product-managers-lose-trust).
 - 📝 [Outcome Over Output: Also Impact and Effort](https://medium.com/@kentbeck_7670/outcome-over-output-also-impact-and-effort-8f9eb0ce0dbb).
 - 📝 [Product vs Design vs Tech: A Partnership, not a Battlefield](https://productcoalition.com/product-vs-design-vs-tech-a-partnership-not-a-battlefield-95d3bcaee52e).
-- 📝 [Kent Beck’s 3X — Explore, Expand, Extract](https://ideas.riverglide.com/3x-explore-expand-extract-b9aad6402a5a).
+- 📝 [Kent Beck's 3X — Explore, Expand, Extract](https://ideas.riverglide.com/3x-explore-expand-extract-b9aad6402a5a).
 - 📝 [The Product Development Triathlon](https://medium.com/@kentbeck_7670/the-product-development-triathlon-6464e2763c46).
 - 📝 [Fast/Slow in 3X: Explore/Expand/Extract](https://medium.com/@kentbeck_7670/fast-slow-in-3x-explore-expand-extract-6d4c94a7539).
 - 📝 [Crack The WIP](https://medium.com/@johnpcutler/crack-the-wip-work-in-progress-7b0c646a7cf8).
@@ -362,48 +365,50 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [How to Impose Agile](https://ronjeffries.com/articles/018-01ff/imposition/).
 - 📝 [Give teams a problem to solve, not a solution to implement](https://medium.com/@jboogie/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716).
 - 📝 [Do you want Crappy Agile?](https://ronjeffries.com/articles/016-03/you-want/).
-- 📝 [The Agile Bicycle](https://m.dotdev.co/the-agile-bicycle-829a83b18e7).
-- 📝 [The Principles of Kanban method](https://web.archive.org/web/20140114161522/http://www.djaa.com/principles-kanban-method).
 - 📝 [12 Signs You're Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2).
 - 📝 [Order-Takers vs. Value-Builders](https://hackernoon.com/order-takers-vs-value-builders-f4cd387462b8).
-- 📝 [What Does an Agile Culture Look Like?](https://everydayagile.com/what-does-an-agile-culture-look-like-ab14c5724e91).
 - 📝 [Agile Died While You Were Doing Your Standup](http://www.mindtheproduct.com/2017/04/agile-died-standup/).
 - 📝 [Radical Agility 101: Study Notes](https://tech.zalando.com/blog/radical-agility-study-notes/).
-- 📝 [Agile Tooth Fairy and top barrier for Agile adoption](https://tisquirrel.me/2015/03/02/agile-tooth-fairy-and-top-barrier-for-agile-adoption/).
-- 📝 [Why we moved from Scrum to Kanban](https://medium.com/skim-technologies/why-we-moved-from-scrum-to-kanban-b578d210ef8a).
-- 📝 [Como ser Agile Product Owner y no morir en el intento](https://inside.runroom.com/agile-product-owner-en-apuros/).
 - 📝 [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae).
 - 📝 [What's Missing In The Agile Manifesto: Mindset](https://www.forbes.com/sites/stevedenning/2016/06/07/the-key-missing-ingredient-in-the-agile-manifesto-mindset/#7fe910146a93).
 - 📝 [When story points misfire](https://medium.com/xing-engineering/when-story-points-misfire-88b068bfc97c).
-- 📝 [ScrumMaster: Should They Be Technical Or Not? ](https://inspectandadapt.com/blog/scrum/should-the-scrummaster-be-technical/).
 - 📝 [Agile doesn't have a brain ](https://medium.com/@jboogie/agile-doesnt-have-a-brain-51c2835a838).
 - 📝 [Adopting Agile? You're aiming at the wrong target](https://www.linkedin.com/pulse/adopting-agile-youre-aiming-wrong-target-tim-snyder).
 - 📝 [How Slate redesigned the way we work](https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html).
-- 📝 [Henry Ford: Master of flow](https://yorkesoftware.com/2017/06/13/henry-ford-master-of-flow/).
 - 📝 [One year of agile teams at aFrogleap](https://afrogleap.com/agile/one-year-of-agile-teams-at-afrogleap/).
 - 📝 [Why Isn't Agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552).
-- 📝 [Faster. Faster. Faster.](https://hackernoon.com/faster-faster-faster-231c7b3d088d).
-- 📝 [WIP It Real Good](https://hackernoon.com/wip-it-real-good-66aa710178fd).
 - 📝 [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/).
 - 📝 [Self-Balanced, Not Self-Organized](https://blog.agilityscales.com/self-balanced-not-self-organized-4056dd6a087d).
-- 📝 [Why We Need WIP Limits](https://leankit.com/learn/kanban/why-we-need-wip-limits/).
 - 📝 [Want to scale agile? Don't. Descale the work first. Achieve big through small](https://medium.com/@jonathansmart1/want-to-scale-agile-dont-descale-the-work-first-achieve-big-through-small-7bdd09962540).
-- 📝 [Roles dinamizadores de la Transformación Ágil](https://transformacionagil.org/2018/10/22/roles-dinamizadores-de-la-transformacion-agil-agile-coaches-y-hr/).
 - 📝 [Dinámicas de PO como motor de cambio del equipo](https://medium.com/@ladypain/din%C3%A1micas-de-po-como-motor-de-cambio-del-equipo-95aa9ea89430).
 - 📝 [Three drawings I use to explain agile](https://medium.com/swlh/three-drawings-i-use-to-explain-agile-9c0ef15b64b8).
 - 📝 [A letter to Agile Coaches (Scrum, XP, and software delivery)](https://www.eferro.net/2019/04/a-letter-to-agile-coaches-scrum-xp-and.html).
-- 📝 [Why Don’t We Just Call Agile What It Is: Feminist](https://medium.com/@Hanna.Thomas/why-dont-we-just-call-agile-what-it-is-feminist-8bdd9193edba).
-- 📝 [Scrum, sprints y ritmo sostenible](https://blog.jmbeas.es/2019/10/27/scrum-sprints-y-ritmo-sostenible).
+- 📝 [Why Don't We Just Call Agile What It Is: Feminist](https://medium.com/@Hanna.Thomas/why-dont-we-just-call-agile-what-it-is-feminist-8bdd9193edba).
 - 📝 [No Software: No Agile, No Scrum](https://ronjeffries.com/articles/019-01ff/no-software/).
 - 📝 [Twelve](https://ronjeffries.com/articles/019-01ff/twelve/).
-- 📝 [12 Signs You’re Working in a Feature Factory — 3 Years Later](https://amplitude.com/blog/12-signs-youre-working-in-a-feature-factory-3-years-later).
+- 📝 [12 Signs You're Working in a Feature Factory — 3 Years Later](https://amplitude.com/blog/12-signs-youre-working-in-a-feature-factory-3-years-later).
 - 📝 [Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/).
 - 📝 [The Daily Meeting](https://www.industriallogic.com/blog/the-daily-meeting/).
-- 📝 [Little’s Law – It’s not about the numbers](https://agileramblings.com/2012/12/11/littles-law-its-not-about-the-numbers/).
-- 📝 [Little's Law - the basis of Lean and Kanban](http://www.vissinc.com/2012/09/07/littles-law-isnt-it-a-linear-relationship/).
 - 📝 [Rethinking Agile... for all business?](https://afontcu.dev/rethinking-agile/) _(disclaimer: I wrote this post)_.
 - 📚 [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development).
+
+
+
+# Kanban and Lean
+- 🎥 [Little's Flaw – Daniel Vacanti](https://vimeo.com/52683659).
+- 🎥 [Actionable Metrics for Predictability – Daniel Vacanti](https://vimeo.com/146545310).
+- 📝 [Why we moved from Scrum to Kanban](https://medium.com/skim-technologies/why-we-moved-from-scrum-to-kanban-b578d210ef8a).
+- 📝 [Little's Law – It's not about the numbers](https://agileramblings.com/2012/12/11/littles-law-its-not-about-the-numbers/).
+- 📝 [Little's Law - the basis of Lean and Kanban](http://www.vissinc.com/2012/09/07/littles-law-isnt-it-a-linear-relationship/).
+- 📝 [The Principles of Kanban method](https://web.archive.org/web/20140114161522/http://www.djaa.com/principles-kanban-method).
+- 📝 [Henry Ford: Master of flow](https://yorkesoftware.com/2017/06/13/henry-ford-master-of-flow/).
+- 📝 [WIP It Real Good](https://hackernoon.com/wip-it-real-good-66aa710178fd).
+- 📝 [Faster. Faster. Faster.](https://hackernoon.com/faster-faster-faster-231c7b3d088d).
+- 📝 [Why We Need WIP Limits](https://leankit.com/learn/kanban/why-we-need-wip-limits/).
+- 📝 [Your developers are not slow](https://sprint.ly/blog/your-developers-arent-slow/).
+- 📝 [You say slow](https://afontcu.dev/slow//) _(disclaimer: I wrote this post)_.
 - 📚 [This is Lean: Resolving the Efficiency Paradox](https://thisislean.com/).
+- 📚 [The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009).
 
 
 
@@ -422,32 +427,28 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Software that Fits in Your Head - Dan North](https://www.youtube.com/watch?v=4Y0tOi7QWqM).
 - 🎥 [Writing Software – David Heinemeier Hansson](https://www.youtube.com/watch?v=9LfmrkyP81M).
 - 🎥 [Tidy First? – Kent Beck](https://www.youtube.com/watch?v=BFFY9Zor6zw).
-- 🎥 [It’s Not Continuous Delivery If You Can’t Deploy Right Now - Ken Mugrage](https://www.youtube.com/watch?v=po712VIZZ7M).
+- 🎥 [It's Not Continuous Delivery If You Can't Deploy Right Now - Ken Mugrage](https://www.youtube.com/watch?v=po712VIZZ7M).
 - 🎥 [Pusheando en master, que es gerundio – Isidro López](https://www.youtube.com/watch?v=UvtaujgCNsI).
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
 - 📝 [How to stand on the shoulders of giants](https://medium.freecodecamp.org/how-to-stand-on-shoulders-16e8cfbc127b).
 - 📝 [The Tragedy of Craftsmanship](http://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html).
-- 📝 [Why developers are slow?](https://tisquirrel.me/2015/03/30/why-developers-are-slow/).
-- 📝 [Software Development: Fast and Slow](https://www.targetprocess.com/blog/2013/07/software-development-fast-and-slow/).
-- 📝 [Your developers are not slow](https://sprint.ly/blog/your-developers-arent-slow/).
 - 📝 [How Do We Go Faster?](https://hackernoon.com/how-do-we-go-faster-ed51207952a8).
 - 📝 [Agilismo versus craftismo. Y diversidad](https://medium.com/scbcn/agilismo-versus-craftismo-y-diversidad-67c465e3acf7).
 - 📝 [Writing Tidy Code](https://csswizardry.com/2017/05/writing-tidy-code/).
 - 📝 [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68).
 - 📝 [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex).
 - 📝 [The Human Cost of Tech Debt](http://www.infragistics.com/community/blogs/erikdietrich/archive/2016/06/29/the-human-cost-of-tech-debt.aspx).
-- 📝 [Paying Technical Debt : How To Rescue Legacy Code through Refactoring](http://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring).
+- 📝 [Paying Technical Debt: How To Rescue Legacy Code through Refactoring](http://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring).
 - 📝 [Imaginary Problems Are the Root of Bad Software](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
 - 📝 [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html).
 - 📝 [KPIs para equipos de desarrollo de software](https://www.danilat.com/weblog/2019/06/10/kpis-equipos-desarrollo-software).
 - 📝 [Technical Skills](https://ronjeffries.com/articles/019-01ff/tech-skills/).
 - 📝 [La simplicidad por principio](https://leanmind.es/es/blog/simplicidad-por-principio/).
 - 📝 [Extreme Programming, a Reflection](https://blog.cleancoder.com/uncle-bob/2013/12/10/Thankyou-Kent.html).
-- 📝 [To Domain Driven Design](https://dev.to/kmruiz/to-domain-driven-design-6ao).
 - 📝 [Inefficient Efficiency](https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791).
-- 📝 [Duplication, you’re welcome](https://rachelcarmena.github.io/2018/02/27/duplication-you-are-welcome.html).
+- 📝 [Duplication, you're welcome](https://rachelcarmena.github.io/2018/02/27/duplication-you-are-welcome.html).
 - 📝 [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to).
 - 📝 [Repeat yourself, do more than one thing, and rewrite everything](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and).
 - 📝 [Refactoring](https://sourcemaking.com/refactoring).
@@ -501,6 +502,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Una introducción a Domain Driven Design](https://franiglesias.github.io/ddd-intro/).
 - 📝 [Everything you need to know to identify coupling with connascence](https://www.linkedin.com/pulse/identifying-coupling-using-connascence-borja-g%C3%BCiles-quintana/).
 - 📝 [Better Software Design with Application Layer Use Cases](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/application-layer-use-cases/).
+- 📝 [To Domain Driven Design](https://dev.to/kmruiz/to-domain-driven-design-6ao).
 - 📝 [DDD - The Bounded Context Explained](http://blog.sapiensworks.com/post/2012/04/17/DDD-The-Bounded-Context-Explained.aspx).
 - 📝 [Domain-Driven Design "in a Shot"](https://www.danilat.com/weblog/2019/09/17/ddd-in-a-shot).
 - 📝 [Combatiendo la obsesión de primitivos con objetos valor](https://leanmind.es/es/blog/primitive-obsesion-value-objects/).
@@ -603,13 +605,13 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Try Different, Not Harder](http://geepawhill.org/try-different-not-harder/).
 - 📝 [How to succeed as a lead engineer – tactics and mindsets from practice](https://swizec.com/blog/how-to-be-lead-engineer-on-a-project-tactics-and-mindsets-from-practice/swizec/9222).
 - 📝 [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/).
-- 📝 [How GitHub’s CTO Architects Engineering Teams That Scale](https://medium.com/@FirstMark/githubs-cto-on-architecting-engineering-teams-that-scale-cb79dd6132ae).
+- 📝 [How GitHub's CTO Architects Engineering Teams That Scale](https://medium.com/@FirstMark/githubs-cto-on-architecting-engineering-teams-that-scale-cb79dd6132ae).
 - 📝 [¿Necesitamos managers?](https://medium.com/@flopezluis/necesitamos-managers-9b13801c5d8b).
 - 📝 [El rol del Tech Lead](http://blog.talentoit.org/el-rol-del-tech-lead/).
 - 📝 [The Coward's Confrontation: Leadership fail](http://agileotter.blogspot.com/2019/09/the-cowards-confrontation-leadership.html).
 - 📝 [How to survive working at a startup](https://stanete.com/survive-working-startup).
 - 📝 [Interviewing at Amazon — Leadership Principles](https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d).
-- 📝 [If Management Isn’t A Promotion, Then Engineering Isn’t A Demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/).
+- 📝 [If Management Isn't A Promotion, Then Engineering Isn't A Demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/).
 - 📝 [On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html).
 - 📝 [A Mental Model for Leading High Performance Engineering Teams](https://medium.com/@_chrishan/a-mental-model-for-leading-high-performance-engineering-teams-bf84caed50dd).
 - 📝 [Learnings from my first 90 days as an engineering manager](https://leaddev.com/skills-new-managers/learnings-my-first-90-days-engineering-manager).
@@ -657,7 +659,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Feedback Equation](https://larahogan.me/blog/feedback-equation/).
 - 📝 [Engineering a culture of psychological safety](https://www.intercom.com/blog/psychological-safety/).
 - 📝 [How To Tell If Someone Is Truly Smart Or Just Average](https://medium.com/the-mission/how-to-tell-if-someone-is-truly-smart-or-just-average-a2f0bcac5db2).
-- 📝 [The Art of Persuasion Hasn’t Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years).
+- 📝 [The Art of Persuasion Hasn't Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years).
 - 📚 [The Subtle Art of Not Giving a Fuck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck).
 - 📚 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805).
 - 📚 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA).
