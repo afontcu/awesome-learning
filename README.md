@@ -218,6 +218,8 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [ooooops I guess we're* full-stack developers now](https://css-tricks.com/ooooops-i-guess-were-full-stack-developers-now/).
 - 📝 [The Widening Responsibility for Front-End Developers](https://css-tricks.com/the-widening-responsibility-for-front-end-developers/).
 - 📝 [Arquitectura Hexagonal en el FrontEnd](https://softwarecrafters.io/react/arquitectura-hexagonal-frontend).
+- 📝 [The client is not always right: another twist in modern front-end development (Part 1)](https://dev.to/peibolsang/the-client-is-not-always-right-another-twist-in-modern-front-end-development-part-1-1olp).
+
 
 # Testing
 - 🎥 [Unit Testing sucks (and it's our fault) - José Armesto](https://www.youtube.com/watch?v=GZ9iZsMAZFQ).
