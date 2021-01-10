@@ -406,6 +406,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Why We Need WIP Limits](https://leankit.com/learn/kanban/why-we-need-wip-limits/).
 - 📝 [Creating Flow and Value in Product Development](https://amplitude.com/blog/creating-flow-value-in-product-development).
 - 📝 [Your developers are not slow](https://sprint.ly/blog/your-developers-arent-slow/).
+- 📝 [Limiting Work in Process (WiP) and Having Small Batches is Antifragile](https://innolution.com/blog/limiting-work-in-process-wip-and-having-small-batches-is-antifragile).
 - 📝 [You say slow](https://afontcu.dev/slow//) _(disclaimer: I wrote this post)_.
 - 📚 [This is Lean: Resolving the Efficiency Paradox](https://thisislean.com/).
 - 📚 [The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009).
@@ -462,6 +463,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [TechnicalDebtQuadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html).
 - 📝 [What is DevOps? A guide to common methods and misconceptions](https://github.blog/2020-10-07-devops-definition/).
 - 📝 [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction).
+- 📝 [Understanding Feedback Loops in DevOps](https://medium.com/@antweiss/understanding-feedback-loops-in-devops-e93b92b74bd1).
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
