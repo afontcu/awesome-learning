@@ -410,6 +410,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Limiting Work in Process (WiP) and Having Small Batches is Antifragile](https://innolution.com/blog/limiting-work-in-process-wip-and-having-small-batches-is-antifragile).
 - 📝 [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/).
 - 📝 [Kanban Metric Layout (I)](https://jeronimopalacios.com/metodo-kanban/kanban-metric-layout/) ([Part 2](https://jeronimopalacios.com/agile/kanban-metric-layout-ii/)).
+- 📝 [Reading the Signs: Kanban CFD Patterns](https://getnave.com/blog/kanban-cfd-patterns/).
 - 📝 [You say slow](https://afontcu.dev/slow/) _(disclaimer: I wrote this post)_.
 - 📚 [This is Lean: Resolving the Efficiency Paradox](https://thisislean.com/).
 - 📚 [The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009).
