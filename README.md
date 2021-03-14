@@ -595,6 +595,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Tech leadership, one year after - João Alves](https://www.youtube.com/watch?v=pAwlxeR1Hjo).
 - 🎥 [Technical leadership and glue work - Tanya Reilly](https://www.youtube.com/watch?v=KClAPipnKqw).
 - 🎥 [Chief Culture Officer - Fernando Díaz](https://www.youtube.com/watch?v=DSxFvswXjy0).
+- 🎥 [Pushing through Friction - Dan Na](https://www.youtube.com/watch?v=8bxZuzDKoI0).
 - 📝 [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959).
 - 📝 [Where Does the Leadership Come From?](https://medium.com/agility-scales/where-does-the-leadership-come-from-3757a1acd1d1).
 - 📝 ["How" ages faster than "Why"](https://hackernoon.com/how-ages-faster-than-why-712e25c9eb3b).
