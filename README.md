@@ -625,6 +625,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [A Mental Model for Leading High Performance Engineering Teams](https://medium.com/@_chrishan/a-mental-model-for-leading-high-performance-engineering-teams-bf84caed50dd).
 - 📝 [Learnings from my first 90 days as an engineering manager](https://leaddev.com/skills-new-managers/learnings-my-first-90-days-engineering-manager).
 - 📝 [Magnitudes of exploration](https://lethain.com/magnitudes-of-exploration/).
+- 📝 [Nurturing Design in Your Software Engineering Culture](https://medium.com/nick-tune-tech-strategy-blog/nurturing-design-in-your-software-engineering-culture-3f960d321af/).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
