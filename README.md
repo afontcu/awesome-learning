@@ -392,6 +392,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [12 Signs You're Working in a Feature Factory — 3 Years Later](https://amplitude.com/blog/12-signs-youre-working-in-a-feature-factory-3-years-later).
 - 📝 [Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/).
 - 📝 [The Daily Meeting](https://www.industriallogic.com/blog/the-daily-meeting/).
+- 📝 [Why roadmaps reflect the level of Agile inadequacy](https://medium.com/serious-scrum/why-roadmaps-reflect-the-level-of-agile-inadequacy-27dd7474a477).
 - 📝 [Rethinking Agile... for all business?](https://afontcu.dev/rethinking-agile/) _(disclaimer: I wrote this post)_.
 - 📚 [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development).
 
