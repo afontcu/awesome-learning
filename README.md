@@ -490,6 +490,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Preventing the Collapse of Civilization - Jonathan Blow](https://www.youtube.com/watch?v=pW-SOdj4Kkk).
 - 🎥 [Simplicity Matters - Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0).
 - 🎥 [Metrics, Metrics, Everywhere - Coda Hale](https://www.youtube.com/watch?v=czes-oa0yik).
+- 🎥 [Building Evolutionary Architectures – Rebecca Parsons](https://www.youtube.com/watch?v=UV_B-ioocpY).
 - 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Object Oriented Tricks: #2 Law of Demeter](https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85).
