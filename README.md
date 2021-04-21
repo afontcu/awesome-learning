@@ -291,6 +291,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Front-End Developers Have to Manage the Loading Experience](https://css-tricks.com/front-end-developers-have-to-manage-the-loading-experience).
 - 📝 [Performance Web en tiempos modernos](https://octuweb.com/performance-web-en-tiempos-modernos/).
 - 📝 [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/).
+- 📝 [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/).
 - 🤷 [Web Performance: Learn to Make Your Websites Load Fast with Webpack 4](https://frontendmasters.com/courses/performance-webpack/).
 
 
