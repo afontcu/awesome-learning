@@ -475,6 +475,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [What is DevOps? A guide to common methods and misconceptions](https://github.blog/2020-10-07-devops-definition/).
 - 📝 [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction).
 - 📝 [Understanding Feedback Loops in DevOps](https://medium.com/@antweiss/understanding-feedback-loops-in-devops-e93b92b74bd1).
+- 📝 [Optimizing micro-feedback loops in engineering](https://leaddev.com/productivity-eng-velocity/optimizing-micro-feedback-loops-engineering).
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
