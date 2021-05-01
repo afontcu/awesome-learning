@@ -88,6 +88,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Run-Time Type Checking in TypeScript with io-ts](https://www.azavea.com/blog/2020/10/29/run-time-type-checking-in-typescript-with-io-ts/).
 - 📝 [Stronger JavaScript with Opaque Types](https://codemix.com/opaque-types-in-javascript/).
 - 📝 [10 Insights from Adopting TypeScript at Scale](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/).
+- 📝 [How to deal with dirty side effects in your pure functional JavaScript](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/).
 - 📚 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 - 📚 [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read).
 - 🤷 [JavaScript.info](http://javascript.info/).
