@@ -222,6 +222,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Arquitectura Hexagonal en el FrontEnd](https://softwarecrafters.io/react/arquitectura-hexagonal-frontend).
 - 📝 [The client is not always right: another twist in modern front-end development (Part 1)](https://dev.to/peibolsang/the-client-is-not-always-right-another-twist-in-modern-front-end-development-part-1-1olp).
 - 📝 [Building a System for Front-End Translations](https://engineering.squarespace.com/blog/2018/building-a-system-for-front-end-translations).
+- 📝 [The Back-end for Front-end Pattern (BFF)](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html).
 
 
 # Testing
