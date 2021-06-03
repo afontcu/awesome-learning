@@ -421,6 +421,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/).
 - 📝 [Kanban Metric Layout (I)](https://jeronimopalacios.com/metodo-kanban/kanban-metric-layout/) ([Part 2](https://jeronimopalacios.com/agile/kanban-metric-layout-ii/)).
 - 📝 [Reading the Signs: Kanban CFD Patterns](https://getnave.com/blog/kanban-cfd-patterns/).
+- 📝 [Kanban Classes of Service](https://kanbanzone.com/resources/kanban/classes-of-service/).
 - 📝 [You say slow](https://afontcu.dev/slow/) _(disclaimer: I wrote this post)_.
 - 📚 [This is Lean: Resolving the Efficiency Paradox](https://thisislean.com/).
 - 📚 [The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009).
