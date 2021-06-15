@@ -406,7 +406,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 
 # Kanban and Lean
 - 🎥 [Little's Flaw – Daniel Vacanti](https://vimeo.com/52683659).
-- 🎥 [Actionable Metrics for Predictability – Daniel Vacanti](https://vimeo.com/146545310).
 - 📝 [Why we moved from Scrum to Kanban](https://medium.com/skim-technologies/why-we-moved-from-scrum-to-kanban-b578d210ef8a).
 - 📝 [Little's Law – It's not about the numbers](https://agileramblings.com/2012/12/11/littles-law-its-not-about-the-numbers/).
 - 📝 [Little's Law - the basis of Lean and Kanban](http://www.vissinc.com/2012/09/07/littles-law-isnt-it-a-linear-relationship/).
@@ -499,6 +498,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Simplicity Matters - Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0).
 - 🎥 [Metrics, Metrics, Everywhere - Coda Hale](https://www.youtube.com/watch?v=czes-oa0yik).
 - 🎥 [Building Evolutionary Architectures – Rebecca Parsons](https://www.youtube.com/watch?v=UV_B-ioocpY).
+- 🎥 [Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0).
 - 📝 [Rethinking CS101](https://codeburst.io/rethinking-cs101-e7e246875cbc).
 - 📝 [The Hard Thing About Software Development](https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson).
 - 📝 [Object Oriented Tricks: #2 Law of Demeter](https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85).
