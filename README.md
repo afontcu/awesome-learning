@@ -539,6 +539,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html).
 - 📝 [How we ship code faster and safer with feature flags](https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/).
 - 📝 [Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/).
+- 📝 [Why you shouldn’t use booleans in REST APIs](https://medium.com/geekculture/why-you-shouldnt-use-booleans-in-rest-apis-2747b187876c).
 - 📚 [Domain Modeling Made Functional](https://fsharpforfunandprofit.com/books/#domain-modeling-made-functional-ebook-and-paper).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
