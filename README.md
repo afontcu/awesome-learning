@@ -356,6 +356,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [How to survive working at a startup](https://stanete.com/survive-working-startup).
 - 📝 [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp).
 - 📝 [50 Short Product Lessons](https://cutle.fish/blog/50-product-lessons).
+- 📝 [The Mindset That Kills Product Thinking](https://www.jpattonassociates.com/mindset-that-kills-product-thinking/).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
 - 📚 [Making Work Visible: Exposing Time Theft to Optimize Work & Flow](https://www.goodreads.com/en/book/show/36458712/).
