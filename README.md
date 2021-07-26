@@ -225,6 +225,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Building a System for Front-End Translations](https://engineering.squarespace.com/blog/2018/building-a-system-for-front-end-translations).
 - 📝 [The Back-end for Front-end Pattern (BFF)](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html).
 - 📝 [Improving Cumulative Layout Shift at Telegraph Media Group](https://web.dev/telegraph/).
+- 📝 [Overview of the RenderingNG architecture](https://developer.chrome.com/blog/renderingng-architecture/).
 
 
 # Testing
