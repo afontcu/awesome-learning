@@ -550,6 +550,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Why you shouldn’t use booleans in REST APIs](https://medium.com/geekculture/why-you-shouldnt-use-booleans-in-rest-apis-2747b187876c).
 - 📝 [How to build your monitoring dashboards?](https://dmoldovan.medium.com/monitoring-how-to-build-your-monitoring-dashboards-e11f89918dd1).
 - 📝 [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/).
+- 📝 [Better coordination, or better software?](https://jessitron.com/2021/08/02/better-coordination-or-better-software/).
 - 📚 [Domain Modeling Made Functional](https://fsharpforfunandprofit.com/books/#domain-modeling-made-functional-ebook-and-paper).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
