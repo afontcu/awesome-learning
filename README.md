@@ -407,6 +407,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Why roadmaps reflect the level of Agile inadequacy](https://medium.com/serious-scrum/why-roadmaps-reflect-the-level-of-agile-inadequacy-27dd7474a477).
 - 📝 [Flaws In Scrum And Agile](https://www.pandastrike.com/posts/20150304-agile/).
 - 📝 ["Real Options" Underlie Agile Practices](https://www.infoq.com/articles/real-options-enhance-agility/).
+- 📝 [What Killed Waterfall could Kill Agile](https://gist.github.com/joshwand/710960)
 - 📝 [Rethinking Agile... for all business?](https://afontcu.dev/rethinking-agile/) _(disclaimer: I wrote this post)_.
 - 📚 [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development).
 
