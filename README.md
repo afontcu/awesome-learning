@@ -492,6 +492,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Why Speed is Key](https://www.devteams.at/speed-is-key/2021/04/23/why-speed-is-key.html).
 - 📝 [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html).
 - 📝 [Big Batch Releases](https://www.geepawhill.org/2021/05/18/big-batch-releases/).
+- 📝 [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/).
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
