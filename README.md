@@ -171,6 +171,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/).
 - 📝 [Everything I Learned About min(), max(), clamp() In CSS](https://ishadeed.com/article/css-min-max-clamp/).
 - 📝 [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/).
+- 📝 [CSS Container Query Units](https://ishadeed.com/article/container-query-units/).
 - 📚 [CSS animation 101](https://cssanimation.rocks/css-animation-101/).
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
