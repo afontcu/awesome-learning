@@ -663,6 +663,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Magnitudes of exploration](https://lethain.com/magnitudes-of-exploration/).
 - 📝 [Nurturing Design in Your Software Engineering Culture](https://medium.com/nick-tune-tech-strategy-blog/nurturing-design-in-your-software-engineering-culture-3f960d321af/).
 - 📝 [Seniority](https://flopezluis.medium.com/seniority-eacef7105b39).
+- 📝 [Delivering on an architecture strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
