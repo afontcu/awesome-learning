@@ -242,6 +242,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Test Desiderata - Kent Beck](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl).
 - 🎥 [Testing Async Components – Alex Krolick](https://www.youtube.com/watch?v=b8SOFNc_X_A).
 - 🎥 [Don’t Make These Testing Mistakes – Gleb Bahmutov](https://www.youtube.com/watch?v=VwQIWQ1WcGo).
+- 🎥 [On The Relationship Between Units Of Isolation And Test Coupling – Mario Cervera](https://www.youtube.com/watch?v=APFbb5MwLEU).
 - 📝 [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009).
 - 📝 [Mocking as a Design Tool](https://codurance.com/2018/10/18/mocking-as-a-design-tool/).
 - 📝 [Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50).
