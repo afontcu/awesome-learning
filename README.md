@@ -694,6 +694,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [How To Lead Self-Organising Teams](https://medium.com/laterpay-behind-the-scenes/how-to-lead-self-organising-teams-be8dc30a2aa7).
 - 📝 [Visualising Sociotechnical Architecture with DDD and Team Topologies](https://medium.com/nick-tune-tech-strategy-blog/visualising-sociotechnical-architecture-with-ddd-and-team-topologies-48c6be036c40).
 - 📝 [How Instagram Co-founder Mike Krieger Took Its Engineering Org from 0 to 300 People](https://review.firstround.com/how-instagram-co-founder-mike-krieger-took-its-engineering-org-from-0-to-300-people).
+- 📝 [Staff Engineers at Policygenius](https://medium.com/policygenius-stories/staff-engineers-at-policygenius-bf92cf0db43).
 
 
 # Psychology
