@@ -33,7 +33,7 @@ I also tried to identify some content types:
 - 📝 Post, article.
 - 🎥 Talk or Video Course.
 - 📚 Book (either physical or digital).
-- 🤷 Other (an online game, an infographic...).
+- 🤷 Other (an online game, a podcast, an infographic...).
 
 ---
 
@@ -371,6 +371,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📚 [Escaping the build trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X).
 - 📚 [Getting Real](https://basecamp.com/gettingreal).
 - 📚 [Continuous Discovery Habits](https://www.producttalk.org/2021/05/continuous-discovery-habits/).
+- 🤷 [Spotify: A Product Story](https://open.spotify.com/show/3L9tzrt0CthF6hNkxYIeSB).
 
 
 # Agile
