@@ -363,6 +363,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [50 Short Product Lessons](https://cutle.fish/blog/50-product-lessons).
 - 📝 [The Mindset That Kills Product Thinking](https://www.jpattonassociates.com/mindset-that-kills-product-thinking/).
 - 📝 [Managing Product Development by Integrating Around Concerns](https://rjs.medium.com/managing-product-development-by-integrating-around-concerns-77640bcde28d).
+- 📝 [Invisible asymptotes](https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes).
 - 📝 [Product Management Mental Models for Everyone](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b).
 - 📝 [Effective Product Management](https://cmcluck.medium.com/effective-product-management-8021831a184).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
