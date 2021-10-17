@@ -717,6 +717,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Engineering a culture of psychological safety](https://www.intercom.com/blog/psychological-safety/).
 - 📝 [How To Tell If Someone Is Truly Smart Or Just Average](https://medium.com/the-mission/how-to-tell-if-someone-is-truly-smart-or-just-average-a2f0bcac5db2).
 - 📝 [The Art of Persuasion Hasn't Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years).
+- 📝 [The errors of efficiency](https://www.alexmurrell.co.uk/articles/the-errors-of-efficiency).
 - 📚 [The Subtle Art of Not Giving a Fuck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck).
 - 📚 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805).
 - 📚 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA).
