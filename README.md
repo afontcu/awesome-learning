@@ -228,6 +228,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Back-end for Front-end Pattern (BFF)](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html).
 - 📝 [Improving Cumulative Layout Shift at Telegraph Media Group](https://web.dev/telegraph/).
 - 📝 [Overview of the RenderingNG architecture](https://developer.chrome.com/blog/renderingng-architecture/).
+- 📝 [Operaciones de lectura de alto rendimiento con serverless](https://tech.genial.ly/en-cualquier-aplicaci%C3%B3n-o-sistema-existen-una-serie-de-acciones-que-t%C3%ADpicamente-nos-permiten-797615db17b6/).
 
 
 # Testing
