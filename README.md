@@ -37,7 +37,7 @@ I also tried to identify some content types:
 
 ---
 
-_Disclaimer_: This isn't an exhaustive list. It contains resources I value and I enjoyed consuming, not everything I've ever read.
+_Disclaimer_: This isn't an exhaustive list. It contains resources I value and I enjoyed consuming, not everything I've ever read. I also remove stuff I no longer see valuable. It is a _curated_ list after all!
 
 _Disclaimer #2_: There is no order or priorities. Read the whole thing :D
 
