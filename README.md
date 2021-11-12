@@ -503,6 +503,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/).
 - 📝 [Agile pull requests](https://blog.ploeh.dk/2021/06/21/agile-pull-requests/).
 - 📝 ["It depends" / The development Mix (Product, Engineering, Hygiene)](https://www.eferro.net/2021/10/it-depends-development-mix-product.html).
+- 📝 [The Real Cost of Change](https://lizkeogh.com/2012/01/30/the-real-cost-of-change/).
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
