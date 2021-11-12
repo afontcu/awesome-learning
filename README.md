@@ -593,6 +593,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Consistency in Design is the Wrong Approach](https://medium.com/@jmspool/consistency-in-design-is-the-wrong-approach-3cfbc87a327).
 - 📝 [Space in Design Systems](https://eightshapes.com/articles/space-in-design-systems.html).
 - 📝 [Size in Design Systems](https://eightshapes.com/articles/size-in-design-systems.html).
+- 📝 [Launching GOV.UK’s new menu bar](https://insidegovuk.blog.gov.uk/2021/11/11/launching-gov-uks-new-menu-bar/).
 - 📚 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123/).
 
 
