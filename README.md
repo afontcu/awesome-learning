@@ -19,6 +19,7 @@ I'll try to jot down interesting stuff I read, watch, or listen related to the t
 - [Product Management](#product-management)
 - [Agile](#agile)
 - [Kanban and Lean](#kanban-and-lean)
+- [Software Economis](#software-economics)
 - [Software Crafting](#software-crafting)
 - [Programming and Computer Science](#programming-and-computer-science)
 - [UI Design](#ui-design)
@@ -326,7 +327,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 # Product Management
 - 🎥 [Tengo demasiados proyectos...¿Qué hago? (Gestión de la Demanda) - Ángel Medinilla](https://www.youtube.com/watch?v=xsqVWY3wpF4).
 - 🎥 [The Importance of Listening to Your Customers - David Cancel](http://www.mindtheproduct.com/2016/12/importance-listening-customers-david-cancel/).
-- 🎥 [Actionable Metrics for Predictability – Daniel Vacanti](https://vimeo.com/146545310).
 - 🎥 [3x Explore, Expand, Extract – Kent Beck](https://www.youtube.com/watch?v=FlJN6_4yI2A).
 - 🎥 [Cómo entregar más por menos – Marta Manso](https://www.youtube.com/watch?v=MtwyXiuW1OU).
 - 🎥 [Creating Value and Flow in Product Development – John Cutler](https://www.youtube.com/watch?v=NGdx-f-aGXs).
@@ -338,11 +338,9 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Minimum Valuable Problem](http://tynerblain.com/blog/2016/07/22/minimum-valuable-problem/).
 - 📝 [A Minimum Viable Product Is Not a Product, It's a Process](http://www.themacro.com/articles/2016/01/minimum-viable-product-process/).
 - 📝 [The Three Jobs of Product Management](https://productcoalition.com/three-jobs-of-product-management-9e006f944bc7).
-- 📝 [Why we kick off any new project with a Design Sprint](https://journal.mozestudio.com/why-we-kick-off-any-new-project-with-a-design-sprint-5b7177f432b5).
 - 📝 [The Ultimate Guide to Minimum Viable Product](https://hackernoon.com/the-ultimate-guide-to-minimum-viable-product-59218ce738f8).
 - 📝 [Got a great product idea? Don't build it](https://medium.com/swlh/got-a-great-product-idea-dont-build-it-4499c6ab581f).
 - 📝 [Looking beyond launch](https://clearleft.com/posts/425).
-- 📝 [Your app is an onion: Why software projects spiral out of control](https://medium.com/swlh/your-app-is-an-onion-why-software-projects-spiral-out-of-control-bb9247d9bdbd).
 - 📝 [All You Need To Know About Customer Journey Mapping](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/).
 - 📝 [The most important thing Dropbox did to scale Product Management](https://medium.com/startup-grind/the-most-important-thing-dropbox-did-to-scale-product-management-fed90e30697e).
 - 📝 [Process > Outcome (How to Overcome The Outcome Bias) ](https://medium.com/personal-growth/process-outcome-how-to-overcome-the-outcome-bias-acc521a30484).
@@ -370,7 +368,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Effective Product Management](https://cmcluck.medium.com/effective-product-management-8021831a184).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
-- 📚 [Making Work Visible: Exposing Time Theft to Optimize Work & Flow](https://www.goodreads.com/en/book/show/36458712/).
 - 📚 [Escaping the build trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X).
 - 📚 [Getting Real](https://basecamp.com/gettingreal).
 - 📚 [Shape Up](https://basecamp.com/shapeup).
@@ -382,7 +379,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Coaching de datos - Jaume Jornet](https://www.youtube.com/watch?v=72dEeZJYb3o).
 - 🎥 [Empresa Ágil del siglo XXI - Ángel Medinilla](https://www.youtube.com/watch?v=YTKvaJDuw8Q).
 - 🎥 [The Lean Organization - Gabriel Prat](https://www.youtube.com/watch?v=kFLvzqE3Rr4).
-- 🎥 [El patadón palante. Posponer decisiones - Eduardo Ferro](https://www.youtube.com/watch?v=vEr2xbNoUxM).
 - 🎥 [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M).
 - 🎥 [Beyond Agile Programming - Kent Beck](https://www.youtube.com/watch?v=d4qldY0g_dI).
 - 📝 [Making the Date](https://ronjeffries.com/xprog/articles/jatmakingthedate/).
@@ -415,7 +411,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Daily Meeting](https://www.industriallogic.com/blog/the-daily-meeting/).
 - 📝 [Why roadmaps reflect the level of Agile inadequacy](https://medium.com/serious-scrum/why-roadmaps-reflect-the-level-of-agile-inadequacy-27dd7474a477).
 - 📝 [Flaws In Scrum And Agile](https://www.pandastrike.com/posts/20150304-agile/).
-- 📝 ["Real Options" Underlie Agile Practices](https://www.infoq.com/articles/real-options-enhance-agility/).
 - 📝 [What Killed Waterfall could Kill Agile](https://gist.github.com/joshwand/710960)
 - 📝 [Rethinking Agile... for all business?](https://afontcu.dev/rethinking-agile/) _(disclaimer: I wrote this post)_.
 - 📚 [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development).
@@ -435,7 +430,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Creating Flow and Value in Product Development](https://amplitude.com/blog/creating-flow-value-in-product-development).
 - 📝 [Your developers are not slow](https://sprint.ly/blog/your-developers-arent-slow/).
 - 📝 [Limiting Work in Process (WiP) and Having Small Batches is Antifragile](https://innolution.com/blog/limiting-work-in-process-wip-and-having-small-batches-is-antifragile).
-- 📝 [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/).
 - 📝 [Kanban Metric Layout (I)](https://jeronimopalacios.com/metodo-kanban/kanban-metric-layout/) ([Part 2](https://jeronimopalacios.com/agile/kanban-metric-layout-ii/)).
 - 📝 [Reading the Signs: Kanban CFD Patterns](https://getnave.com/blog/kanban-cfd-patterns/).
 - 📝 [Kanban Classes of Service](https://kanbanzone.com/resources/kanban/classes-of-service/).
@@ -445,19 +439,48 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 
 
 
+# Software Economics
+- 🎥 [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA).
+- 🎥 [Software that Fits in Your Head - Dan North](https://www.youtube.com/watch?v=4Y0tOi7QWqM).
+- 🎥 [Actionable Metrics for Predictability – Daniel Vacanti](https://vimeo.com/146545310).
+- 🎥 [El patadón palante. Posponer decisiones - Eduardo Ferro](https://www.youtube.com/watch?v=vEr2xbNoUxM).
+- 📝 [Better coordination, or better software?](https://jessitron.com/2021/08/02/better-coordination-or-better-software/).
+- 📝 ["Real Options" Underlie Agile Practices](https://www.infoq.com/articles/real-options-enhance-agility/).
+- 📝 [Your app is an onion: Why software projects spiral out of control](https://medium.com/swlh/your-app-is-an-onion-why-software-projects-spiral-out-of-control-bb9247d9bdbd).
+- 📝 [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html).
+- 📝 [Examining the Agile Cost of Change Curve](http://www.agilemodeling.com/essays/costOfChange.htm).
+- 📝 [The Code Quality vs. Speed Fallacy](https://medium.com/@asciamanna/the-code-quality-vs-speed-fallacy-f4eea147b23e).
+- 📝 [The Cost of Change](https://codingitwrong.com/2020/03/09/the-cost-of-change.html).
+- 📝 [Inefficient Efficiency](https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791).
+- 📝 [Duplication, you're welcome](https://rachelcarmena.github.io/2018/02/27/duplication-you-are-welcome.html).
+- 📝 [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to).
+- 📝 [Repeat yourself, do more than one thing, and rewrite everything](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and).
+- 📝 [Why Speed is Key](https://www.devteams.at/speed-is-key/2021/04/23/why-speed-is-key.html).
+- 📝 [Speed in Software Development](https://www.targetprocess.com/blog/speed-in-software-development/).
+- 📝 [When costs are nonlinear, keep it small](https://jessitron.com/2021/01/18/when-costs-are-nonlinear-keep-it-small/).
+- 📝 [The Real Cost of Change](https://lizkeogh.com/2012/01/30/the-real-cost-of-change/).
+- 📝 [Understanding Feedback Loops in DevOps](https://medium.com/@antweiss/understanding-feedback-loops-in-devops-e93b92b74bd1).
+- 📝 [Optimizing micro-feedback loops in engineering](https://leaddev.com/productivity-eng-velocity/optimizing-micro-feedback-loops-engineering).
+- 📝 [Big Batch Releases](https://www.geepawhill.org/2021/05/18/big-batch-releases/).
+- 📝 [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html).
+- 📝 [The minefield of software development](https://afontcu.dev/minefield/)  _(disclaimer: I wrote this post)_.
+- 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
+- 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
+- 📚 [Making Work Visible: Exposing Time Theft to Optimize Work & Flow](https://www.goodreads.com/en/book/show/36458712/).
+
+
+
 # Software Crafting
 - 🎥 [Refactorizar a patrones - Xavi Gost](https://www.youtube.com/watch?v=ME30PL5jn04).
 - 🎥 [Software Crasftsmanship - Sandro Mancuso](https://www.youtube.com/watch?v=9OhXqBlCmrM).
 - 🎥 [Simplicidad para desarrolladores - Eduardo Ferro](https://www.youtube.com/watch?v=6FDxbCzh2sI).
 - 🎥 [Writing Readable Code - Tom Hudson](https://www.youtube.com/watch?v=OVf0xP4BLq0).
 - 🎥 [Livable Code - Sarah Mei](https://www.youtube.com/watch?v=8_UoDmJi7U8).
-- 🎥 [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA).
 - 🎥 [What Does Tech Excellence Look Like? - Martin Fowler](https://www.youtube.com/watch?v=Avs70dZ3Vlk).
 - 🎥 [The Path to Craftsmanship - Chet Hendrickson & Ron Jeffries](https://www.youtube.com/watch?v=Avs70dZ3Vlk).
 - 🎥 [Deliveritis Aguda - Carlos Buenosvinos](https://www.youtube.com/watch?v=vGCowJY5QCQ).
 - 🎥 [Workflows of Refactoring - Martin Fowler](https://www.youtube.com/watch?v=vqEg37e4Mkw).
 - 🎥 [Effective Technical Agile - Emily Bache](https://www.youtube.com/watch?v=CuO6dbdQup4).
-- 🎥 [Software that Fits in Your Head - Dan North](https://www.youtube.com/watch?v=4Y0tOi7QWqM).
 - 🎥 [Writing Software – David Heinemeier Hansson](https://www.youtube.com/watch?v=9LfmrkyP81M).
 - 🎥 [Tidy First? – Kent Beck](https://www.youtube.com/watch?v=BFFY9Zor6zw).
 - 🎥 [It's Not Continuous Delivery If You Can't Deploy Right Now - Ken Mugrage](https://www.youtube.com/watch?v=po712VIZZ7M).
@@ -470,42 +493,25 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [How Do We Go Faster?](https://hackernoon.com/how-do-we-go-faster-ed51207952a8).
 - 📝 [Agilismo versus craftismo. Y diversidad](https://medium.com/scbcn/agilismo-versus-craftismo-y-diversidad-67c465e3acf7).
 - 📝 [Writing Tidy Code](https://csswizardry.com/2017/05/writing-tidy-code/).
-- 📝 [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68).
 - 📝 [The Cult of the Complex](https://alistapart.com/article/cult-of-the-complex).
 - 📝 [The Human Cost of Tech Debt](http://www.infragistics.com/community/blogs/erikdietrich/archive/2016/06/29/the-human-cost-of-tech-debt.aspx).
 - 📝 [Paying Technical Debt: How To Rescue Legacy Code through Refactoring](http://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring).
 - 📝 [Imaginary Problems Are the Root of Bad Software](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8).
-- 📝 [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html).
 - 📝 [KPIs para equipos de desarrollo de software](https://www.danilat.com/weblog/2019/06/10/kpis-equipos-desarrollo-software).
 - 📝 [Technical Skills](https://ronjeffries.com/articles/019-01ff/tech-skills/).
 - 📝 [La simplicidad por principio](https://leanmind.es/es/blog/simplicidad-por-principio/).
 - 📝 [Extreme Programming, a Reflection](https://blog.cleancoder.com/uncle-bob/2013/12/10/Thankyou-Kent.html).
-- 📝 [Inefficient Efficiency](https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791).
-- 📝 [Duplication, you're welcome](https://rachelcarmena.github.io/2018/02/27/duplication-you-are-welcome.html).
-- 📝 [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to).
-- 📝 [Repeat yourself, do more than one thing, and rewrite everything](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and).
 - 📝 [Refactoring](https://sourcemaking.com/refactoring).
 - 📝 [A Tale of Two TDDers](https://www.industriallogic.com/blog/a-tale-of-two-tdders/).
 - 📝 [One Defect, Two Fixes](https://www.industriallogic.com/blog/one-defect-two-fixes/).
 - 📝 [Ubiquitous Language & the joy of naming](https://blog.carbonfive.com/2016/10/04/ubiquitous-language-the-joy-of-naming/).
-- 📝 [Examining the Agile Cost of Change Curve](http://www.agilemodeling.com/essays/costOfChange.htm).
-- 📝 [The Cost of Change](https://codingitwrong.com/2020/03/09/the-cost-of-change.html).
-- 📝 [Speed in Software Development](https://www.targetprocess.com/blog/speed-in-software-development/).
 - 📝 [Understanding Incremental Switchover](https://www.geepawhill.org/2020/07/21/understanding-incremental-switchover/).
 - 📝 [TechnicalDebtQuadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html).
 - 📝 [What is DevOps? A guide to common methods and misconceptions](https://github.blog/2020-10-07-devops-definition/).
 - 📝 [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction).
-- 📝 [Understanding Feedback Loops in DevOps](https://medium.com/@antweiss/understanding-feedback-loops-in-devops-e93b92b74bd1).
-- 📝 [Optimizing micro-feedback loops in engineering](https://leaddev.com/productivity-eng-velocity/optimizing-micro-feedback-loops-engineering).
-- 📝 [Why Speed is Key](https://www.devteams.at/speed-is-key/2021/04/23/why-speed-is-key.html).
-- 📝 [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html).
-- 📝 [Big Batch Releases](https://www.geepawhill.org/2021/05/18/big-batch-releases/).
 - 📝 [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/).
 - 📝 [Agile pull requests](https://blog.ploeh.dk/2021/06/21/agile-pull-requests/).
 - 📝 ["It depends" / The development Mix (Product, Engineering, Hygiene)](https://www.eferro.net/2021/10/it-depends-development-mix-product.html).
-- 📝 [The Real Cost of Change](https://lizkeogh.com/2012/01/30/the-real-cost-of-change/).
-- 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
-- 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
 - 📚 [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/).
 - 📚 [Refactoring](https://martinfowler.com/books/refactoring.html).
@@ -531,7 +537,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [REST vs. GraphQL: A Critical Review](https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7).
 - 📝 [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2).
 - 📝 [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960).
-- 📝 [The Code Quality vs. Speed Fallacy](https://medium.com/@asciamanna/the-code-quality-vs-speed-fallacy-f4eea147b23e).
 - 📝 [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b).
 - 📝 [Level Up Your Reverse Engineering Skills](https://blog.angularindepth.com/level-up-your-reverse-engineering-skills-8f910ae10630).
 - 📝 [Programming Sucks](https://www.stilldrinking.org/programming-sucks).
@@ -565,7 +570,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Why you shouldn’t use booleans in REST APIs](https://medium.com/geekculture/why-you-shouldnt-use-booleans-in-rest-apis-2747b187876c).
 - 📝 [How to build your monitoring dashboards?](https://dmoldovan.medium.com/monitoring-how-to-build-your-monitoring-dashboards-e11f89918dd1).
 - 📝 [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/).
-- 📝 [Better coordination, or better software?](https://jessitron.com/2021/08/02/better-coordination-or-better-software/).
 - 📝 [Rethinking Best Practices](https://willgallego.com/2021/08/14/rethinking-best-practices/).
 - 📝 [Practical API Design at Netflix, Part 1: Using Protobuf FieldMask](https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518).
 - 📚 [Domain Modeling Made Functional](https://fsharpforfunandprofit.com/books/#domain-modeling-made-functional-ebook-and-paper).
