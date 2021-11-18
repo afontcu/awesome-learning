@@ -591,7 +591,6 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Color in UI Design: A (Practical) Framework](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e).
 - 📝 [The King vs. Pawn Game of UI Design](http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design).
 - 📝 [Rhythm in Web Typography](https://betterwebtype.com/rhythm-in-web-typography).
-- 📝 ['Me gusta' no es un argumento de diseño](https://medium.com/@javiercanada/me-gusta-no-es-un-argumento-de-dise%C3%B1o-5c3fa5b87c06).
 - 📝 [How to Give Constructive Design Feedback Over Email](https://medium.com/@tarngerine/how-to-give-constructive-design-feedback-over-email-be7ebb17deff).
 - 📝 [On Switching from HEX & RGB to HSL](https://www.sarasoueidan.com/blog/hex-rgb-to-hsl/).
 - 📝 [The system always kicks back](https://ux.shopify.com/the-system-always-kicks-back-d94b945407f2?gi=6e6cef402550).
