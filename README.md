@@ -487,6 +487,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 🎥 [Tidy First? – Kent Beck](https://www.youtube.com/watch?v=BFFY9Zor6zw).
 - 🎥 [It's Not Continuous Delivery If You Can't Deploy Right Now - Ken Mugrage](https://www.youtube.com/watch?v=po712VIZZ7M).
 - 🎥 [Pusheando en master, que es gerundio – Isidro López](https://www.youtube.com/watch?v=UvtaujgCNsI).
+- 🎥 [En mi equipo esto funciona pero no se por qué – Aitor Alzola](https://www.youtube.com/watch?v=sftJywH_VSU).
 - 📝 [You Are Not Paid to Write Code](http://bravenewgeek.com/you-are-not-paid-to-write-code/).
 - 📝 [Tech companies: these are the perks (and benefits) I want](https://hackernoon.com/tech-companies-these-are-the-perks-and-benefits-i-want-5e9788c30958).
 - 📝 [The DIY illusion](http://www.mironov.com/diy/).
