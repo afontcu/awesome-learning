@@ -682,6 +682,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Seniority](https://flopezluis.medium.com/seniority-eacef7105b39).
 - 📝 [Delivering on an architecture strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/).
 - 📝 [Selling Problems (and Then Solutions) Instead of Philosophy](https://richmironov.medium.com/selling-problems-and-then-solutions-instead-of-philosophy-d61e7f2413df).
+- 📝 [Hiring a VP of Engineering? Use This Framework from Shopify’s VPE to Get it Right](https://review.firstround.com/hiring-a-vp-of-engineering-use-this-framework-from-shopify%27s-vpe-to-get-it-right).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
