@@ -514,6 +514,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction).
 - 📝 [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/).
 - 📝 [Agile pull requests](https://blog.ploeh.dk/2021/06/21/agile-pull-requests/).
+- 📝 [Code Reviews](https://refactoring.fm/p/code-reviews/).
 - 📝 ["It depends" / The development Mix (Product, Engineering, Hygiene)](https://www.eferro.net/2021/10/it-depends-development-mix-product.html).
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
 - 📚 [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/).
