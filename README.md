@@ -467,9 +467,11 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Optimizing micro-feedback loops in engineering](https://leaddev.com/productivity-eng-velocity/optimizing-micro-feedback-loops-engineering).
 - 📝 [Big Batch Releases](https://www.geepawhill.org/2021/05/18/big-batch-releases/).
 - 📝 [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html).
+- 📝 [The Eternal Struggle Between Business and Programmers](https://blog.thecodewhisperer.com/permalink/the-eternal-struggle-between-business-and-programmers).
 - 📝 [The minefield of software development](https://afontcu.dev/minefield/)  _(disclaimer: I wrote this post)_.
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
+- 📚 [Software Economics](https://leanpub.com/software-economics).
 - 📚 [Making Work Visible: Exposing Time Theft to Optimize Work & Flow](https://www.goodreads.com/en/book/show/36458712/).
 
 
