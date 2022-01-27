@@ -627,6 +627,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b).
 - 📝 [How to Stop UX Research being a Blocker](https://medium.com/beakerandflint/how-to-stop-ux-research-being-a-blocker-225d91105de8).
 - 📝 [Duolingo's User Retention: 8 Tactics Tested On 300 Million Users](https://growth.design/case-studies/duolingo-user-retention).
+- 📝 [Principles of Developer Experience](https://cpojer.net/posts/principles-of-devx).
 - 📚 [Don't Make Me Think](https://www.oreilly.com/library/view/dont-make-me/0321344758/).
 - 📚 [Lean UX](http://shop.oreilly.com/product/0636920021827.do/).
 - 📚 [Elements of User Experience: User-Centered Design for the Web and Beyond](http://www.jjg.net/elements/).
