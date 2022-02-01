@@ -279,6 +279,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The testing pyramid should look more like a crab](https://changelog.com/posts/the-testing-pyramid-should-look-more-like-a-crab).
 - 📝 [How to Take a 'Marie Kondo' Approach to Software Testing](https://builtin.com/software-engineering-perspectives/organize-E2E-tests).
 - 📝 [On Multiple Givens, Whens and Thens](https://lizkeogh.com/2019/05/06/on-multiple-givens-whens-and-thens/).
+- 📝 [Mock Roles, not Objects](http://jmock.org/oopsla2004.pdf).
 - 📝 [Testing API calls in Vue applications](https://afontcu.dev/testing-api-calls/) _(disclaimer: I wrote this post)_.
 - 📝 [I know testing is important, but](https://afontcu.dev/testing-is-hard/) _(disclaimer: I wrote this post)_.
 - 📝 [Front-end Testing and a tale of three users](https://afontcu.dev/frontend-testing-code-consumers/) _(disclaimer: I wrote this post)_.
