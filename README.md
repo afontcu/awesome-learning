@@ -418,6 +418,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Flaws In Scrum And Agile](https://www.pandastrike.com/posts/20150304-agile/).
 - 📝 [What Killed Waterfall could Kill Agile](https://gist.github.com/joshwand/710960).
 - 📝 [Agility ≠ Speed](https://kevlinhenney.medium.com/agility-speed-96057078fe40).
+- 📝 [Pondering Agile Principles](https://benjiweber.co.uk/blog/2022/01/30/pondering-agile-principles/).
 - 📝 [Rethinking Agile... for all business?](https://afontcu.dev/rethinking-agile/) _(disclaimer: I wrote this post)_.
 - 📚 [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development).
 
