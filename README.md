@@ -744,6 +744,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Art of Persuasion Hasn't Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years).
 - 📝 [The errors of efficiency](https://www.alexmurrell.co.uk/articles/the-errors-of-efficiency).
 - 📝 [My preferred models and strategies for facilitating large-scale change](https://jchyip.medium.com/my-preferred-models-and-strategies-for-facilitating-large-scale-change-a0e498169e67).
+- 📝 [The Small Steps of Giant Leaps](https://fs.blog/small-steps-giant-leaps/).
 - 📚 [The Subtle Art of Not Giving a Fuck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck).
 - 📚 [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805).
 - 📚 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA).
