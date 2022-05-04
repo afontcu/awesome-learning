@@ -137,6 +137,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/).
 - 📝 [State Machines in React](https://gedd.ski/post/state-machines-in-react/).
 - 📝 [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks).
+- 📝 [Dependencies in custom React hooks](https://observablehq.com/@werehamster/dependencies-in-custom-react-hooks).
 
 
 # CSS
