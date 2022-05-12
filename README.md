@@ -700,6 +700,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [¿Escasez de líderes?](https://flopezluis.substack.com/p/escasez-de-lideres).
 - 📝 [Belonging to Amazon’s Principal Engineering Community](https://medium.com/geekculture/belonging-to-amazons-principal-engineering-community-aa8059152fbf).
 - 📝 [My Amazon Reptilian Brain](https://medium.com/geekculture/my-amazon-reptilian-brain-86607f0e7193).
+- 📝 [Your migration probably isn’t failing due to insufficient staffing](https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
