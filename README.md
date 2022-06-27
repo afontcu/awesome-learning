@@ -175,6 +175,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/).
 - 📝 [CSS Container Query Units](https://ishadeed.com/article/container-query-units/).
 - 📝 [Defensive CSS](https://ishadeed.com/article/defensive-css/).
+- 📝 [The evolution of scalable CSS]([https://ishadeed.com/article/defensive-css/](https://andreipfeiffer.dev/blog/2022/scalable-css-evolution)).
 - 📚 [CSS animation 101](https://cssanimation.rocks/css-animation-101/).
 - 🤷 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/).
 - 🤷 [Flexbox Defense](http://www.flexboxdefense.com/).
