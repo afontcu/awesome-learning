@@ -591,6 +591,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/).
 - 📝 [Rethinking Best Practices](https://willgallego.com/2021/08/14/rethinking-best-practices/).
 - 📝 [Practical API Design at Netflix, Part 1: Using Protobuf FieldMask](https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518).
+- 📝 [The Error Model](http://joeduffyblog.com/2016/02/07/the-error-model/).
 - 📚 [Domain Modeling Made Functional](https://fsharpforfunandprofit.com/books/#domain-modeling-made-functional-ebook-and-paper).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
