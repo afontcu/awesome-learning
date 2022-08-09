@@ -712,6 +712,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
 - 📚 [Staff Engineer](https://staffeng.com/book).
 - 🤷 [Engineering Manager list of reads](https://github.com/charlax/engineering-management).
+- 🤷 [Coordination Headwind](https://komoroske.com/slime-mold/).
 
 
 # Teams
