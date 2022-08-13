@@ -302,7 +302,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html).
 - 📝 [Web fonts: when you need them, when you don't](https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae).
 - 📝 [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572).
-- 📝 [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7).
+- 📝 [10 things I learned making the fastest site in the world](https://medium.com/hackernoon/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7).
 - 📝 [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3).
 - 📝 [Popular HTTP Headers for Enhancing Performance](https://www.keycdn.com/blog/http-headers/).
 - 📝 [Font loading strategy for single page applications](https://jeremenichelli.io/2018/07/font-loading-strategy-single-page-applications/).
