@@ -34,6 +34,7 @@ I also tried to identify some content types:
 - 📝 Post, article.
 - 🎥 Talk or Video Course.
 - 📚 Book (either physical or digital).
+- 🔊 Podcast or other audio-based content.
 - 🤷 Other (an online game, a podcast, an infographic...).
 
 ---
@@ -713,6 +714,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
 - 📚 [Staff Engineer](https://staffeng.com/book).
+- 🔊 [Podcast: Courtney Kissler on Driving Technological Transformations at Nike, Nordstrom, Starbucks and Zulily](https://blog.container-solutions.com/courtney-kissler-on-driving-technological-transformations-at-nike-nordstrom-starbucks-and-zulily).
 - 🤷 [Engineering Manager list of reads](https://github.com/charlax/engineering-management).
 - 🤷 [Coordination Headwind](https://komoroske.com/slime-mold/).
 
