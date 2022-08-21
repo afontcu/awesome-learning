@@ -19,7 +19,7 @@ I'll try to jot down interesting stuff I read, watch, or listen related to the t
 - [Product Management](#product-management)
 - [Agile](#agile)
 - [Kanban and Lean](#kanban-and-lean)
-- [Software Economis](#software-economics)
+- [Software Economics](#software-economics)
 - [Software Crafting](#software-crafting)
 - [Programming and Computer Science](#programming-and-computer-science)
 - [UI Design](#ui-design)
@@ -596,6 +596,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Rethinking Best Practices](https://willgallego.com/2021/08/14/rethinking-best-practices/).
 - 📝 [Practical API Design at Netflix, Part 1: Using Protobuf FieldMask](https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518).
 - 📝 [The Error Model](http://joeduffyblog.com/2016/02/07/the-error-model/).
+- 📝 [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/).
 - 📚 [Domain Modeling Made Functional](https://fsharpforfunandprofit.com/books/#domain-modeling-made-functional-ebook-and-paper).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
