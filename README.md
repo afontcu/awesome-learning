@@ -712,6 +712,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [My Amazon Reptilian Brain](https://medium.com/geekculture/my-amazon-reptilian-brain-86607f0e7193).
 - 📝 [Your migration probably isn’t failing due to insufficient staffing](https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/).
 - 📝 [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html).
+- 📝 [The Product Culture Shift](https://www.elidedbranches.com/2022/08/the-product-culture-shift.html).
 - 📚 [Tribal Leadership](https://www.triballeadership.net/book).
 - 📚 [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772).
 - 📚 [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220).
