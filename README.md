@@ -598,6 +598,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Practical API Design at Netflix, Part 1: Using Protobuf FieldMask](https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518).
 - 📝 [The Error Model](http://joeduffyblog.com/2016/02/07/the-error-model/).
 - 📝 [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/).
+- 📝 [The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html/).
 - 📚 [Domain Modeling Made Functional](https://fsharpforfunandprofit.com/books/#domain-modeling-made-functional-ebook-and-paper).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
