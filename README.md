@@ -600,6 +600,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [The Error Model](http://joeduffyblog.com/2016/02/07/the-error-model/).
 - 📝 [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/).
 - 📝 [The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html/).
+- 📝 [Comunicación con pasarelas de pago y Domain-Driven Design](https://tech.genial.ly/comunicaci%C3%B3n-con-pasarelas-de-pago-y-domain-driven-design-df54033fedf).
 - 📚 [Domain Modeling Made Functional](https://fsharpforfunandprofit.com/books/#domain-modeling-made-functional-ebook-and-paper).
 - 🤷 [Learn Data Structures for Interviews and Everyday Development](https://frontendmasters.com/courses/data-structures-interviews/).
 
