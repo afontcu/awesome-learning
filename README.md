@@ -480,6 +480,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html).
 - 📝 [The Eternal Struggle Between Business and Programmers](https://blog.thecodewhisperer.com/permalink/the-eternal-struggle-between-business-and-programmers).
 - 📝 [Software development: The art of postponing decisions](https://www.eferro.net/2022/08/software-development-art-of-postponing.html).
+- 📝 [The Art of Small Steps in Software Development: A Lean Vision](https://www.eferro.net/2023/10/the-art-of-small-steps-in-software.html).
 - 📝 [The minefield of software development](https://afontcu.dev/minefield/)  _(disclaimer: I wrote this post)_.
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
