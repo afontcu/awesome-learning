@@ -379,6 +379,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Designing early customer learning](https://medium.com/lean-startup-circle/designing-early-customer-learning-82ef92ebbd21).
 - 📝 [El Efecto Lindy inverso](https://www.estrategiadeproducto.com/p/el-efecto-lindy-inverso).
 - 📝 [Iterative and Incremental Development: we need both](https://productdeveloper.net/iterative-incremental-development).
+- 📝 [Entregar no es suficiente](https://www.estrategiadeproducto.com/p/entregar-no-es-suficiente).
 - 📚 [The Lean Startup](http://theleanstartup.com/).
 - 📚 [Zero to One](http://zerotoonebook.com/).
 - 📚 [Escaping the build trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X).
