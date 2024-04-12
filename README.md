@@ -139,6 +139,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [State Machines in React](https://gedd.ski/post/state-machines-in-react/).
 - 📝 [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks).
 - 📝 [Dependencies in custom React hooks](https://observablehq.com/@werehamster/dependencies-in-custom-react-hooks).
+- 📝 [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/).
 
 
 # CSS
