@@ -484,6 +484,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Software development: The art of postponing decisions](https://www.eferro.net/2022/08/software-development-art-of-postponing.html).
 - 📝 [The Art of Small Steps in Software Development: A Lean Vision](https://www.eferro.net/2023/10/the-art-of-small-steps-in-software.html).
 - 📝 [Buscando el Product Market Fit y Arquitectura Hexagonal](https://danilat.com/weblog/2024/01/23/hexagonal-product-market-fit).
+- 📝 [The End of Software](https://docs.google.com/document/d/103cGe8qixC7ZzFsRu5Ww2VEW5YgH9zQaiaqbBsZ1lcc).
 - 📝 [The minefield of software development](https://afontcu.dev/minefield/)  _(disclaimer: I wrote this post)_.
 - 📝 [It's all about feedback loops](https://afontcu.dev/feedback-loops/) _(disclaimer: I wrote this post)_.
 - 📝 [Beware the feedback loop](https://afontcu.dev/beware-feedback-loops/) _(disclaimer: I wrote this post)_.
