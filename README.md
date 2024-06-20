@@ -545,6 +545,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Surviving continuous deployment in distributed systems](https://www.thoughtworks.com/en-us/insights/blog/continuous-delivery/surviving-continuous-deployment-distributed-systems).
 - 📝 [Cutting software waste](https://www.juxt.pro/blog/waste/).
 - 📝 [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html).
+- 📝 [How to create software quality](https://lethain.com/quality/).
 - 📚 [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/).
 - 📚 [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/).
 - 📚 [Refactoring](https://martinfowler.com/books/refactoring.html).
