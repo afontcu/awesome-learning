@@ -236,7 +236,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [Overview of the RenderingNG architecture](https://developer.chrome.com/blog/renderingng-architecture/).
 - 📝 [Operaciones de lectura de alto rendimiento con serverless](https://tech.genial.ly/en-cualquier-aplicaci%C3%B3n-o-sistema-existen-una-serie-de-acciones-que-t%C3%ADpicamente-nos-permiten-797615db17b6/).
 - 📝 [Hydration is Pure Overhead](https://www.builder.io/blog/hydration-is-pure-overhead).
-- 📝 [No, disabling a button is not app logic. ]([https://observablehq.com/@werehamster/dependencies-in-custom-react-hooks](https://dev.to/davidkpiano/no-disabling-a-button-is-not-app-logic-598i)).
+- 📝 [No, disabling a button is not app logic](https://dev.to/davidkpiano/no-disabling-a-button-is-not-app-logic-598i).
 
 
 # Testing
