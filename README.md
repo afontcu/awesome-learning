@@ -430,6 +430,7 @@ _Disclaimer #3_: I know some resources and categories are overlapping. I know. I
 - 📝 [What Killed Waterfall could Kill Agile](https://gist.github.com/joshwand/710960).
 - 📝 [Agility ≠ Speed](https://kevlinhenney.medium.com/agility-speed-96057078fe40).
 - 📝 [Pondering Agile Principles](https://benjiweber.co.uk/blog/2022/01/30/pondering-agile-principles/).
+- 📝 [Modern Agile is Stupid: on why all great ideas are killed by simple-minded idiots, why Jira kills software, and how to be a good manager](https://medium.com/@thecodingteacher_52591/modern-agile-is-stupid-on-why-all-great-ideas-are-killed-by-simple-minded-idiots-why-jira-kills-02080b937de2).
 - 📝 [Rethinking Agile... for all business?](https://afontcu.dev/rethinking-agile/) _(disclaimer: I wrote this post)_.
 - 📚 [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development).
 
